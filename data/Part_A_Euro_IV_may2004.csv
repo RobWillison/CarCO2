@@ -1,0 +1,861 @@
+Manufacturer,Model,Description,Transmission,Engine Capacity,Fuel Type,Metric Urban (Cold),Metric Extra-Urban,Metric Combined,Imperial Urban (Cold),Imperial Extra-Urban,Imperial Combined,CO2 g/km,Fuel Cost 6000 Miles,Euro Standard,Noise Level dB(A),Emissions CO,Emissions HC+NOx,Emissions HC,Emissions NOx,Emissions Particulates,Date of change
+ALFA ROMEO,147 Range,GTA,M6,3179,Petrol,18.1,8.6,12.1,15.6,32.8,23.3,287,843,IV,74,0.4,,0,0,,27-Mar-03
+ALFA ROMEO,156 Saloon (2003) Range,2.0 JTS,M5,1970,Petrol,12.2,6.6,8.6,23.2,42.8,32.8,205,599,IV,72.5,0.5,,0.1,0.1,,08-Aug-03
+ALFA ROMEO,156 Saloon (2003) Range,2.0 JTS Selespeed,SAT5,1970,Petrol,12.2,6.6,8.6,23.2,42.8,32.8,205,599,IV,72.5,0.5,,0.1,0.1,,08-Aug-03
+ALFA ROMEO,156 Sportwagon (2003) Range,2.0 JTS Selespeed,SAT5,1970,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,212,620,IV,72.5,0.5,,0.1,0.1,,08-Aug-03
+ALFA ROMEO,156 Sportwagon (2003) Range,2.0 JTS,M5,1970,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,212,620,IV,72.5,0.5,,0.1,0.1,,08-Aug-03
+ALFA ROMEO,GT Range,3.2 V6 24v,M6,3179,Petrol,18.6,8.7,12.4,15.2,32.5,22.8,295,861,IV,74,0.3,,0,0.1,,18-Feb-04
+ALFA ROMEO,GT Range,2.0 JTS,M5,1970,Petrol,12.2,6.7,8.7,23.2,42.2,32.5,207,604,IV,73,0.5,,0.1,0.1,,18-Feb-04
+ALFA ROMEO,GT Range,2.0 JTS Selespeed,SAT5,1970,Petrol,12.2,6.7,8.7,23.2,42.2,32.5,207,604,IV,73,0.5,,0.1,0.1,,18-Feb-04
+ALFA ROMEO,Spider/GTV (2003) Range,2.0 JTS,M5,1970,Petrol,13.3,6.8,9.2,21.2,41.5,30.7,220,640,IV,72.5,0.3,,0.1,0,,08-Aug-03
+ALFA ROMEO,166 (2004) Range,3.2 V6 24v,M6,3179,Petrol,18.3,9.1,12.5,15.4,31,22.6,297,869,IV,71,0.4,,0.1,0.1,,18-Feb-04
+ASTON MARTIN LAGONDA,DB9,Coupe & Convertible,A6,5935,Petrol,24.9,11.7,16.5,11.3,24.1,17.1,394,1148,IV,74,0.5,,0.1,0,,25-Feb-04
+AUDI,"A2 (Standard, SE & Sport)",1.4 TDI (75 PS),M5,1422,Diesel,5.7,3.6,4.4,49.6,78.5,64.2,119,319,IV,72,0.1,0.2,,0.2,0,06-Aug-03
+AUDI,"A2 (Standard, SE & Sport)",1.4 (75 PS),M5,1390,Petrol,8.2,4.7,6,34.4,60.1,47.1,144,417,IV,71,0.2,,0.1,0,,20-Mar-03
+AUDI,"A2 (Standard, SE & Sport)",1.4 SE (75 PS),M5,1390,Petrol,8.3,4.8,6.1,34,58.9,46.3,146,424,IV,71,0.3,,0.1,0,,30-May-03
+AUDI,"A2 (Standard, SE & Sport)",1.6 FSI (110 PS),M5,1589,Petrol,8.2,4.8,6,34.4,58.9,47.1,144,417,IV,73,0.1,,0.1,0,,20-Mar-03
+AUDI,"A3 (S, SE, Sport) From 2003",1.6 FSI (115 PS),M6,1598,Petrol,8.8,5.4,6.6,32.1,52.3,42.8,158,459,IV,73,0.3,,0.1,0.1,,30-Jul-03
+AUDI,"A3 (S, SE, Sport) From 2003",1.6 MPI (102 PS),M5,1595,Petrol,9.8,5.7,7.2,28.8,49.6,39.2,173,501,IV,70,0.6,,0.1,0,,24-Feb-04
+AUDI,"A3 (S, SE, Sport) From 2003",2.0 FSI (150 PS),M6,1984,Petrol,10.1,5.8,7.4,28,48.7,38.2,178,514,IV,71,0.2,,0.1,0,,30-Jul-03
+AUDI,"A3 (S, SE, Sport) From 2003",1.6 FSI (115 PS),A6,1598,Petrol,9.6,5.5,7,29.4,51.4,40.4,168,486,IV,74,0.1,,0,0,,30-Jul-03
+AUDI,"A3 (S, SE, Sport) From 2003",1.9 TDI (105 PS),M5,1896,Diesel,6.9,4.4,5.3,40.9,64.2,53.3,143,384,IV,71,0,0.2,,0.2,0,06-Aug-03
+AUDI,"A3 (S, SE, Sport) From 2003",2.0 TDI (140 PS),M6,1968,Diesel,7.3,4.6,5.6,38.7,61.4,50.4,150,406,IV,71,0.3,0.3,,0.2,0,06-Aug-03
+AUDI,"A3 (S, SE, Sport) From 2003",2.0 FSI (150 PS),A6,1984,Petrol,11.4,5.9,7.9,24.8,47.9,35.8,190,549,IV,74,0.3,,0.1,0,,30-Jul-03
+AUDI,"A3 (S, SE, Sport) From 2003",1.6 MPI (102 PS),A6,1595,Petrol,11.2,5.8,7.8,25.2,48.7,36.2,187,543,IV,72,0.4,,0.1,0,,24-Feb-04
+AUDI,"A3 (S, SE, Sport) From 2003",2.0 TDI (140 PS) DSG,D6,1968,Diesel,7.4,4.9,5.8,38.2,57.6,48.7,157,420,IV,71,0.1,0.2,,0.2,0,24-Feb-04
+AUDI,A3 (quattro) From 2003,3.2 V6 quattro (250 PS) DSG,QD6,3189,Petrol,14,7.7,10,20.2,36.7,28.2,240,696,IV,72,0.4,,0,0,,21-Apr-04
+AUDI,A3 (quattro) From 2003,3.2 V6 quattro (250 PS) ,QM6,3189,Petrol,14.9,8.3,10.7,19,34,26.4,257,744,IV,72,0.4,,0,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.8T S Line (190 PS),M6,1781,Petrol,11.9,6.8,8.7,23.7,41.5,32.5,209,604,IV,72,0.5,,0,0,,16-Mar-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.8T S Line quattro (190 PS),QM6,1781,Petrol,13,7.4,9.5,21.7,38.2,29.7,228,661,IV,72,0.5,,0,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.8T (190 PS),AV,1781,Petrol,11.6,6.7,8.5,24.4,42.2,33.2,204,592,IV,73,0.4,,0,0,,16-Mar-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.8T quattro (163 PS) ,QM6,1781,Petrol,12.9,7.2,9.3,21.9,39.2,30.4,223,646,IV,71,0.5,,0,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.0 FSI (150 PS),AV,1984,Petrol,10.7,5.7,7.5,26.4,49.6,37.7,180,521,IV,73,0.2,,0,0,,01-Aug-03
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.5 V6 quattro (180 PS) ,QM6,2496,Diesel,10.7,6,7.8,26.4,47.1,36.2,211,565,IV,73,0.2,0.3,,0.2,0,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.4 V6 (170 PS),M6,2393,Petrol,14.5,7.4,10,19.5,38.2,28.2,240,696,IV,73,0.4,,0.1,0,,10-Oct-03
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.8T (163 PS),M5,1781,Petrol,11.4,6.5,8.3,24.8,43.5,34,199,578,IV,71,0.4,,0,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.8T Multitronic (163 PS),AV,1781,Petrol,11.5,6.6,8.4,24.6,42.8,33.6,202,584,IV,71,0.6,,0.1,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",3.0 V6 quattro (220 PS),QM6,2976,Petrol,15.9,8.6,11.2,17.8,32.8,25.2,269,779,IV,74,0.5,,0,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.0 FSI (150 PS),M5,1984,Petrol,10.2,5.6,7.3,27.7,50.4,38.7,175,507,IV,73,0.2,,0.1,0,,22-Jul-03
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.4 V6 Multitronic (170 PS) ,AV,2393,Petrol,13.6,7,9.4,20.8,40.4,30.1,226,652,IV,72,0.4,,0.1,0,,24-Feb-04
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.0 (130 PS),M5,1984,Petrol,11.6,6.1,8.1,24.4,46.3,34.9,194,563,IV,73,0.7,,0.1,0,,20-Mar-03
+AUDI,"A4 Saloon (Standard, SE & Sport)",2.0 Multitronic (130 PS),AV,1984,Petrol,11,6.3,8,25.7,44.8,35.3,192,556,IV,72,0.7,,0.1,0,,20-Mar-03
+AUDI,"A4 Saloon (Standard, SE & Sport)",1.6 (102 PS),M5,1595,Petrol,10.9,6.1,7.8,25.9,46.3,36.2,187,543,IV,73,0.4,,0,0,,20-Mar-03
+AUDI,"A4 Saloon (Standard, SE & Sport)",3.0 V6 quattro Tiptronic (220 PS),QA5,2976,Petrol,16.1,7.9,10.9,17.5,35.8,25.9,271,758,IV,74,0.5,,0.1,0.1,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.0 (130 PS),M5,1984,Petrol,11.6,6.1,8.1,24.4,46.3,34.9,194,563,IV,73,0.7,,0.1,0,,20-Mar-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",3.0 V6 quattro Tiptronic (220 PS),QA5,2976,Petrol,16.1,7.9,10.9,17.5,35.8,25.9,271,758,IV,74,0.5,,0.1,0.1,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.0 FSI (150 PS),M5,1984,Petrol,10.4,5.8,7.5,27.2,48.7,37.7,180,521,IV,73,0.2,,0.1,0,,22-Jul-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.4 V6 Multitronic (170 PS),AV,2393,Petrol,13.7,7.1,9.5,20.6,39.8,29.7,228,661,IV,72,0.4,,0.1,0,,16-Mar-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",3.0 V6 quattro Tiptronic (220 PS),QM6,2976,Petrol,16,8.7,11.3,17.7,32.5,25,271,786,IV,74,0.5,,0,0,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.8T Multitronic (163 PS),AV,1781,Petrol,11.5,6.6,8.4,24.6,42.8,33.6,202,584,IV,71,0.6,,0.1,0,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.8T (163 PS),M5,1781,Petrol,11.5,6.6,8.4,24.6,42.8,33.6,202,584,IV,71,0.4,,0,0,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.0 Multitronic (130 PS),AV,1984,Petrol,11,6.3,8,25.7,44.8,35.3,192,556,IV,72,0.7,,0.1,0,,20-Mar-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.5 V6 quattro (180 PS) ,QM6,2496,Diesel,10.9,6.1,8,25.9,46.3,35.3,216,580,IV,73,0.2,0.3,,0.2,0,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.8T (190 PS),AV,1781,Petrol,11.6,6.7,8.5,24.4,42.2,33.2,204,592,IV,73,0.4,,0,0,,17-Oct-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.8T quattro (163 PS) ,QM6,1781,Petrol,12.9,7.2,9.3,21.9,39.2,30.4,223,646,IV,71,0.5,,0,0,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.0 FSI (150 PS),AV,1984,Petrol,10.9,5.9,7.7,25.9,47.9,36.7,185,535,IV,73,0.2,,0,0,,01-Aug-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",2.4 V6 (170 PS),M6,2393,Petrol,14.5,7.4,10,19.5,38.2,28.2,240,696,IV,73,0.4,,0.1,0,,10-Oct-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.6 (102 PS),M5,1595,Petrol,11,6.2,7.9,25.7,45.6,35.8,190,549,IV,73,0.4,,0,0,,22-May-03
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.8T S Line (190 PS),M6,1781,Petrol,12,6.9,8.8,23.5,40.9,32.1,211,612,IV,72,0.5,,0,0,,24-Feb-04
+AUDI,"A4 Avant (Standard, SE &amp; Sport)",1.8T S Line quattro (190 PS),QM6,1781,Petrol,13.1,7.5,9.6,21.6,37.7,29.4,230,668,IV,72,0.5,,0,0,,24-Feb-04
+AUDI,"A6 Saloon (Standard, SE &amp; Sport)",1.8T 20v (150 PS),M5,1781,Petrol,11.6,6.8,8.6,24.4,41.5,32.8,206,599,IV,72,0.4,,0,0,,20-Mar-03
+AUDI,"A6 Saloon (Standard, SE &amp; Sport)",1.8T 20v Multitronic (150 PS),AV,1781,Petrol,11.9,6.9,8.7,23.7,40.9,32.5,209,604,IV,72,0.5,,0.1,0,,20-Mar-03
+AUDI,"A6 Saloon (Standard, SE &amp; Sport)",2.0 (130 PS),M5,1984,Petrol,11.9,6.6,8.5,23.7,42.8,33.2,204,592,IV,74,0.6,,0.1,0,,20-Mar-03
+AUDI,"A6 Saloon (Standard, SE &amp; Sport)",2.0 (130 PS),AV,1984,Petrol,11.4,6.8,8.5,24.8,41.5,33.2,204,592,IV,74,0.5,,0.1,0,,20-Mar-03
+AUDI,"A6 Saloon (Standard, SE &amp; Sport)",2.4 V6 (170 PS),M5,2393,Petrol,14.1,7.6,10,20,37.2,28.2,240,696,IV,72,0.2,,0,0,,20-Mar-03
+AUDI,"A6 Saloon (Standard, SE &amp; Sport)",2.4 V6 Multitronic (170 PS),AV,2393,Petrol,14.3,7.1,9.7,19.8,39.8,29.1,233,675,IV,73,0.3,,0.1,0,,20-Mar-03
+AUDI,A6 Saloon ( from June 2004 ),3.2 V6 FSI quattro (256 PS),QA6,3123,Petrol,15.8,8.2,11,17.9,34.4,25.7,264,764,IV,71,0.8,,0.1,0,,27-Feb-04
+AUDI,A6 Saloon ( from June 2004 ),2.4 V6 (177 PS),M6,2393,Petrol,14.6,7.3,10,19.3,38.7,28.2,240,696,IV,74,0.6,,0,0,,27-Feb-04
+AUDI,A6 Saloon ( from June 2004 ),3.2 V6 FSI (256 PS),M6,3123,Petrol,14.6,7.3,10,19.3,38.7,28.2,240,696,IV,73,0.8,,0.1,0,,27-Feb-04
+AUDI,A6 Saloon ( from June 2004 ),3.0 V6 TDI quattro (225 PS),QA6,2967,Diesel,12,6.5,8.5,23.5,43.5,33.2,229,616,IV,70,0.2,0.2,,0.2,0,27-Feb-04
+AUDI,A6 Saloon ( from June 2004 ),4.2 V8 quattro (335 PS),QA6,4163,Petrol,16.7,9,11.8,16.9,31.4,23.9,283,822,IV,73,0.4,,0.1,0,,27-Feb-04
+AUDI,"A6 Avant (Standard, SE &amp; Sport)",1.8T 20v (150 PS),M5,1781,Petrol,11.6,6.8,8.6,24.4,41.5,32.8,206,599,IV,72,0.4,,0,0,,20-Mar-03
+AUDI,"A6 Avant (Standard, SE &amp; Sport)",1.8T 20v Multitronic (150 PS),AV,1781,Petrol,11.9,6.9,8.7,23.7,40.9,32.5,209,604,IV,72,0.5,,0.1,0,,20-Mar-03
+AUDI,"A6 Avant (Standard, SE &amp; Sport)",2.0 Multitronic (130 PS),AV,1984,Petrol,11.4,6.8,8.5,24.8,41.5,33.2,204,592,IV,74,0.5,,0.1,0,,20-Mar-03
+AUDI,"A6 Avant (Standard, SE &amp; Sport)",2.4 V6 (170 PS),M5,2393,Petrol,14.2,7.7,10.1,19.9,36.7,28,242,701,IV,72,0.2,,0,0,,20-Mar-03
+AUDI,"A6 Avant (Standard, SE &amp; Sport)",2.4 V6 Multitronic (170 PS),AV,2393,Petrol,14.4,7.2,9.8,19.6,39.2,28.8,235,682,IV,73,0.3,,0.1,0,,20-Mar-03
+AUDI,"A6 Avant (Standard, SE &amp; Sport)",2.0 (130 PS),M5,1984,Petrol,12.1,6.8,8.7,23.3,41.5,32.5,209,604,IV,74,0.6,,0.1,0,,20-Mar-03
+AUDI,A6 Saloon  (SE & Sport),3.0 V6 quattro (220 PS),QM6,2976,Petrol,16.1,8.7,11.4,17.5,32.5,24.8,274,792,IV,74,0.5,,0,0,,16-Mar-04
+AUDI,A6 Saloon  (SE & Sport),3.0 V6 quattro Tiptronic (220 PS),QA5,2976,Petrol,16.6,8.4,11.4,17,33.6,24.8,274,792,IV,73,0.3,,0,0,,16-Mar-04
+AUDI,A6 Avant  (SE & Sport),3.0 V6 quattro (220 PS),QM6,2976,Petrol,16.1,8.7,11.4,17.5,32.5,24.8,274,792,IV,74,0.5,,0,0,,16-Mar-04
+AUDI,A6 Avant  (SE & Sport),3.0 V6 quattro Tiptronic (220 PS),QA5,2976,Petrol,16.8,8.5,11.5,16.8,33.2,24.6,276,798,IV,73,0.3,,0,0,,16-Mar-04
+AUDI,A8 ,4.2 V8 quattro (335 PS),QA6,4172,Petrol,17.7,8.9,12.1,16,31.7,23.3,290,843,IV,73,0.4,,0,0,,24-Feb-04
+AUDI,A8 ,3.7 quattro (270 PS),QA6,3697,Petrol,17.3,8.8,11.9,16.3,32.1,23.7,286,829,IV,73,0.7,,0.1,0,,24-Feb-04
+AUDI,A8 ,6.0 W12 quattro (450 PS) LWB,QA6,5998,Petrol,20.7,10.1,14,13.6,28,20.2,336,972,IV,73,0.8,,0.1,0,,24-Feb-04
+AUDI,A8 ,4.2 V8 quattro (335 PS) LWB,QA6,4172,Petrol,17.7,8.9,12.1,16,31.7,23.3,290,843,IV,73,0.4,,0,0,,24-Feb-04
+AUDI,A8 ,3.0 TDI quattro (233 PS),QA6,2967,Diesel,12.2,6.6,8.6,23.2,42.8,32.8,231,624,IV,69,0.3,0.2,,0.2,0,24-Feb-04
+AUDI,A8 ,3.0 V6 (220 PS),AV,2976,Petrol,13.8,7.3,9.7,20.5,38.7,29.1,233,675,IV,74,0.3,,0.1,0,,25-Feb-04
+AUDI,A8 ,3.0 V6 (220 PS) LWB,AV,2976,Petrol,13.8,7.3,9.7,20.5,38.7,29.1,233,675,IV,74,0.3,,0.1,0,,25-Feb-04
+AUDI,A8 ,6.0 W12 quattro (450 PS),QA6,5998,Petrol,21.5,10.9,14.8,13.1,25.9,19.1,355,1028,IV,72,0.7,,0.1,0,,27-Feb-04
+AUDI,Audi Allroad ,4.2 V8 quattro (300 PS),QA5,4172,Petrol,20.1,10.2,13.8,14.1,27.7,20.5,331,958,IV,73,0.2,,0,0,,25-Feb-04
+AUDI,Audi Allroad ,2.7 V6 Turbo quattro (250 PS)(Low & High Ratio Transmission),QM6,2671,Petrol,18.1,9.9,12.9,15.6,28.5,21.9,310,897,IV,73,0.3,,0,0.1,,16-Mar-04
+AUDI,Audi Allroad ,2.7 V6 Turbo quattro Tiptronic (250 PS),QA5,2671,Petrol,19.3,9.8,13.3,14.6,28.8,21.2,319,926,IV,70,0.3,,0.1,0,,16-Mar-04
+AUDI,Audi 'S' Series,S4 4.2 V8 quattro Saloon (344 PS),QM6,4163,Petrol,19.6,9.8,13.4,14.4,28.8,21.1,322,931,IV,74,0.4,,0,0,,16-Mar-04
+AUDI,Audi 'S' Series,S4 4.2 V8 quattro Avant (344 PS),QM6,4163,Petrol,19.7,9.9,13.5,14.3,28.5,20.9,324,940,IV,74,0.4,,0,0,,16-Mar-04
+AUDI,Audi TT (Coupé),3.2 V6 quattro (250 PS) DSG,D6,3189,Petrol,13.7,7.7,9.9,20.6,36.7,28.5,238,689,IV,74,0.7,,0.1,0,,24-Feb-04
+AUDI,Audi TT (Roadster),1.8 T (150 PS),M5,1781,Petrol,11,6.5,8.3,25,43.5,34,199,578,IV,71,0.6,,0,0,,24-Feb-04
+AUDI,Audi Cabriolet,1.8T quattro (163 PS) ,QM6,1781,Petrol,13,7.5,9.5,21.7,37.7,29.7,228,661,IV,71,0.5,,0,0,,16-Mar-04
+AUDI,Audi Cabriolet,3.0 V6 (220 PS),M6,2976,Petrol,14.5,7.4,10,19.5,38.2,28.2,240,696,IV,72,0.7,,0.1,0,,01-Aug-03
+AUDI,Audi Cabriolet,3.0 V6 quattro (220 PS) ,QA5,2976,Petrol,16.6,8.3,11.4,17,34,24.8,274,792,IV,74,0.4,,0.1,0.1,,16-Mar-04
+AUDI,Audi Cabriolet,2.4 V6 (170 PS),M6,2393,Petrol,14.5,7.4,10,19.5,38.2,28.2,240,696,IV,73,0.4,,0,0,,28-Jan-04
+AUDI,Audi Cabriolet,3.0 V6 quattro (220 PS) ,QM6,2976,Petrol,15.9,8.5,11.2,17.8,33.2,25.2,269,779,IV,74,0.8,,0.1,0,,16-Mar-04
+AUDI,Audi Cabriolet,2.5 V6 (163 PS),M6,2496,Diesel,10.1,5.8,7.3,28,48.7,38.7,196,529,IV,74,0.2,0.3,,0.2,0,06-Aug-03
+AUDI,Audi Cabriolet,2.5 V6 (163 PS),AV,2496,Diesel,9.5,6.1,7.3,29.7,46.3,38.7,197,529,IV,72,0.2,0.2,,0.2,0,06-Aug-03
+AUDI,Audi Cabriolet,2.4 V6 Multitronic (170 PS) ,AV,2393,Petrol,13.7,7.5,9.7,20.6,37.7,29.1,233,675,IV,71,0.3,,0.1,0,,20-Mar-03
+AUDI,Audi Cabriolet,3.0 V6 Multitronic (220 PS) ,AV,2976,Petrol,13.9,7.4,9.8,20.3,38.2,28.8,235,682,IV,72,0.4,,0.1,0,,20-Mar-03
+AUDI,Audi Cabriolet,1.8 T (163 PS),AV,1781,Petrol,11.7,6.8,8.6,24.1,41.5,32.8,206,599,IV,71,0.5,,0,0,,25-Feb-04
+AUDI,Audi Cabriolet,1.8 T (163 PS),M5,1781,Petrol,11.8,6.9,8.7,23.9,40.9,32.5,208,604,IV,71,0.4,,0,0,,25-Feb-04
+BENTLEY MOTORS ,Bentley,Continental GT,QA6,5998,Petrol,26.2,11.9,17.1,10.8,23.7,16.5,410,1190,IV,72,0.3,,0.1,0,,16-Mar-04
+BENTLEY MOTORS ,Bentley,Arnage T,A4,6761,Petrol,30.7,14.8,20.6,9.2,19.1,13.7,495,1433,IV,73,,,,,,15-May-03
+BENTLEY MOTORS ,Bentley,Arnage R,A4,6761,Petrol,30.7,14.8,20.6,9.2,19.1,13.7,495,1433,IV,73,,,,,,15-May-03
+BENTLEY MOTORS ,Bentley,Arnage RL,A4,6761,Petrol,30.7,14.8,20.6,9.2,19.1,13.7,495,1433,IV,73,,,,,,15-May-03
+BMW,3 Series E46,320 Cd Coupé,M6,1995,Diesel,7.9,4.5,5.7,35.8,62.8,49.6,153,412,IV,73,0.1,0.2,,0.2,0,11-Sep-03
+BMW,3 Series E46,320 td Compact,M6,1995,Diesel,7.9,4.5,5.7,35.8,62.8,49.6,153,412,IV,74,0.1,0.2,0,0.2,0,16-Mar-04
+BMW,3 Series E46,320d Saloon,M6,1995,Diesel,7.9,4.5,5.7,35.8,62.8,49.6,153,412,IV,73,0.1,0.2,0,0.2,0,16-Mar-04
+BMW,3 Series E46,320d Touring,M6,1995,Diesel,8.1,4.7,5.9,34.9,60.1,47.9,158,427,IV,73,0.1,0.2,0,0.2,0,16-Mar-04
+BMW,3 Series E46,330cd Coupé,M6,2993,Diesel,9.1,5.2,6.6,31,54.3,42.8,177,478,IV,74,0.3,0.2,,0.2,0,17-Feb-04
+BMW,3 Series E46,330d Touring (from March 2004 production),M6,2993,Diesel,9.4,5.3,6.8,30.1,53.3,41.5,182,493,IV,74,0.3,0.2,,0.2,0,17-Feb-04
+BMW,3 Series E46,330d Saloon (from March 2004 production),M6,2993,Diesel,9.1,5.2,6.6,31,54.3,42.8,177,478,IV,74,0.3,0.2,,0.2,0,17-Feb-04
+BMW,3 Series E46,318d Saloon,M5,1995,Diesel,7.6,4.5,5.6,37.2,62.8,50.4,151,406,IV,73,0.1,0.2,,0.2,0,17-Feb-04
+BMW,3 Series E46,318d Touring,M5,1995,Diesel,7.8,4.7,5.8,36.2,60.1,48.7,156,420,IV,73,0.1,0.2,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,525d Saloon,M6,2497,Diesel,9.3,5.3,6.7,30.4,53.3,42.2,179,485,IV,74,0.3,0.3,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,525d Saloon,A6,2497,Diesel,10.6,6.2,7.8,26.6,45.6,36.2,208,565,IV,70,0.1,0.3,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,525d Touring,M6,2497,Diesel,9.7,5.6,7,29.1,50.4,40.4,187,506,IV,74,0.3,0.3,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,530d Touring,M6,2993,Diesel,9.9,5.8,7.2,28.5,48.7,39.2,192,522,IV,74,0.2,0.2,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,530d Touring,A6,2993,Diesel,11.1,6.4,8,25.4,44.1,35.3,213,580,IV,73,0.1,0.2,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,530d Saloon (from March 2004 production),M6,2993,Diesel,9.5,5.5,6.9,29.7,51.4,40.9,184,500,IV,74,0.2,0.2,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,530d Saloon (from March 2004 production),A6,2993,Diesel,10.8,6.1,7.8,26.2,46.3,36.2,208,565,IV,73,0.1,0.2,,0.2,0,17-Feb-04
+BMW,5 Series E60/E61,525d Touring,A6,2497,Diesel,10.9,6.5,8,25.9,43.5,35.3,213,580,IV,70,0.1,0.3,,0.2,0,17-Feb-04
+CITROEN,C3,C3 1.4 HDi L,M5,1398,Diesel,5.3,3.8,4.4,53.3,74.3,64.2,115,319,IV,71.9,0.2,0.3,,0.2,0,18-Mar-04
+DAIHATSU,YRV,M201 1.3L EFi (From VIN 512165),M5,1298,Petrol,7.8,5.1,6.1,36.2,55.4,46.3,145,424,IV,70.4,0.5,0.1,0,0,,16-Mar-04
+DAIHATSU,Charade,L251 1.0L EFi,M5,989,Petrol,6,4.1,4.8,47.1,68.9,58.9,114,333,IV,70.2,0.4,0.1,0,0,,16-Mar-04
+DAIHATSU,Charade,L251 1.0L EFi,A4,989,Petrol,7.3,5.1,5.9,38.7,55.4,47.9,140,410,IV,67.2,0.3,,0,0,,17-Mar-04
+DAIHATSU,Copen,L880 660cc EFi,M5,660,Petrol,7.9,5.6,6.4,35.8,50.4,44.1,151,445,IV,71.6,1.4,,0.1,0,,07-Apr-04
+FIAT,New Panda,1.2 Dualogic,A/SAT5,1242,Petrol,6.8,4.6,5.4,41.5,61.4,52.3,127,376,IV,71,0.6,,0.1,0.1,,09-Jan-04
+FIAT,New Punto (2003) Range,1.3 16v MultiJet Dualogic,A/SAT5,1248,Diesel,5.4,3.8,4.4,52.3,74.3,64.2,117,319,IV,73,0.2,0.3,,0.2,0,29-Jan-04
+FIAT,New Punto (2003) Range,1.2 8v Dualogic,A/SAT5,1242,Petrol,6.8,4.7,5.5,41.5,60.1,51.4,130,382,IV,72,0.3,,0.1,0,,06-Apr-04
+FIAT,New Punto (2003) Range,1.4 16v Sporting,M6,1368,Petrol,8.8,5.3,6.6,32.1,53.3,42.8,156,459,IV,70.5,0.6,,0,0,,16-Mar-04
+FIAT,New Punto (2003) Range,1.3 16v MultiJet,M5,1248,Diesel,5.6,3.9,4.5,50.4,72.4,62.8,119,326,IV,73,0.2,0.2,,0.2,0,18-Feb-04
+FIAT,New Punto (2003) Range,1.4 16v,M5,1368,Petrol,7.8,5.1,6.1,36.2,55.4,46.3,145,424,IV,74,0.6,,0.1,0,,16-Mar-04
+FIAT,New Punto (2003) Range,1.8 16v HGT,M5,1747,Petrol,11.5,6.4,8.3,24.6,44.1,34,197,578,IV,73,0.6,,0.1,0.1,,16-Mar-04
+FIAT,Stilo Range,1.4 16v 3 door,M6,1368,Petrol,8.2,5.5,6.5,34.4,51.4,43.5,153,451,IV,74,0.5,,0.1,0,,29-Jan-04
+FIAT,Stilo Range,1.4 16v 5 door,M6,1368,Petrol,8.5,5.7,6.7,33.2,49.6,42.2,160,465,IV,74,0.5,,0.1,0,,29-Jan-04
+FIAT,Stilo Range,1.8 16v 3 door,M5,1747,Petrol,11.3,6.1,8,25,46.3,35.3,190,556,IV,72,0.3,,0,0,,06-Apr-04
+FIAT,Stilo Range,1.8 16v 5 door,M5,1747,Petrol,11.5,6.2,8.1,24.6,45.6,34.9,194,563,IV,72,0.3,,0,0,,06-Apr-04
+FIAT,Stilo Multi Wagon Range,1.8 16v,M5,1747,Petrol,11.7,6.3,8.3,24.1,44.8,34,197,578,IV,72,0.3,,0,0,,06-Apr-04
+FORD,Fiesta Pre-2004½ Model Year,1.4i 3 & 5 Door (15/16 inch tyre),ASM  ,1388,Petrol,8.5,5.6,6.6,32.8,50.4,42.8,157,459,IV,71,0.4,,0.1,0,,16-Mar-04
+FORD,Fiesta Pre-2004½ Model Year,1.4i 3 & 5 Door (14 inch tyre),ASM  ,1388,Petrol,8.3,5.2,6.3,34,54.3,44.8,150,438,IV,71,0.4,,0.1,0,,16-Mar-04
+FORD,Fiesta 2004½ Model Year Onwards,1.4i 16V 3/5 Door Saloon,ASM  ,1388,Petrol,8.3,5.3,6.4,34,53.3,44.1,152,445,IV,71,0.2,,0,0.1,,19-Feb-04
+FORD,Fiesta 2004½ Model Year Onwards,1.6i 16V 3/5 Door Saloon (4.25 FDR),M5,1596,Petrol,9.1,5.2,6.6,31,54.3,42.8,156,459,IV,71,0.2,,0.1,0.1,,19-Feb-04
+FORD,Fiesta 2004½ Model Year Onwards,1.6i 16V 3/5 Door Saloon (4.06 FDR),M5,1596,Petrol,9.5,5.7,7.1,29.7,49.6,39.8,168,493,IV,71,0.2,,0,0,,19-Feb-04
+FORD,Fiesta 2004½ Model Year Onwards,1.6i 16V 3/5 Door Saloon,A4,1596,Petrol,10.4,5.9,7.5,27.2,47.9,37.7,179,521,IV,70,0.5,,0.1,0.1,,19-Feb-04
+FORD,Fusion Pre-2004½ Model Year,1.4i Fusion 2 & 3,ASM  ,1388,Petrol,8.5,5.5,6.6,33.2,51.4,42.8,157,459,IV,71,0.4,,0.1,0,,23-Feb-04
+FORD,Fusion Pre-2004½ Model Year,1.4i Fusion 1,ASM  ,1388,Petrol,8.3,5.4,6.4,34,52.3,44.1,153,445,IV,71,0.4,,0.1,0,,05-Nov-03
+FORD,Fusion Plus Pre-2004½ Model Year ,1.4i,ASM  ,1388,Petrol,8.6,5.7,6.8,32.8,49.6,41.5,161,473,IV,71,0.4,,0.1,0,,03-Nov-03
+FORD,Fusion 2004½ Model Year Onwards,1.4i 16V (15 inch tyre),ASM  ,1388,Petrol,8.4,5.5,6.5,33.6,51.4,43.5,154,451,IV,71,0.2,,0,0.1,,23-Feb-04
+FORD,Fusion 2004½ Model Year Onwards,1.4i 16V (16 inch tyre),ASM  ,1388,Petrol,8.5,5.5,6.6,33.2,51.4,42.8,157,459,IV,71,0.2,,0,0.1,,23-Feb-04
+FORD,Fusion 2004½ Model Year Onwards,1.6i 16V (15 inch tyre),A4,1596,Petrol,10.4,6.1,7.7,27.2,46.3,36.7,184,535,IV,70,0.5,,0.1,0.1,,23-Feb-04
+FORD,Fusion 2004½ Model Year Onwards,1.6i 16V (16 inch tyre),A4,1596,Petrol,10.4,6.3,7.8,27.2,44.8,36.2,186,543,IV,70,0.5,,0.1,0.1,,23-Feb-04
+FORD,Focus Pre-2004½ Model Year,2.0i 16V 4 Door Saloon ,A4,1988,Petrol,13,7.3,9.4,21.7,38.7,30.1,222,652,IV,72,0.7,,0.1,0.1,,03-Nov-03
+FORD,Focus Pre-2004½ Model Year,2.0i 16V 5 Door Saloon/Estate ,A4,1988,Petrol,13.1,7.3,9.4,21.6,38.7,30.1,222,652,IV,72,0.7,,0.1,0.1,,03-Nov-03
+FORD,Focus Pre-2004½ Model Year,2.0i 16V ST170 3/5 Door Saloon,M6,1988,Petrol,12,6.9,8.8,23.5,40.9,32.1,212,612,IV,73,0.1,,0.1,0.1,,03-Nov-03
+FORD,Focus 2004½ Model Year Onwards,2.0i 16V ST170 Saloon/Estate,M6,1988,Petrol,12,6.9,8.8,23.5,40.9,32.1,212,612,IV,73,0.1,,0.1,0.1,,23-Feb-04
+FORD,Focus 2004½ Model Year Onwards,2.0i 16V 4 Door Saloon,A4,1988,Petrol,13,7.3,9.4,21.7,38.7,30.1,222,652,IV,72,0.7,,0.1,0.1,,23-Feb-04
+FORD,Focus 2004½ Model Year Onwards,2.0i 16V Estate,A4,1988,Petrol,13.1,7.3,9.4,21.6,38.7,30.1,222,652,IV,72,0.7,,0.1,0.1,,23-Feb-04
+FORD,Focus 2004½ Model Year Onwards,2.0i 16V 3/5 Door Saloon,A4,1988,Petrol,13.1,7.3,9.4,21.6,38.7,30.1,222,652,IV,72,0.7,,0.1,0.1,,23-Feb-04
+FORD,Focus C-Max,2.0 TDCi,M6,1997,Diesel,7.6,4.8,5.8,37.2,58.9,48.7,154,420,IV,72,0.1,0.2,,0.2,0,23-Feb-04
+FORD,Focus C-Max,1.6i 16V,M5,1596,Petrol,8.9,5.7,6.9,31.7,49.6,40.9,166,480,IV,70,0.5,,0.1,0.1,,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,1.8i SCi 16V 4/5 Door Saloon (16 inch tyre),M6,1798,Petrol,9.9,5.7,7.2,28.5,49.6,39.2,173,501,IV,70,0.2,,0.1,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,1.8i SCi 16V Estate (17 inch tyre),M6,1798,Petrol,10.2,6.1,7.6,27.7,46.3,37.2,183,528,IV,70,0.2,,0.1,0,,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,2.0i 16V 4/5 Door Saloon (16 inch tyre),A4,1999,Petrol,12.6,7.2,9.1,22.4,39.2,31,218,634,IV,70,0.1,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0i 16V Estate (16 inch tyre),A4,1999,Petrol,12.7,7.3,9.2,22.2,38.7,30.7,221,640,IV,70,0.1,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0i 16V Estate (18 inch tyre),A4,1999,Petrol,13,7.7,9.5,21.7,36.7,29.7,229,661,IV,70,0.1,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 4/5 Door Saloon (17 inch tyre),M6,2495,Petrol,15.1,7.6,10.3,18.7,37.2,27.4,247,717,IV,72,0.1,,0,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 4/5 Door Saloon (18 inch tyre),M6,2495,Petrol,15.3,7.8,10.5,18.5,36.2,26.9,252,730,IV,72,0.1,,0,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 Estate (17 inch tyre),M6,2495,Petrol,15.2,7.8,10.5,18.6,36.2,26.9,251,730,IV,72,0.1,,0,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 4/5 Door Saloon (17 inch tyre),A5,2495,Petrol,15.2,7.5,10.3,18.6,37.7,27.4,248,717,IV,73,0.7,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 Estate (18 inch tyre),A5,2495,Petrol,15.6,8,10.8,18.1,35.3,26.2,259,750,IV,73,0.7,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,3.0i V6 ST220 4/5 Door Saloon,M6,2967,Petrol,14.5,8,10.2,19.5,35.3,27.7,249,709,IV,72,0.4,,0,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0 TDCi (130PS) Estate (16 inch tyre),M6,1998,Diesel,8.3,5,6.2,34,56.5,45.6,163,449,IV,72,0.1,0.2,,0.2,0,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,2.0 TDCi (130PS) Estate (17 inch tyre),M6,1998,Diesel,8.4,5.1,6.3,33.6,55.4,44.8,167,457,IV,72,0.1,0.2,,0.2,0,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,1.8i SCi 16V 4/5 Door Saloon (17 inch tyre),M6,1798,Petrol,10,5.9,7.4,28.2,47.9,38.2,178,514,IV,70,0.2,,0.1,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,1.8i SCi 16V 4/5 Door Saloon (18 inch tyre),M6,1798,Petrol,10.2,6.1,7.7,27.7,46.3,36.7,186,535,IV,70,0.2,,0.1,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,1.8i SCi 16V Estate (16 inch tyre),M6,1798,Petrol,10.1,5.9,7.4,28,47.9,38.2,179,514,IV,70,0.2,,0.1,0,,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,1.8i SCi 16V Estate (18 inch tyre),M6,1798,Petrol,10.4,6.3,7.9,27.2,44.8,35.8,191,549,IV,70,0.2,,0.1,0,,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,2.0i 16V 4/5 Door Saloon (17 inch tyre),A4,1999,Petrol,12.7,7.3,9.2,22.2,38.7,30.7,221,640,IV,70,0.1,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0i 16V 4/5 Door Saloon (18 inch tyre),A4,1999,Petrol,12.9,7.5,9.4,21.9,37.7,30.1,227,652,IV,70,0.1,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0i 16V Estate (17 inch tyre),A4,1999,Petrol,12.8,7.4,9.3,22.1,38.2,30.4,223,646,IV,70,0.1,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 Estate (18 inch tyre),M6,2495,Petrol,15.4,8,10.7,18.3,35.3,26.4,256,744,IV,72,0.1,,0,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 4/5 Door Saloon (18 inch tyre),A5,2495,Petrol,15.4,7.8,10.6,18.3,36.2,26.6,253,738,IV,73,0.7,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.5i V6 Estate (17 inch tyre),A5,2495,Petrol,15.4,7.8,10.6,18.3,36.2,26.6,253,738,IV,73,0.7,,0.1,0.1,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0 TDCi (130PS) 4/5 Door Saloon (17 inch tyre),M6,1998,Diesel,8.2,4.9,6.1,34.4,57.6,46.3,161,442,IV,72,0.1,0.2,,0.2,0,23-Feb-04
+FORD,Mondeo Pre-2004½ Model Year,3.0i V6 ST220 Estate,M6,2967,Petrol,14.6,8.2,10.6,19.3,34.4,26.6,254,738,IV,72,0.4,,0,0,,03-Nov-03
+FORD,Mondeo Pre-2004½ Model Year,2.0 TDCi (130PS) 4/5 Door Saloon (16 inch tyre),M6,1998,Diesel,8.1,4.8,6,34.9,58.9,47.1,159,434,IV,72,0.1,0.2,,0.2,0,23-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,1.8i SCi 16V 4/5 Door Saloon,M6,1798,Petrol,9.9,5.7,7.2,28.5,49.6,39.2,173,501,IV,70,0.2,,0.1,0,,23-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,3.0i V6 24V ST220 4/5 Door Saloon,M6,2967,Petrol,14.5,8,10.4,19.5,35.3,27.2,249,722,IV,72,0.4,,0,0,,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.5i V6 24V 4/5 Door Saloon,M6,2495,Petrol,15,7.5,10.2,18.8,37.7,27.7,244,709,IV,72,0.1,,0,0,,13-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.5i V6 24V 4/5 Door Saloon,A5,2495,Petrol,15.1,7.4,10.2,18.7,38.2,27.7,244,709,IV,73,0.7,,0.1,0.1,,13-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0i 16V 4/5 Door Saloon,A4,1999,Petrol,12.6,7.2,9.1,22.4,39.2,31,218,634,IV,70,0.2,,0.1,0.1,,25-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0 TDCi (115PS) 4/5 Door Saloon,M6,1998,Diesel,8.1,4.8,6,34.9,58.9,47.1,159,434,IV,71,0.1,0.2,,0.2,0,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0 TDCi (130PS) 4/5 Door Saloon,M6,1998,Diesel,8.1,4.8,6,34.9,58.9,47.1,159,434,IV,71,0.1,0.2,,0.2,0,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,1.8i SCi 16V Estate,M6,1798,Petrol,10.1,5.9,7.4,28,47.9,38.2,179,514,IV,70,0.2,,0.1,0,,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0 TDCi (115PS) Estate,M5,1998,Diesel,7.8,4.8,5.9,36.2,58.9,47.9,157,427,IV,71,0.1,0.2,,0.2,0,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0 TDCi (115PS) Estate,M6,1998,Diesel,8.3,5,6.2,34,56.5,45.6,163,449,IV,71,0.1,0.2,,0.2,0,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0 TDCi (130PS) Estate,M6,1998,Diesel,8.3,5,6.2,34,56.5,45.6,163,449,IV,71,0.1,0.2,,0.2,0,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.5i V6 24V Estate,M6,2495,Petrol,15.1,7.7,10.4,18.7,36.7,27.2,249,722,IV,72,0.1,,0,0,,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.5i V6 24V Estate,A5,2495,Petrol,15.3,7.7,10.5,18.5,36.7,26.9,251,730,IV,73,0.7,,0.1,0.1,,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,3.0i V6 24V ST220 Estate,M6,2967,Petrol,14.6,8.2,10.6,19.3,34.4,26.6,254,738,IV,72,0.4,,0,0,,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0 TDCi (115PS) 4/5 Door Saloon,M5,1998,Diesel,7.7,4.6,5.8,36.7,61.4,48.7,154,420,IV,71,0.1,0.2,,0.2,0,16-Feb-04
+FORD,Mondeo 2004&#189; Model Year Onwards,2.0i 16V Estate,A4,1999,Petrol,12.7,7.3,9.2,22.2,38.7,30.7,221,640,IV,70,0.2,,0.1,0.1,,16-Feb-04
+FORD,Galaxy,2.3i 16V,M5,2295,Petrol,14,7.8,10.1,20.2,36.2,28,242,701,IV,74,0.4,,0,0,,03-Nov-03
+FORD,Galaxy,2.3i 16V ,A4,2295,Petrol,15.1,8.6,11,18.7,32.8,25.7,264,764,IV,74,0.4,,0.1,0,,03-Nov-03
+FORD,Galaxy,2.8i CD-V6,M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,750,IV,73,0.3,,0.1,0.1,,01-Jul-01
+FORD,Galaxy,2.8i CD-V6,A5,2792,Petrol,16.8,9.2,12,16.8,30.7,23.5,288,836,IV,73,0.4,,0.1,0,,01-Jul-01
+HONDA,Accord 4 Door ,2.0 i-VTEC Executive ,SS5,1998,Petrol,11.8,6.3,8.3,23.9,44.8,34,196,578,IV,70.9,0.3,,0.1,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.4 i-VTEC Type-S ,M6,2354,Petrol,12.7,6.9,9,22.2,40.9,31.4,214,625,IV,72.3,0.6,,0,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.4 i-VTEC Executive ,SS5,2354,Petrol,13.7,6.9,9.4,20.6,40.9,30.1,223,652,IV,69.3,0.4,,0.1,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.0 i-VTEC SE ,5MT,1998,Petrol,10.1,5.9,7.4,28,47.9,38.2,176,514,IV,70.8,0.4,,0,0,,28-May-03
+HONDA,Accord 4 Door ,2.0 i-VTEC SE ,SS5,1998,Petrol,11.3,6.1,8,25,46.3,35.3,189,556,IV,70.9,0.4,,0.1,0,,28-May-03
+HONDA,Accord 4 Door ,2.0 i-VTEC Sport ,5MT,1998,Petrol,10.7,6.5,8,26.4,43.5,35.3,190,556,IV,71.9,0.4,,0,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.0 i-VTEC Sport ,SS5,1998,Petrol,11.9,6.4,8.4,23.7,44.1,33.6,200,584,IV,70.9,0.3,,0,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.0 i-VTEC Executive ,5MT,1998,Petrol,10.3,6.2,7.7,27.4,45.6,36.7,182,535,IV,71.9,0.5,,0.1,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.4 i-VTEC Executive,M6,2354,Petrol,12.8,6.9,9.1,22.1,40.9,31,216,634,IV,72.3,0.5,,0,0,,02-Feb-04
+HONDA,Accord 4 Door ,2.2 i-CTDi Sport (2004YM),5MT,2204,Diesel,7.1,4.5,5.4,42.2,61.4,52.3,143,391,IV,72.2,0.2,0.2,,0.2,0,16-Mar-04
+HONDA,Accord 4 Door ,2.2 i-CTDi Executive (2004YM),5MT,2204,Diesel,7.1,4.5,5.4,42.2,61.4,52.3,143,391,IV,72.2,0.2,0.2,,0.2,0,16-Mar-04
+HONDA,Accord Tourer ,2.2 i-CTDi Sport (2004YM),5MT,2204,Diesel,7.5,4.8,5.8,37.7,58.9,48.7,153,420,IV,72.3,0.2,0.2,,0.2,0,16-Mar-04
+HONDA,Accord Tourer ,2.2 i-CTDi Executive (2004YM),5MT,2204,Diesel,7.5,4.8,5.8,37.7,58.9,48.7,153,420,IV,72.3,0.2,0.2,,0.2,0,16-Mar-04
+HONDA,Accord Tourer ,2.0 i-VTEC SE,5MT,1998,Petrol,10.9,6.8,8.3,25.9,41.5,34,196,578,IV,73.1,0.3,,0,0,,08-Apr-03
+HONDA,Accord Tourer ,2.0 i-VTEC SE,SS5,1998,Petrol,12.5,6.7,8.8,22.6,42.2,32.1,209,612,IV,72.1,0.3,,0.1,0,,08-Apr-03
+HONDA,Accord Tourer ,2.0 i-VTEC Executive,5MT,1998,Petrol,10.9,6.8,8.3,25.9,41.5,34,196,578,IV,73.1,0.3,,0,0,,08-Apr-03
+HONDA,Accord Tourer ,2.4 i-VTEC Executive,M6,2354,Petrol,13.4,7.7,9.8,21.1,36.7,28.8,232,682,IV,72.6,0.7,,0,0,,08-Apr-03
+HONDA,Accord Tourer ,2.0 i-VTEC Executive,SS5,1998,Petrol,12.6,6.8,8.9,22.4,41.5,31.7,211,620,IV,72.1,0.3,,0.1,0,,08-Apr-03
+HONDA,Accord Tourer ,2.4 i-VTEC Type-S,M6,2354,Petrol,13.3,7.7,9.7,21.2,36.7,29.1,230,675,IV,72.6,0.5,,0,0,,08-Apr-03
+HONDA,Accord Tourer ,2.4 i-VTEC Executive,SS5,2354,Petrol,14.3,7.5,10,19.8,37.7,28.2,237,696,IV,71.7,0.5,,0.1,0,,08-Apr-03
+HONDA,Civic 4 Door,IMA Executive,5MT,1339,Pet Hybrid,6,4.3,4.9,47.1,65.7,57.6,116,0,IV,71.6,0.3,,0,0,,16-Mar-04
+HONDA,Civic 5 Door ,Type S 2.0 VSA (2004YM),5MT,1998,Petrol,10.1,6.1,7.5,28,46.3,37.7,179,521,IV,72,0.5,,0.1,0,,16-Mar-04
+JAGUAR CARS,Jaguar X Type,2.5 Estate,M5,2497,Petrol,13.8,7.3,9.7,20.5,38.5,29,239,677,IV,74,0.2,,0,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,3.0 Estate,M5,2967,Petrol,14.9,7.8,10.4,19,36.4,27.3,249,719,IV,74,0.4,,0,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,2.5 Estate,A5,2497,Petrol,15.2,7.7,10.4,18.6,36.9,27.1,249,725,IV,71,0.6,,0,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,3.0 Estate,A5,2967,Petrol,15.2,7.9,10.6,18.5,35.9,26.6,254,738,IV,72,0.3,,0.1,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,2.5 Saloon,A5,2497,Petrol,15,7.6,10.3,18.9,37.3,27.5,244,714,IV,71,0.6,,0,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,2.5 Saloon,M5,2497,Petrol,13.6,7.2,9.6,20.7,39,29.5,234,666,IV,74,0.2,,0,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,3.0 Saloon,A5,2967,Petrol,15.1,7.8,10.5,18.7,36.4,27,249,727,IV,72,0.3,,0.1,0,,17-Mar-04
+JAGUAR CARS,Jaguar X Type,3.0 Saloon,M5,2967,Petrol,14.8,7.7,10.3,19.1,36.8,27.5,244,714,IV,74,0.4,,0,0,,17-Mar-04
+LAMBORGHINI,Diablo Model Year 2001,132,M5,5992,Petrol,34.7,14.2,21.8,8.1,19.9,13,520,1511,IV,74,,,,,,01-Jul-01
+LAMBORGHINI,Diablo Model Year 2001,132 SE,M5,5992,Petrol,34.7,14.2,21.8,8.1,19.9,13,520,1511,IV,74,,,,,,01-Jul-01
+LAMBORGHINI,Diablo Model Year 2001,Roadster L144,M5,5992,Petrol,34.7,14.2,21.8,8.1,19.9,13,520,1511,IV,74,,,,,,01-Jul-01
+LEXUS,GS,GS430,A5,4293,Petrol,17.3,9.4,12.3,16.3,30.1,23,296,854,IV,71,0.1,,0,0.1,,14-Apr-03
+LEXUS,RX,RX300,SAT5,2995,Petrol,16.9,9.4,12.2,16.7,30.1,23.2,288,846,IV,73.9,0.2,,0,0,,13-Jan-03
+LEXUS,LS,LS430,A6,4293,Petrol,16.3,8.5,11.4,17.3,33.2,24.8,270,792,IV,68.7,0.2,,0.1,0,,18-Dec-03
+LEXUS,SC,SC430,A5,4293,Petrol,17.2,9,12,16.4,31.4,23.5,287,836,IV,71.5,0.2,,0,0,,14-Apr-03
+LOTUS,Elise,2 seater sports cabriolet,M6,1796,Petrol,12.1,6.8,8.8,23,41,32,208,614,IV,74,0.4,,0.1,0,,17-Mar-04
+LOTUS,Exige,2 seater sports coupé,M6,1796,Petrol,12.1,6.8,8.8,23,41,32,208,614,IV,74,0.4,,0.1,0,,04-Feb-04
+MAZDA,Mazda2 (2003 MY),"1.25 (14"" tyre)",M5,1242,Petrol,8.6,5,6.3,32.8,56.5,44.8,149,438,IV,72,0.2,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2003 MY),"1.4 (14"" tyre)",M5,1388,Petrol,8.7,5.3,6.5,32.5,53.2,43.5,154,451,IV,70,0.4,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2003 MY),"1.4 (15"" tyre)",ASM  ,1388,Petrol,8.9,5.6,6.8,31.7,50.4,41.5,161,473,IV,71,0.4,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2003 MY),"1.6 (15"" tyre)",M5,1596,Petrol,9.6,5.8,7.1,29.4,48.7,39.8,168,493,IV,71,0.6,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2003 MY),"1.4 (15"" tyre)",M5,1388,Petrol,9,5.5,6.8,31.4,51.4,41.5,161,473,IV,70,0.4,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2003 MY),"1.4 (14"" tyre)",ASM  ,1388,Petrol,8.6,5.4,6.5,32.8,52.3,43.5,154,451,IV,71,0.4,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2003 MY),"1.6 (14"" tyre)",M5,1596,Petrol,9.2,5.5,6.8,30.7,51.4,41.5,161,473,IV,71,0.6,,0.1,0,,24-Mar-03
+MAZDA,Mazda2 (2004 MY),1.25,M5,1242,Petrol,8.6,5,6.3,32.8,56.5,44.8,150,438,IV,72,0.2,,0.1,0,,22-Mar-04
+MAZDA,Mazda2 (2004 MY),1.4,M5,1388,Petrol,8.7,5.4,6.6,32.5,52.3,42.8,157,459,IV,70,0.4,,0.1,0,,01-Mar-04
+MAZDA,Mazda2 (2004 MY),1.4,ASM  ,1388,Petrol,8.4,5.3,6.4,33.6,53.3,44.1,152,445,IV,71,0.4,,0.1,0,,01-Mar-04
+MAZDA,Mazda2 (2004 MY),1.6,M5,1596,Petrol,9.1,5.4,6.7,31,52.3,42.2,159,465,IV,71,0.6,,0.1,0,,01-Mar-04
+MAZDA,Mazda3,1.6 4 Door,A4,1598,Petrol,10.2,6.4,7.8,27.7,44.1,36.2,186,543,IV,69,0.4,,0.1,0,,01-Mar-04
+MAZDA,Mazda3,2.0 4/5 Door,M5,1999,Petrol,11.5,6.3,8.2,24.6,44.8,34.5,196,569,IV,71,0.6,,0,0,,22-Mar-04
+MAZDA,Mazda3,1.4 5 Door,M5,1349,Petrol,8.9,6.1,7.1,31.7,46.3,39.8,169,493,IV,69,0.8,,0.1,0,,01-Mar-04
+MAZDA,Mazda3,1.6 4/5 Door,M5,1598,Petrol,9.3,6,7.2,30.4,47.1,39.2,172,501,IV,70,0.6,,0.1,0,,22-Mar-04
+MAZDA,Mazda3,1.6 5 Door,A4,1598,Petrol,10.1,6.8,8,28,41.5,35.3,191,556,IV,69,0.4,,0.1,0,,22-Mar-04
+MAZDA,Mazda6,2.0 TD 136 PS 4/5 Door,M5,1998,Diesel,8.3,5.5,6.5,34,51.4,43.5,174,470,IV,70,0.3,0.2,,0.2,0,17-Mar-04
+MAZDA,Mazda6,2.0 4/5 Door ,M5,1999,Petrol,11.2,6.2,8.1,25.2,45.6,34.9,192,563,IV,72.3,0.4,,0.1,0,,22-Nov-02
+MAZDA,Mazda6,2.3 4 Door,M5,2261,Petrol,12.2,7,8.9,23.2,40.4,31.7,212,620,IV,73.4,0.2,,0,0,,25-Oct-02
+MAZDA,Mazda6,2.3 5 Door,M5,2261,Petrol,12.4,7.2,9.1,22.8,39.2,31,218,634,IV,73.4,0.2,,0,0,,22-Mar-04
+MAZDA,Mazda6,2.0 TD 121 PS 4/5 Door,M5,1998,Diesel,8.3,5.5,6.5,34,51.4,43.5,172,470,IV,71,0.3,0.2,,0.2,0,22-Mar-04
+MAZDA,Mazda6,2.0 TD 121 PS Estate,M5,1998,Diesel,8.3,5.7,6.6,34,49.6,42.8,177,478,IV,71,0.3,0.2,,0.2,0,22-Mar-04
+MAZDA,Mazda6,1.8 4/5 Door,M5,1798,Petrol,11,5.9,7.8,25.7,47.9,36.2,185,543,IV,73.3,0.3,,0,0,,22-Nov-02
+MAZDA,Mazda6,2.0 Estate,M5,1999,Petrol,11.3,6.3,8.2,25,44.8,34.4,195,571,IV,72.3,0.4,,0.1,0,,08-Apr-03
+MAZDA,MPV ,2.3,M5,2261,Petrol,13.3,8.2,10.1,21.2,34.5,28,240,701,IV,73,0.8,,0.1,0,,22-Mar-04
+MAZDA,RX-8,192 PS,M5,2616,Petrol,14.9,8.1,10.6,19,34.9,26.7,267,736,IV,73,0.3,,0,0,,02-Mar-04
+MAZDA,RX-8,231 PS,M6,2616,Petrol,15.6,8.7,11.2,18.1,32.5,25.2,284,779,IV,74,0.3,,0,0,,02-Mar-04
+MERCEDES-BENZ,Viano,3.2 SWB,A5,3199,Petrol,16.8,9.6,12.2,16.8,29.4,23.2,294,846,IV,72,0.5,,0.1,0,,17-Mar-04
+MERCEDES-BENZ,Viano,3.2 MWB,A5,3199,Petrol,17.2,9.7,12.5,16.4,29.1,22.6,299,869,IV,72,0.5,,0.1,0,,17-Mar-04
+MERCEDES-BENZ,Viano,3.2 LWB,A5,3199,Petrol,17.7,9.8,12.7,16,28.8,22.2,306,885,IV,72,0.5,,0.1,0,,17-Mar-04
+MITSUBISHI,Carisma,1.6,A4,1597,Petrol,11.5,6.6,8.4,24.6,42.8,33.6,198,584,IV,67,0.3,,0,0,,13-Feb-04
+MITSUBISHI,Carisma,1.6,M5,1597,Petrol,10.1,5.8,7.4,28,48.7,38.2,174,514,IV,71,0.2,,0,0,,13-Feb-04
+MITSUBISHI,Colt Space Star,1.8 S,M5,1834,Petrol,10,6.2,7.6,28.2,45.6,37.2,180,528,IV,73,0.6,,0.1,0,,29-May-03
+MITSUBISHI,Colt Space Star,1.6,M5,1584,Petrol,9.3,6,7.2,30.4,47.2,39.2,171,501,IV,72,0.3,,0,0,,13-Feb-04
+MITSUBISHI,Colt Space Star,1.6,A4,1584,Petrol,10.7,6.6,8.2,26.4,42.8,34.4,192,571,IV,73,0.3,,0,0,,13-Feb-04
+MITSUBISHI,Colt Space Star,1.3,M5,1299,Petrol,8.8,5.7,6.8,32.1,49.6,41.5,162,473,IV,73,0.4,,0,0,,13-Feb-04
+MITSUBISHI,Outlander,2.4,A4,2378,Petrol,13.8,8,10.1,20.5,35.3,28,240,701,IV,73,0.3,,0,0,,13-Feb-04
+PEUGEOT,206,1.6 HDi FAP (110 bhp) GTi,M5,1560,Diesel,6,4.1,4.8,47,68.8,58.8,126,348,IV,74.5,0,0.2,,0.2,0,16-Mar-04
+PEUGEOT,307,1.6 HDi FAP (110 bhp),M5,1560,Diesel,6.1,4.3,4.9,46.3,65.6,57.6,129,355,IV,73.4,0.1,0.2,,0.2,0,02-Mar-04
+PEUGEOT,307,2.0 HDi FAP (136 bhp),M6,1997,Diesel,7.1,4.5,5.4,39.7,62.7,52.3,142,391,IV,71.6,0.1,0.2,,0.2,0,02-Mar-04
+PEUGEOT,307 Estate / SW,1.6 HDi FAP (110 bhp) SW,M5,1560,Diesel,6.3,4.5,5.1,44.8,62.7,55.3,134,370,IV,73.4,0.1,0.2,,0.2,0,02-Mar-04
+PEUGEOT,307 Estate / SW,1.6 HDi FAP (110 bhp) Estate,M5,1560,Diesel,6.2,4.4,5,45.5,64.1,56.4,131,363,IV,73.4,0.1,0.2,,0.2,0,25-Mar-04
+PEUGEOT,307 Estate / SW,2.0 HDi FAP (136 bhp),M6,1997,Diesel,7.3,4.7,5.6,38.7,60,50.4,148,406,IV,71.6,0.1,0.2,,0.2,0,02-Mar-04
+PEUGEOT,407 Saloon,3.0 V6 (211 bhp),A6,2946,Petrol,14.5,7,9.8,19.5,40.3,28.8,233,682,IV,73.6,0.5,,0.1,0,,03-Mar-04
+PEUGEOT,407 Saloon,2.0 HDi FAP (136 bhp),M6,1997,Diesel,7.7,4.9,5.9,36.6,57.6,47.8,155,428,IV,74.3,0,0.2,,0.2,0,03-Mar-04
+PEUGEOT,407 Saloon,1.6 HDi FAP (110 bhp),M5,1560,Diesel,7,4.6,5.5,40.3,61.3,51.3,145,399,IV,73.5,0.1,0.2,,0.2,0,02-Mar-04
+PEUGEOT,407 SW,3.0 V6 (211 bhp),A6,2946,Petrol,14.6,7.1,9.9,19.3,39.7,28.5,236,689,IV,73.6,0.5,,0.1,0,,03-Mar-04
+PEUGEOT,407 SW,2.0 HDi FAP (136 bhp),M6,1997,Diesel,7.9,5,6,35.7,56.4,47,159,435,IV,74.3,0,0.2,,0.2,0,03-Mar-04
+PEUGEOT,407 SW,1.6 HDi FAP (110 bhp),M5,1560,Diesel,7.2,4.7,5.6,39.2,60,50.4,148,406,IV,73.5,0.1,0.2,,0.2,0,02-Mar-04
+PORSCHE,911,911 GT3 RS,M6,3600,Petrol,19.9,9,12.9,14.2,31.4,21.9,315,897,IV,75,0.6,,0.1,0,,21-Apr-04
+PORSCHE,911,911 GT3,M6,3600,Petrol,19.9,9,12.9,14.2,31.4,21.9,315,897,IV,75,0.6,,0.1,0,,23-Feb-04
+PORSCHE,Cayenne,Cayenne Turbo,A6,4511,Petrol,21.9,11.9,15.7,12.9,23.7,18,378,1091,IV,76,0.4,,0.1,0,,24-Feb-03
+PORSCHE,Cayenne,Cayenne S Tiptronic S,A6,4511,Petrol,20.9,11.2,14.9,13.5,25.2,19,361,1034,IV,75,0.4,,0,0,,18-Dec-03
+PORSCHE,Cayenne,Cayenne,M6,3189,Petrol,17.8,10.6,13.2,15.9,26.7,21.4,317,918,IV,75,0.6,,0.1,0,,23-Feb-04
+PORSCHE,Cayenne,Cayenne Tiptronic S,A6,3189,Petrol,18.4,10.7,13.5,15.3,26.4,20.9,324,940,IV,76,0.7,,0.1,0,,23-Feb-04
+PORSCHE,Cayenne,Cayenne S,M6,4511,Petrol,22.8,11.8,15.8,12.4,23.9,17.9,380,1097,IV,77,0.7,,0.1,0,,26-Feb-04
+PROTON,Impian,1600,M5,1584,Petrol,9,5.4,6.7,31.4,52.5,42.2,161,465,IV,73,0.6,,0,0,,19-Mar-03
+PROTON,Impian,1600 X,M5,1584,Petrol,9,5.4,6.7,31.4,52.5,42.2,161,465,IV,73,0.6,,0,0,,19-Mar-03
+RENAULT,New Clio ,Renaultsport V6 255,M6,2946,Petrol,15.6,9.8,11.9,18.2,28.8,23.7,285,829,IV,75,0.4,,0.1,0.1,,09-May-03
+RENAULT,Kangoo ,1.2 16V From VIN KC0WEF,M5,1149,Petrol,9,5.9,7,31.4,47.9,40.4,165,486,IV,73,0.7,,0.1,0,,31-Jul-02
+RENAULT,New Kangoo,1.6 16V Auto From VIN KC0SAA,A4,1598,Petrol,11,6.3,8,25.7,44.9,35.4,190,555,IV,71.4,0.6,,0.1,0,,26-Jun-03
+RENAULT,New Megane Scenic,2.0 V.V.T. Auto From VIN JM0U0A,A4,1998,Petrol,11.9,6.7,8.6,23.8,42.2,32.9,205,597,IV,70.7,0.4,,0.1,0,,13-Aug-03
+RENAULT,New Megane Sport Saloon,2.0 V.V.T. Auto From VIN LM0U0A,A4,1998,Petrol,11.8,6.5,8.4,24,43.5,33.7,201,583,IV,70.6,0.5,,0.1,0,,14-Aug-03
+RENAULT,New Megane Sport Tourer,2.0 V.V.T. Auto From VIN KM0U0A,A4,1998,Petrol,11.8,6.5,8.4,24,43.5,33.7,201,583,IV,70.6,0.5,,0.1,0,,14-Aug-03
+RENAULT,New Megane Coupé-Cabriolet,2.0 V.V.T. Auto From VIN EM0U0A,A4,1998,Petrol,11.6,6.6,8.4,24.4,42.9,33.7,201,583,IV,70.6,0.5,,0.1,0,,14-Aug-03
+RENAULT,New Megane Grand Scenic,2.0 V.V.T. 136 From VIN JM0UDA,A4,1998,Petrol,11.9,6.7,8.6,23.8,42.2,32.9,205,597,IV,69.7,0.4,,0.1,0,,17-Mar-04
+RENAULT,Laguna II Hatchback ,2.0T 16V From VIN BG0S0B ,A5,1998,Petrol,13.6,6.4,9.1,20.8,44.2,31.1,217,631,IV,70.5,0.4,,0.1,0,,06-Feb-04
+RENAULT,Laguna II Sport Tourer ,2.0T 16V From VIN KG0S0B,A5,1998,Petrol,13.7,6.5,9.2,20.6,43.5,30.7,220,640,IV,70.5,0.4,,0.1,0,,06-Feb-04
+RENAULT,New Espace,2.0T 16V Auto From VIN JK0DAB,A5,1998,Petrol,14.8,8.1,10.5,19.1,34.9,26.9,251,730,IV,67.6,0.9,,0.1,0,,09-May-03
+RENAULT,New Espace,3.5 V6 24V Auto From VIN JK0FAB,A5,3498,Petrol,17.3,9.3,12.2,16.3,30.4,23.2,292,846,IV,71,0.5,,0,0.1,,13-Jan-03
+RENAULT,New Espace,3.5 V6 24V Auto From VIN JK0FBB,A5,3498,Petrol,17.5,9.5,12.4,16.2,29.8,22.8,297,861,IV,71,0.5,,0,0.1,,13-Jan-03
+RENAULT,New Grand Espace,3.5 V6 24V Auto From VIN JK0FCB,A5,3498,Petrol,17.5,9.5,12.4,16.2,29.8,22.8,297,861,IV,71,0.5,,0,0.1,,13-Jan-03
+RENAULT,New Grand Espace,3.5 V6 24V Auto From VIN JK0FDB,A5,3498,Petrol,17.5,9.5,12.4,16.2,29.8,22.8,297,861,IV,71,0.5,,0,0.1,,13-Jan-03
+RENAULT,New Grand Espace,2.0T 16V Auto From VIN JK0DCB,A5,1998,Petrol,14.8,8.1,10.5,19.1,34.9,26.9,251,730,IV,67.6,0.9,,0.1,0,,09-May-03
+RENAULT,Vel Satis,2.0T From VIN BJ0P06,M6,1998,Petrol,12.6,7.6,9.4,22.4,37.2,30.1,225,652,IV,70.9,0.7,,0.1,0,,06-Feb-04
+ROLLS-ROYCE MOTOR CARS ,Phantom,Rolls-Royce Phantom,A6,6749,Petrol,24.6,11,15.9,11.5,25.7,17.8,385,1103,IV,72,0.6,,0.1,0,,04-Mar-03
+SAAB,9-3 Sport Saloon,1.8i 122hp Z18XE,M5,1796,Petrol,10.7,6.2,7.9,26.4,45.6,35.8,188,549,IV,73,0.6,,0,0,,17-Mar-04
+SAAB,9-3 Sport Saloon,2.0t Aero 210hp B207R,M6,1998,Petrol,11.9,6.8,8.6,23.7,41.5,32.8,207,599,IV,74,0.8,,0.1,0,,17-Mar-04
+SAAB,9-3 Sport Saloon,2.0t Aero 210hp B207R,A5,1998,Petrol,14,7.1,9.6,20.2,39.8,29.4,232,668,IV,74,0.8,,0.1,0,,17-Mar-04
+SAAB,9-3 Sport Saloon,2.0t 175hp B207L,M5,1998,Petrol,11.5,6.3,8.3,24.6,44.8,34,199,578,IV,73,0.6,,0.1,0,,17-Mar-04
+SAAB,9-3 Sport Saloon,1.8t 150hp B207E,M5,1998,Petrol,11.5,6.2,8.1,24.6,45.6,34.9,195,563,IV,73,0.5,,0,0,,17-Mar-04
+SAAB,9-3 Sport Saloon,1.8t 150hp B207E,A5,1998,Petrol,13,7,9.2,21.7,40.3,30.7,221,640,IV,72,0.6,,0.1,0,,17-Mar-04
+SAAB,9-3 Sport Saloon,2.0t 175hp B207L,A5,1998,Petrol,13.2,7.1,9.2,21.4,39.8,30.7,223,640,IV,73,0.4,,0.1,0,,17-Mar-04
+SAAB,9-3 Sport Convertible,2.0t Aero 210hp B207R,M6,1998,Petrol,12,7.1,8.9,23.5,39.8,31.7,213,620,IV,74,0.8,,0.1,0,,17-Mar-04
+SAAB,9-3 Sport Convertible,1.8t 150hp B207E,M5,1998,Petrol,11.7,6.7,8.6,24.1,42.2,32.8,206,599,IV,73,0.5,,0,0,,13-Aug-03
+SAAB,9-3 Sport Convertible,2.0t Aero 210hp B207R,M5,1998,Petrol,12.2,7.3,9.1,23.2,38.7,31,218,634,IV,74,0.8,,0.1,0,,13-Aug-03
+SAAB,9-3 Sport Convertible,2.0t Aero 210hp B207R,A5,1998,Petrol,14,7.6,10,20.2,37.2,28.2,235,696,IV,74,0.8,,0.1,0,,13-Aug-03
+SAAB,9-3 Sport Convertible,1.8t 150hp B207E,A5,1998,Petrol,13.4,7.6,9.7,21.1,37.2,29.1,233,675,IV,72,0.6,,0.1,0,,13-Aug-03
+SAAB,9-3 Sport Convertible,2.0t 175hp B207L,M5,1998,Petrol,11.9,7.1,8.9,23.7,39.8,31.7,212,620,IV,73,0.6,,0.1,0,,13-Aug-03
+SAAB,9-3 Sport Convertible,2.0t 175hp B207L,A5,1998,Petrol,13.1,7.7,9.7,21.6,36.7,29.1,232,675,IV,73,0.4,,0.1,0,,13-Aug-03
+SEAT,Arosa,1.0 (50 PS),M5,999,Petrol,7.8,4.7,5.8,36.2,60.1,48.7,139,403,IV,73,0.3,,0.1,0,,29-May-03
+SEAT,Arosa,1.4  MPI Auto (60 PS),A4,1390,Petrol,10,6.1,7.5,28.2,46.3,37.7,180,521,IV,74,0.4,,0.1,0,,29-May-03
+SEAT,Arosa,1.4 16V Sport (100 PS),M5,1390,Petrol,9.4,5.2,6.7,30.1,54.3,42.2,161,465,IV,73,0.7,,0.1,0,,29-May-03
+SEAT,New Ibiza,1.2 (64 PS),M5,1198,Petrol,7.7,5.1,6,36.7,55.4,47.1,144,417,IV,72,0.6,,0.1,0,,29-May-03
+SEAT,New Ibiza,1.4 16V (75 PS),M5,1390,Petrol,8.9,5.3,6.5,31.7,53.3,43.5,156,451,IV,72,0.2,,0.1,0,,26-Jun-03
+SEAT,New Ibiza,1.4 16V (100 PS),M5,1390,Petrol,9,5.4,6.7,31.4,52.3,42.2,161,465,IV,72,0.3,,0.1,0,,29-May-03
+SEAT,New Ibiza,2.0 (115 PS),M5,1984,Petrol,11,6,7.8,25.7,47.1,36.2,187,543,IV,71,0.6,,0,0,,26-Jun-03
+SEAT,New Ibiza,1.8 20V T (150 PS),M5,1781,Petrol,10.9,6.1,7.9,25.9,46.3,35.8,190,549,IV,72,0.4,,0,0,,02-Mar-04
+SEAT,Cordoba,1.4 16V,M5,1390,Petrol,8.9,5.3,6.5,31.7,53.3,43.5,156,451,IV,71,0.2,,0.1,0,,19-Mar-03
+SEAT,Leon,1.4 16V (75 PS),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,473,IV,72,0.2,,0.1,0,,29-May-03
+SEAT,Leon,1.6 16V (105 PS),M5,1598,Petrol,9.4,5.6,7,30.1,50.4,40.4,168,486,IV,71,0.3,,0.1,0,,29-May-03
+SEAT,Leon,1.8 Cupra 20V T (180 PS),M6,1781,Petrol,11.8,6.6,8.5,23.9,42.8,33.2,204,592,IV,73,0.7,,0.1,0,,29-May-03
+SEAT,Toledo,V5 (170 PS),M5,2324,Petrol,12.5,6.7,8.8,22.6,42.2,32.1,211,612,IV,73,0.5,,0.1,0,,29-May-03
+SEAT,Toledo,1.8 20V T (180 PS),M6,1781,Petrol,11.8,6.6,8.5,23.9,42.8,33.2,204,592,IV,73,0.7,,0.1,0,,22-May-03
+SEAT,Alhambra,2.0 (115 PS),M6,1984,Petrol,13,7.6,9.6,21.7,37.2,29.4,230,668,IV,74,0.8,,0.1,0.1,,29-May-03
+SEAT,Alhambra,1.8 20V Turbo (150 PS),M6,1781,Petrol,13.3,7.6,9.7,21.2,37.2,29.1,233,675,IV,74,0.5,,0.1,0,,29-May-03
+SEAT,Alhambra,1.8 20V Turbo Tiptronic (150 PS),A5,1781,Petrol,14.5,8.4,10.6,19.5,33.6,26.6,254,738,IV,70,0.3,,0.1,0.1,,29-May-03
+SEAT,Alhambra,2.8 V6 Sport (204 PS),M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,750,IV,73,0.3,,0.1,0.1,,29-May-03
+SKODA,Fabia Estate,Elegance 1.4 16V (100 bhp),M5,1390,Petrol,9.7,5.6,7.1,29.1,50.4,39.8,170,493,IV,73,0.6,,0.1,0,,09-Apr-02
+SKODA,Fabia Estate,Comfort 1.4 16V (75 bhp),A4,1390,Petrol,10.4,6,7.6,27.2,47.1,37.2,182,528,IV,72,0.2,,0.1,0.1,,09-Apr-02
+SKODA,Fabia Estate,Elegance 2.0 MPI (115 bhp),M5,1984,Petrol,11,6,7.8,25.7,47.1,36.2,187,543,IV,73,0.6,,0.1,0,,09-Apr-02
+SKODA,Fabia Estate,Comfort 1.4 16V (100 bhp),M5,1390,Petrol,9.7,5.6,7.1,29.1,50.4,39.8,170,493,IV,73,0.6,,0.1,0,,09-Apr-02
+SKODA,Fabia Estate,Elegance 1.4 16V (75 bhp),A4,1390,Petrol,10.4,6,7.6,27.2,47.1,37.2,182,528,IV,72,0.2,,0.1,0.1,,09-Apr-02
+SKODA,Fabia Estate,Comfort 1.2 12V (64 bhp),M5,1198,Petrol,7.7,5.1,6,36.7,55.4,47.1,144,417,IV,74,0.1,,0.1,0,,21-May-03
+SKODA,Fabia Estate,Classic 1.2 12V (64 bhp),M5,1198,Petrol,7.7,5.1,6,36.7,55.4,47.1,144,417,IV,74,0.1,,0.1,0,,21-May-03
+SKODA,Fabia Hatch,Classic 1.2 (54 bhp),M5,1198,Petrol,7.9,4.8,6,35.8,58.9,47.1,144,417,IV,71,0.5,,0,0,,21-May-03
+SKODA,Fabia Hatch,Classic 1.2 12V (64 bhp),M5,1198,Petrol,7.7,5.1,6,36.7,55.4,47.1,144,417,IV,74,0.1,,0.1,0,,21-May-03
+SKODA,Fabia Hatch,Classic 1.4 16V (75 bhp),A4,1390,Petrol,10.3,5.9,7.5,27.4,47.9,37.7,180,521,IV,72,0.2,,0.1,0.1,,21-May-03
+SKODA,Fabia Hatch,Comfort 1.2 12V (64 bhp),M5,1198,Petrol,7.7,5.1,6,36.7,55.4,47.1,144,417,IV,74,0.1,,0.1,0,,21-May-03
+SKODA,Fabia Hatch,Comfort 1.4 16V  (100 bhp),M5,1390,Petrol,9.7,5.6,7.1,29.1,50.4,39.8,170,493,IV,73,0.6,,0.1,0,,09-Apr-02
+SKODA,Fabia Hatch,Comfort 1.4 16V (75 bhp),A4,1390,Petrol,10.3,5.9,7.5,27.4,47.9,37.7,180,521,IV,72,0.2,,0.1,0.1,,09-Apr-02
+SKODA,Fabia Hatch,Elegance 1.4 16V (75 bhp),A4,1390,Petrol,10.3,5.9,7.5,27.4,47.9,37.7,180,521,IV,72,0.2,,0.1,0.1,,09-Apr-02
+SKODA,Fabia Hatch,Elegance 1.4 16V (100 bhp),M5,1390,Petrol,9.7,5.6,7.1,29.1,50.4,39.8,170,493,IV,73,0.6,,0.1,0,,09-Apr-02
+SKODA,Fabia Hatch,Elegance 2.0 MPI (115 bhp),M5,1984,Petrol,10.9,5.9,7.7,25.9,47.9,36.7,185,535,IV,74,0.6,,0.1,0,,09-Apr-02
+SKODA,Fabia Saloon,1.4 16V (100 bhp),M5,1390,Petrol,9,5.4,6.7,31.4,52.3,42.2,161,465,IV,73,0.3,,0.1,0,,17-Mar-04
+SKODA,Octavia Estate,vRS 1.8 20V Turbo (180 bhp),M5,1781,Petrol,10.8,6.4,8,26.2,44.1,35.3,192,556,IV,72,0.8,,0.1,0,,21-May-03
+SKODA,Octavia Estate,Elegance 1.8 20V Turbo (150 bhp),A4,1781,Petrol,13,7.1,9.2,21.7,39.8,30.7,221,640,IV,71,0.8,,0.1,0,,19-Mar-03
+SKODA,Octavia Estate,Ambiente 1.6 MPI (102 bhp),M5,1595,Petrol,10,5.6,7.2,28.2,50.4,39.2,173,501,IV,72,0.7,,0.1,0,,10-Feb-03
+SKODA,Octavia Estate,Elegance 1.8 20V Turbo (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,19-Mar-03
+SKODA,Octavia Estate,Laurin & Klement 1.8 20V Turbo (150 bhp),A4,1781,Petrol,13,7.1,9.2,21.7,39.8,30.7,221,640,IV,71,0.8,,0.1,0,,21-May-03
+SKODA,Octavia Estate,Laurin & Klement 1.8 20V Turbo (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,21-May-03
+SKODA,Octavia Estate,Classic 1.6 MPI (102 bhp),M5,1595,Petrol,10,5.6,7.2,28.2,50.4,39.2,173,501,IV,72,0.7,,0.1,0,,09-Apr-02
+SKODA,Octavia Estate,Ambiente 2.0 MPI (115 bhp),M5,1984,Petrol,11.3,6.2,8.1,25,45.6,34.9,194,563,IV,72,0.2,,0,0,,17-Mar-04
+SKODA,Octavia Hatch,Classic 1.6 MPI (102 bhp),M5,1595,Petrol,10,5.6,7.2,28.2,50.4,39.2,173,501,IV,72,0.7,,0.1,0,,10-Feb-03
+SKODA,Octavia Hatch,Ambiente 2.0 MPI (115 bhp),M5,1984,Petrol,11.3,6.2,8.1,25,45.6,34.9,194,563,IV,72,0.2,,0,0,,17-Mar-04
+SKODA,Octavia Hatch,Elegance 1.8 20V Turbo (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,19-Mar-03
+SKODA,Octavia Hatch,Laurin & Klement 1.8 20V Turbo (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,19-Mar-03
+SKODA,Octavia Hatch,Laurin & Klement 1.8 20V Turbo (150 bhp),A4,1781,Petrol,12.9,7,9.1,21.9,40.4,31,218,634,IV,71,0.8,,0.1,0,,19-Mar-03
+SKODA,Octavia Hatch,Classic 1.4 MPI 16V (75 bhp),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,473,IV,71,0.2,,0.1,0.1,,17-Mar-04
+SKODA,Octavia Hatch,Ambiente 1.6 MPI (102 bhp),M5,1595,Petrol,10,5.6,7.2,28.2,50.4,39.2,173,501,IV,72,0.7,,0.1,0,,10-Feb-03
+SKODA,Octavia Hatch,Elegance 1.8 20V Turbo (150 bhp),A4,1781,Petrol,12.9,7,9.1,21.9,40.4,31,218,634,IV,71,0.8,,0.1,0,,19-Mar-03
+SKODA,Octavia Hatch,vRS 1.8 20V Turbo (180 bhp),M5,1781,Petrol,10.8,6.4,8,26.2,44.1,35.3,192,556,IV,72,0.8,,0.1,0,,21-May-03
+SKODA,Superb,Classic 2.0 (115 bhp) ,M5,1984,Petrol,12.1,6.6,8.6,23.3,42.8,32.8,206,599,IV,73,0.3,,0,0,,02-Mar-04
+SKODA,Superb,Comfort 1.8 T (150 bhp) ,M5,1781,Petrol,11.5,6.5,8.3,24.6,43.5,34,199,578,IV,72,0.4,,0,0,,02-Mar-04
+SKODA,Superb,Elegance 2.8 V6 (193 bhp) ,M5,2771,Petrol,14.1,7.2,9.7,20,39.2,29.1,233,675,IV,73,0.4,,0,0,,25-Feb-04
+SKODA,Superb,Elegance 2.8 V6 (193 bhp) ,A5,2771,Petrol,15.6,7.4,10.4,18.1,38.2,27.2,250,722,IV,73,0.4,,0,0,,25-Feb-04
+SKODA,Superb,Classic 1.8 T (150 bhp),M5,1781,Petrol,11.5,6.5,8.3,24.6,43.5,34,199,578,IV,72,0.4,,0,0,,21-May-03
+SKODA,Superb,Classic 1.8 T (150 bhp),A5,1781,Petrol,13.6,7.2,9.6,20.8,39.2,29.4,233,668,IV,71,0.4,,0,0,,25-Feb-04
+SKODA,Superb,Comfort 1.8 T (150 bhp),A5,1781,Petrol,13.6,7.2,9.6,20.8,39.2,29.4,233,668,IV,71,0.4,,0,0,,25-Feb-04
+SKODA,New Octavia,Classic 1.4 (75 bhp) ,M5,1390,Petrol,9.6,5.6,7,29.4,50.4,40.4,166,486,IV,74,0.2,,0.1,0.1,,25-Feb-04
+SKODA,New Octavia,Classic 1.6 (102 bhp),M5,1595,Petrol,10,5.9,7.4,28.2,47.9,38.2,178,514,IV,72,0.5,,0.1,0,,25-Feb-04
+SKODA,New Octavia,Ambiente 2.0 TDI PD (140 bhp),M6,1968,Diesel,7.6,5,5.9,37.2,56.5,47.9,159,427,IV,74,0.1,0.3,,0.2,0,25-Feb-04
+SKODA,New Octavia,Ambiente 1.6 FSI (115 bhp),M5,1598,Petrol,9.1,5.6,7,31,50.4,40.4,168,486,IV,74,0.2,,0,0,,25-Feb-04
+SKODA,New Octavia,Elegance 1.6 FSI (115 bhp),M5,1598,Petrol,9.1,5.6,7,31,50.4,40.4,168,486,IV,74,0.2,,0,0,,25-Feb-04
+SKODA,New Octavia,Classic 1.6 (102 bhp),A6,1595,Petrol,11.8,6.2,8.2,23.9,45.6,34.4,197,571,IV,74,0.4,,0.1,0,,25-Feb-04
+SKODA,New Octavia,Elegance 2.0 TDI PD (140 bhp),M6,1968,Diesel,7.6,5,5.9,37.2,56.5,47.9,159,427,IV,74,0.1,0.3,,0.2,0,25-Feb-04
+SMART,Smart City Coup&#233; Hatchback (03MY),37kW 175 rear tyres,SM6,698,Petrol,6,4,4.7,47.1,70.6,60.1,113,327,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),37kW 175 rear tyres,A6,698,Petrol,6.1,4.1,4.8,46.3,68.9,58.8,116,334,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),37kW 195 rear tyres,SM6,698,Petrol,6.1,4.2,4.9,46.3,67.3,57.6,118,341,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),37kW 195 rear tyres,A6,698,Petrol,6.3,4.4,5.1,44.8,64.2,55.4,121,354,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),37kW 225 rear tyres,SM6,698,Petrol,6.1,4.3,5,46.3,65.7,56.5,120,348,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),37kW 225 rear tyres,A6,698,Petrol,6.5,4.6,5.3,43.5,61.4,53.3,127,368,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),45kW 175 rear tyres,SM6,698,Petrol,6,4,4.7,47.1,70.6,60.1,113,327,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),45kW 175 rear tyres,A6,698,Petrol,6.1,4.1,4.8,46.3,68.9,58.8,116,334,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),45kW 195 rear tyres,SM6,698,Petrol,6.1,4.2,4.9,46.3,67.3,57.6,118,341,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),45kW 195 rear tyres,A6,698,Petrol,6.3,4.4,5.1,44.8,64.2,55.4,121,354,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),45kW 225 rear tyres,SM6,698,Petrol,6.1,4.3,5,46.3,65.7,56.5,120,348,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart City Coup&#233; Hatchback (03MY),45kW 225 rear tyres,A6,698,Petrol,6.5,4.6,5.3,43.5,61.4,53.3,127,368,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart Cabrio Hatchback (03MY),45kW 175 rear tyres,SM6,698,Petrol,6,4,4.7,47.1,70.6,60.1,113,327,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart Cabrio Hatchback (03MY),45kW 175 rear tyres,A6,698,Petrol,6.1,4.1,4.8,46.3,68.9,58.8,116,334,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart Cabrio Hatchback (03MY),45kW 195 rear tyres,SM6,698,Petrol,6.1,4.2,4.9,46.3,67.3,57.6,118,341,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart Cabrio Hatchback (03MY),45kW 195 rear tyres,A6,698,Petrol,6.3,4.4,5.1,44.8,64.2,55.4,121,354,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,Smart Cabrio Hatchback (03MY),45kW 225 rear tyres,SM6,698,Petrol,6.1,4.3,5,46.3,65.7,56.5,120,348,IV,74,0.8,0.1,0.1,0,,28-May-03
+SMART,Smart Cabrio Hatchback (03MY),45kW 225 rear tyres,A6,698,Petrol,6.5,4.6,5.3,43.5,61.4,53.3,127,368,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,SMART,Roadster - Coupé 225 rear tyres,A6,698,Petrol,6.5,4.4,5.1,43.5,64.2,55.4,122,354,IV,73,0.4,0.1,0.1,0.1,,28-May-03
+SMART,SMART,Roadster 45kW 205 rear tyres,SM6,698,Petrol,6.4,4.4,5.1,44.1,64.2,55.4,122,354,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,SMART,Roadster 45kW 225 rear tyres,SM6,698,Petrol,6.6,4.6,5.3,42.8,61.4,53.3,126,368,IV,74,0.7,0.1,0.1,0,,28-May-03
+SMART,SMART,Roadster 60kW 205 rear tyres,A6,698,Petrol,6.3,4.3,5.1,44.8,65.7,55.4,121,354,IV,73,0.4,0.1,0.1,0.1,,28-May-03
+SMART,SMART,Roadster - Coupé 205 rear tyres,A6,698,Petrol,6.4,4.3,5.1,44.1,65.7,55.4,121,354,IV,73,0.4,0.1,0.1,0.1,,28-May-03
+SMART,SMART,Roadster 60kW 225 rear tyres,A6,698,Petrol,6.5,4.5,5.2,43.5,62.8,54.3,124,362,IV,73,0.4,0.1,0.1,0.1,,28-May-03
+SUBARU,Legacy (2004 Model Year),2.5 AWD Saloon,A4,2457,Petrol,11.4,6.1,8.1,24.8,46.3,34.9,193,563,IV,70,0.2,,0.1,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),2.5 AWD Outback,M5,2457,Petrol,11.6,6.7,8.5,24.4,42.2,33.2,203,592,IV,71.2,0.2,,0,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),2.5 AWD Outback,A4,2457,Petrol,11.6,6.7,8.5,24.4,42.2,33.2,203,592,IV,70,0.2,,0.1,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),3.0 AWD Outback,A4,3000,Petrol,13.4,7.6,9.8,21.1,37.2,28.8,233,682,IV,70.9,0.2,,0.1,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),2.5 AWD Sports Tourer,M5,2457,Petrol,11.5,6.5,8.3,24.6,43.5,34,198,578,IV,71.2,0.2,,0,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),2.5 AWD Sports Tourer,A4,2457,Petrol,11.5,6.5,8.3,24.6,43.5,34,198,578,IV,70,0.2,,0.1,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),3.0 AWD Saloon,A4,3000,Petrol,13.6,7.3,9.6,20.8,38.7,29.4,229,668,IV,70.9,0.2,,0.1,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),3.0 AWD Sports Tourer,A4,3000,Petrol,13.7,7.6,9.8,20.6,37.2,28.8,234,682,IV,70.9,0.2,,0.1,0,,18-Nov-03
+SUBARU,Legacy (2004 Model Year),2.5 AWD Saloon,M5,2457,Petrol,11.4,6.4,8.2,24.8,44.1,34.4,196,571,IV,71.2,0.2,,0,0,,18-Nov-03
+TOYOTA,Yaris,1.0 VVT-i,Multi5,998,Petrol,6.4,4.9,5.4,44.1,57.6,52.3,129,376,IV,69.6,0.5,,0.1,0,,20-Jan-04
+TOYOTA,Yaris,1.3 VVT-i T-Spirit,M5,1299,Petrol,7.2,5,5.8,39.2,56.5,48.7,138,403,IV,70.8,0.8,,0.1,0,,08-Apr-03
+TOYOTA,Yaris,1.3 VVT-i Except T-Spirit,M5,1299,Petrol,6.8,4.9,5.6,41.5,57.6,50.4,133,390,IV,70.8,0.7,,0.1,0,,08-Apr-03
+TOYOTA,Yaris,1.3 VVT-i,A4,1299,Petrol,8.1,5.3,6.3,34.9,53.3,44.8,150,438,IV,70.2,0.7,,0.1,0,,08-Apr-03
+TOYOTA,Yaris,Verso 1.3 VVT-i,M5,1299,Petrol,8,5.5,6.4,35.3,51.4,44.1,154,445,IV,69.4,0.4,,0.1,0,,08-Apr-03
+TOYOTA,Yaris,Verso 1.3 VVT-i,A4,1299,Petrol,8.9,5.8,6.9,31.7,48.7,40.9,165,480,IV,68.9,0.2,,0.1,0,,08-Apr-03
+TOYOTA,Yaris,1.0 VVT-i,M5,998,Petrol,6.8,4.9,5.6,41.5,57.6,50.4,134,390,IV,69.8,0.3,,0.1,0,,08-Apr-03
+TOYOTA,Yaris,1.5 VVT-i 3-door,M5,1497,Petrol,8.7,5.7,6.8,32.5,49.6,41.4,162,474,IV,72.7,0.6,,0.1,0,,21-Apr-04
+TOYOTA,Yaris,1.5 VVT-i 5-door,M5,1497,Petrol,8.9,5.8,7,31.7,48.7,40.4,165,486,IV,72.7,0.6,,0.1,0,,21-Apr-04
+TOYOTA,Corolla,1.4 VVT-i 3 & 5 door,M5,1398,Petrol,8.4,5.7,6.7,33.6,49.6,42.2,159,465,IV,70,0.5,,0.1,0,,17-Mar-04
+TOYOTA,Corolla,1.6 VVT-i 3 & 5 door,M5,1598,Petrol,9,5.9,7,31.4,47.9,40.4,168,486,IV,71,0.6,,0.1,0,,17-Mar-04
+TOYOTA,Corolla,1.6 VVT-i 3 & 5 door,A4,1598,Petrol,10.6,6.4,7.9,26.6,44.1,35.8,190,549,IV,70,0.5,,0.1,0,,17-Mar-04
+TOYOTA,Corolla,1.8 VVT-i 3 & 5 door,M6,1796,Petrol,11.1,6.7,8.3,25.4,42.2,34,198,578,IV,72,1.2,,0.1,0.1,,13-Jan-03
+TOYOTA,Corolla,1.4 VVT-i 4-door,M5,1398,Petrol,8.4,5.7,6.7,33.6,49.6,42.2,159,465,IV,70,0.5,,0.1,0,,17-Mar-04
+TOYOTA,Corolla,1.6 VVT-i 4-door,M5,1598,Petrol,9,5.9,7,31.4,47.9,40.4,168,486,IV,70,0.6,,0.1,0,,17-Mar-04
+TOYOTA,Corolla,1.6 VVT-i 4-door,A4,1598,Petrol,10.5,6.3,7.8,26.9,44.8,36.2,188,543,IV,70,0.5,,0.1,0,,17-Mar-04
+TOYOTA,Corolla,2.0 D-4D 3-door 116PS,M5,1995,Diesel,7.2,4.7,5.6,39.2,60.1,50.4,149,406,IV,73,0.2,0.2,,0.2,0,17-Jun-03
+TOYOTA,Corolla,2.0 D-4D 5-door 116PS,M5,1995,Diesel,7.3,4.8,5.7,38.7,58.9,49.6,151,412,IV,73,0.2,0.2,,0.2,0,17-Jun-03
+TOYOTA,Corolla,1.6 VVT-i Estate,M5,1598,Petrol,9.2,6,7.2,30.7,47.1,39.2,172,501,IV,71,0.6,,0.1,0,,10-Apr-02
+TOYOTA,Corolla,Verso 1.6 VVT-i,M5,1598,Petrol,9.5,6.4,7.5,29.7,44.1,37.7,178,521,IV,73,0.6,,0,0,,20-Jan-04
+TOYOTA,Corolla,Verso 1.8 VVT-i,M5,1796,Petrol,9.9,6.5,7.7,28.5,43.5,36.7,184,535,IV,72,0.4,,0,0,,20-Jan-04
+TOYOTA,Corolla,Verso 1.8 VVT-i,Multi5,1796,Petrol,9.4,6.4,7.5,30.1,44.1,37.7,179,521,IV,72,0.4,,0,0.1,,20-Jan-04
+TOYOTA,Prius,1.5 VVT-i Hybrid,E-CVT,1497,Pet Hybrid,5,4.2,4.3,56.5,67.3,65.7,104,0,IV,69,0.2,,0,0,,18-Dec-03
+TOYOTA,Avensis,1.8 VVT-i Saloon/Hatchback,M5,1794,Petrol,9.4,5.8,7.2,30.1,48.7,39.2,171,501,IV,73,0.5,,0,0.1,,13-Jan-03
+TOYOTA,Avensis,1.8 VVT-i Saloon/Hatchback,A4,1794,Petrol,10.3,6.3,7.7,27.4,44.8,36.7,187,535,IV,71,0.5,,0,0,,13-Jan-03
+TOYOTA,Avensis,1.8 VVT-i Tourer,M5,1794,Petrol,9.4,5.8,7.2,30.1,48.7,39.2,172,501,IV,73,0.5,,0,0.1,,20-Feb-03
+TOYOTA,Avensis,2.0 VVT-i Saloon/Hatchback,M5,1998,Petrol,10.6,6.6,8.1,26.6,42.8,34.9,191,563,IV,72,0.5,,0.1,0,,13-Jan-03
+TOYOTA,Avensis,2.0 VVT-i Saloon/Hatchback,A4,1998,Petrol,12.8,7.2,9.2,22.1,39.2,30.7,221,640,IV,71,0.4,,0.1,0,,13-Jan-03
+TOYOTA,Avensis,2.0 VVT-i Tourer,M5,1998,Petrol,10.7,6.6,8.1,26.4,42.8,34.9,193,563,IV,72,0.5,,0.1,0,,20-Feb-03
+TOYOTA,Avensis,2.0 VVT-i Tourer,A4,1998,Petrol,12.9,7.3,9.4,21.9,38.7,30.1,224,652,IV,71,0.4,,0.1,0,,20-Feb-03
+TOYOTA,Avensis,2.0 D4-D Saloon/Hatchback,M5,1995,Diesel,7.5,4.9,5.8,37.7,57.6,48.7,155,420,IV,72,0.1,0.2,,0.2,0,17-Jan-03
+TOYOTA,Avensis,2.0 D4-D Tourer,M5,1995,Diesel,7.7,5.1,6,36.7,55.4,47.1,158,434,IV,72,0.1,0.2,,0.2,0,20-Feb-03
+TOYOTA,Avensis,Verso 2.0 VVT-i,M5,1998,Petrol,11.3,6.8,8.5,25,41.5,33.2,202,592,IV,72.2,0.4,,0,0,,18-Dec-03
+TOYOTA,Avensis,Verso 2.0 VVT-i,A4,1998,Petrol,11.8,7.3,8.9,23.9,38.7,31.7,213,620,IV,69.8,0.3,,0.1,0,,18-Dec-03
+TOYOTA,Avensis,2.0 D-CAT Saloon,M5,1995,Diesel,7.8,5.1,6.1,36.2,55.4,46.3,161,442,IV,72.5,0.2,0.2,,0.1,0,18-Dec-03
+TOYOTA,Avensis,2.4 VVT-i Saloon/Hatchback,A5,2362,Petrol,13.5,7.2,9.5,20.9,39.2,29.7,227,661,IV,73.5,0.3,,0.1,0,,18-Dec-03
+TOYOTA,Previa,2.4 VVT-i ,M5,2362,Petrol,12.1,7.9,9.4,23.3,35.8,30.1,226,652,IV,73.5,0.3,,0,0,,23-May-03
+TOYOTA,Previa,2.4 VVT-i ,A4,2362,Petrol,14.5,8.7,10.8,19.5,32.5,26.2,259,750,IV,74,0.1,,0,0,,23-May-03
+TOYOTA,RAV4,2.0 VVT-i 3-door,M5,1988,Petrol,11.3,7.2,8.7,25,39.2,32.5,207,604,IV,74,0.4,,0.1,0,,17-Mar-04
+TOYOTA,RAV4,2.0 VVT-i 3-door,A4,1988,Petrol,12.2,7.4,9.2,23.2,38.2,30.7,218,640,IV,74,0.3,,0.1,0,,17-Mar-04
+TOYOTA,RAV4,2.0 VVT-i 5-door,M5,1998,Petrol,11.4,7.3,8.8,24.8,38.7,32.1,211,612,IV,74,0.4,,0.1,0,,17-Mar-04
+TOYOTA,RAV4,2.0 VVT-i 5-door,A4,1998,Petrol,12.4,7.6,9.3,22.8,37.2,30.4,224,646,IV,74,0.3,,0.1,0,,17-Mar-04
+VAUXHALL,"Agila, Model Year 2003","1.0 12v 5 Door MPC, From VIN: W0L0HAF683000001",M5,973,Petrol,7.7,5.6,6.4,36.7,50.4,44.1,154,445,IV,72,0.4,0.1,0.1,0.1,,09-May-03
+VAUXHALL,"Agila, Model Year 2003","1.0 12v 5 Door MPC, From VIN: W0L0HAF683G031960",M5,973,Petrol,7.3,5.2,6,38.7,54.3,47.1,144,417,IV,72,0.4,0.1,0.1,0.1,,09-May-03
+VAUXHALL,"Agila, Model Year 2003","1.2 16v 5 Door MPC, From VIN: W0L0HAF683G000001",M5,1199,Petrol,8,5.7,6.5,35.3,49.6,43.5,156,451,IV,73,0.3,0.1,0.1,0,,09-May-03
+VAUXHALL,"Agila, Model Year 2003","1.2 16v 5 Door MPC, From VIN: W0L0HAF683G031960",M5,1199,Petrol,7.8,5.5,6.3,36.2,51.4,44.8,151,438,IV,73,0.3,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra, Model Year 2003","1.7 DTL 5 Door Hatchback, From VIN: W0L0TGF4835000000",M5,1686,Diesel,6,3.8,4.6,47.1,74.3,61.4,124,333,IV,70,0.3,0.3,,0.2,0,09-May-03
+VAUXHALL,"Astra, Model Year 2003",1.4 16v 5 Door Estate From VIN: W0L0TGF3538000000 / W0L0TGF3532000000,M5,1389,Petrol,9.8,6,7.4,28.8,47.1,38.2,178,514,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra, Model Year 2003",1.4 16v 5 Door Estate From VIN: W0L0TGF3538070216 / W0L0TGF3532161090,M5,1389,Petrol,9.5,5.7,7.1,29.7,49.6,39.8,170,493,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra, Model Year 2003",1.4 16v 3 Door Hatchback From VIN: W0L0TGF0835000000,M5,1389,Petrol,9.7,5.8,7.2,29.1,48.7,39.2,173,501,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra, Model Year 2003",1.4 16v 5 Door Hatchback From VIN: W0L0TGF4835000000,M5,1389,Petrol,9.8,5.9,7.3,28.8,47.9,38.7,175,507,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra, Model Year 2003",1.4 16v 5 Door Hatchback From VIN: W0L0TGF4835127271,M5,1389,Petrol,9.5,5.5,7,29.7,51.4,40.4,167,486,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra, Model Year 2003","1.7 CDTI 5 Door Estate, From VIN: W0L0TGF3538000000 / W0L0TGF3532000000",M5,1686,Diesel,6.1,4,4.8,46.3,70.6,58.9,129,347,IV,70,0.3,0.3,,0.2,0,12-May-03
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 3/5 Door Hatchback/Estate,M5,1598,LPG,12.5,7.4,9.3,22.6,38.2,30.4,151,323,IV,72,0.4,0.1,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 4/5 Door Saloon/Estate/Hatchback,M5,1598,LPG,12.6,7.5,9.4,22.4,37.7,30.1,151,326,IV,72,0.5,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 4/5 Door Saloon/Estate/Hatchback,M5,1796,LPG,14.2,8,10.3,19.8,35.4,27.5,167,357,IV,73,0.4,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935127272/W0L0TGF4835127271,M5,1598,Petrol,9.7,5.7,7.2,29.1,49.6,39.2,172,501,IV,72,0.7,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,A4,1598,Petrol,11,6.2,8,25.7,45.6,35.3,191,556,IV,71,0.4,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v Elegance 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,M5,1598,Petrol,9.7,5.8,7.2,29.1,48.7,39.2,172,501,IV,72,0.2,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v Active 5 Door Hatchback From VIN: W0L0TGF4835000000,M5,1598,Petrol,9.8,5.8,7.3,28.8,48.7,38.7,175,507,IV,72,0.5,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v Active 5 Door Hatchback From VIN: W0L0TGF4835127271,M5,1598,Petrol,9.5,5.5,7,29.7,51.4,40.4,167,486,IV,72,0.5,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935000001/W0L0TGF4835000000,M5,1598,Petrol,9.9,5.9,7.4,28.5,47.9,38.2,178,514,IV,72,0.7,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935000001/W0L0TGF4835000000,A4,1598,Petrol,11.4,6.5,8.3,24.8,43.5,34,200,578,IV,71,0.4,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,A4,1598,Petrol,11.4,6.6,8.4,24.8,42.8,33.6,201,584,IV,71,0.4,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v Club/Envoy/LS 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,M5,1598,Petrol,9.8,5.8,7.3,28.8,48.7,38.7,174,507,IV,72,0.7,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v Club/Envoy/LS 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,M5,1598,Petrol,10,6,7.5,28.2,47.1,37.7,180,521,IV,72,0.7,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 8v 5 Door Hatchback From VIN: W0L0TGF4835127271,A4,1598,Petrol,11,6.1,7.9,25.7,46.3,35.8,189,549,IV,71,0.4,0,,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v (Z16XEP) 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,M5,1598,Petrol,8.6,5.6,6.7,32.8,50.4,42.2,161,465,IV,71,0.5,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v (Z16XEP) 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,M5,1598,Petrol,8.7,5.5,6.7,32.5,51.4,42.2,160,465,IV,71,0.5,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,A4,1598,Petrol,10.7,6.2,7.9,26.4,45.6,35.8,190,549,IV,72,0.3,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,A4,1598,Petrol,10.4,5.9,7.6,27.2,47.9,37.2,182,528,IV,72,0.3,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v (Z16XE) 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,M5,1598,Petrol,9.7,5.8,7.2,29.1,48.7,39.2,172,501,IV,72,0.2,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 3 Door Hatchback From VIN: W0L0TGF0835000000,M5,1598,Petrol,9.5,5.5,7,29.7,51.4,40.4,168,486,IV,72,0.2,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 3 Door Hatchback From VIN: W0L0TGF0835127274,M5,1598,Petrol,9.4,5.4,6.9,30.1,52.3,40.9,165,480,IV,72,0.4,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 5 Door Hatchback From VIN: W0L0TGF4835127271,A4,1598,Petrol,10.4,5.9,7.5,27.2,47.9,37.7,179,521,IV,72,0.3,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935000001/W0L0TGF4835000000,M5,1598,Petrol,9.6,5.6,7.1,29.4,50.4,39.8,171,493,IV,72,0.2,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935127272/W0L0TGF4835127271,M5,1598,Petrol,9.5,5.5,7,29.7,51.4,40.4,167,486,IV,72,0.4,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v (Z16XEP) 5 Door Hatchback From VIN: W0L0TGF4835000000,M5,1598,Petrol,8.5,5.5,6.6,33.2,51.4,42.8,159,459,IV,71,0.5,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935000001/W0L0TGF4835000000,A4,1598,Petrol,10.6,6,7.7,26.6,47.1,36.7,185,535,IV,72,0.3,,0,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.6 16v (Z16XE) 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,M5,1598,Petrol,9.6,5.7,7.1,29.4,49.6,39.8,170,493,IV,72,0.4,,0.1,0,,22-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935000001/W0L0TGF4835000000,M5,1796,Petrol,11,6.1,7.9,25.7,46.3,35.8,190,549,IV,73,0.6,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935000001/W0L0TGF4835000000,A4,1796,Petrol,12,6.6,8.6,23.5,42.8,32.8,207,599,IV,71,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 3/5 Door Hatchback From VIN: W0L0TGF0835000000/W0L0TGF4835000000,M5,2198,Petrol,12,6.3,8.4,23.5,44.8,33.6,202,584,IV,74,0.5,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003","1.8 16v 3,4 & 5 Door Saloon/Hatchback From VIN: W0L0TGF6935127272/W0L0TGF0835127274/W0L0TGF4835127271",M5,1796,Petrol,10.7,5.8,7.6,26.4,48.7,37.2,182,528,IV,73,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 4/5 Door Saloon/Hatchback From VIN: W0L0TGF6935127272/W0L0TGF4835127271,A4,1796,Petrol,11.7,6.3,8.3,24.1,44.8,34,199,578,IV,71,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 3 Door Hatchback From VIN: W0L0TGF0835000000,M5,1796,Petrol,11,6.1,7.9,25.7,46.3,35.8,190,549,IV,73,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 5 Door Estate From VIN: W0L0TGF0835000000/W0L0TGF3532000000,A4,1796,Petrol,12.1,6.8,8.8,23.3,41.5,32.1,211,612,IV,71,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,A4,1796,Petrol,11.7,6.4,8.4,24.1,44.1,33.6,201,584,IV,71,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,M5,1796,Petrol,11.1,6.2,8,25.4,45.6,35.3,192,556,IV,73,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",1.8 16v 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,M5,1796,Petrol,10.8,5.9,7.7,26.2,47.9,36.7,184,535,IV,73,0.5,,0,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.0 16v 3 Door Hatchback From VIN: W0L0TGF0835000000,M5,1998,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,214,620,IV,73,0.2,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,A4,2198,Petrol,12,6.9,8.8,23.5,40.9,32.1,212,612,IV,73,0.3,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 5 Door Hatchback From VIN: W0L0TGF4835127271,A4,2198,Petrol,11.6,6.5,8.4,24.4,43.5,33.6,201,584,IV,73,0.3,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 3/5 Door Hatchback From VIN: W0L0TGF0835127274/W0L0TGF4835127271,M5,2198,Petrol,11.7,6,8.1,24.1,47.1,34.9,194,563,IV,74,0.5,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 5 Door Estate From VIN: W0L0TGF3538000000/W0L0TGF3532000000,M5,2198,Petrol,12.1,6.5,8.6,23.3,43.5,32.8,207,599,IV,74,0.5,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 5 Door Estate From VIN: W0L0TGF3538070216/W0L0TGF3532161090,M5,2198,Petrol,11.7,6.1,8.2,24.1,46.3,34.4,196,571,IV,74,0.5,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra, Model Year 2003",2.2 16v 5 Door Hatchback From VIN: W0L0TGF4835000000,A4,2198,Petrol,11.7,6.6,8.5,24.1,42.8,33.2,204,592,IV,73,0.3,,0.1,0,,23-Apr-04
+VAUXHALL,"Astra Convertible, Model Year 2003",1.8 16v 2 Door From VIN: W0L0TGF673B000001,M5,1796,Petrol,11.1,6.2,8,25.4,45.6,35.3,192,556,IV,73,0.6,0,0,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",1.8 16v 2 Door From VIN: W0L0TGF673B007562,M5,1796,Petrol,10.8,5.9,7.7,26.2,47.9,36.7,184,535,IV,73,0.5,0,0,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",2.0 16v 2 Door From VIN: W0L0TGF673B000001,M5,1998,Petrol,12.8,7,9.1,22.1,40.4,31,219,634,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",2.0 16v 2 Door From VIN: W0L0TGF673B007562,M5,1998,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,214,620,IV,73,0.2,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",2.2 16v 2 Door From VIN: W0L0TGF673B007562,A4,2198,Petrol,12,6.8,8.7,23.5,41.5,32.5,209,604,IV,73,0.3,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",2.2 16v Bertone 2 Door From VIN: W0L0TGF673B000001,M5,2198,Petrol,12,6.3,8.4,23.5,44.8,33.6,202,584,IV,74,0.5,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003","2.2 16v Linea Rossa 2 Door, From VIN: W0L0TGF673B000001",M5,2198,Petrol,12.3,6.6,8.7,23,42.8,32.5,209,604,IV,74,0.5,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",2.2 16v Edition 100 2 Door From VIN: W0L0TGF673B007562,M5,2198,Petrol,11.8,6.1,8.2,23.9,46.3,34.4,187,571,IV,74,0.5,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Convertible, Model Year 2003",2.2 16v 2 Door From VIN: W0L0TGF673B000001,A4,2198,Petrol,12.2,7,8.9,23.2,40.4,31.7,214,620,IV,73,0.3,0.1,0.1,0,,09-May-03
+VAUXHALL,"Astra Coupe, Model Year 2003"," 2.0 16v 2 Door Coupé, From VIN: W0L0TGF073B000001 ",M5,1998,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,214,620,IV,73,0.2,0.1,0.1,0,,12-May-03
+VAUXHALL,"Astra Coupe, Model Year 2003"," 1.8 16v 2 Door Coupé, From VIN: W0L0TGF073B005399 ",M5,1796,Petrol,10.8,5.8,7.6,26.2,48.7,37.2,182,528,IV,73,0.5,0,0,0,,12-May-03
+VAUXHALL,"Astra Coupe, Model Year 2003"," 1.8 16v 2 Door Coupé, From VIN: W0L0TGF073B000001",M5,1796,Petrol,11,6.1,7.9,25.7,46.3,35.8,190,549,IV,73,0.5,0,0,0,,12-May-03
+VAUXHALL,"Astra Coupe, Model Year 2003"," 2.2 16v 2 Door Coupé, From VIN: W0L0TGF073B005399 ",M5,2198,Petrol,11.8,6.1,8.2,23.9,46.3,34.4,197,571,IV,74,0.5,0.1,0.1,0,,12-May-03
+VAUXHALL,"Astra Coupe, Model Year 2003"," 2.2 16v 2 Door Coupé, From VIN: W0L0TGF073B000001 ",A4,2198,Petrol,11.9,6.7,8.6,23.7,42.2,32.8,207,599,IV,73,0.3,0.1,0.1,0,,21-Apr-04
+VAUXHALL,"Astra Coupe, Model Year 2003"," 2.0 16v 2 Door Coupé, From VIN: W0L0TGF073B005399 ",M5,1998,Petrol,12.4,6.7,8.8,22.8,42.2,32.1,211,612,IV,73,0.2,0.1,0.1,0,,12-May-03
+VAUXHALL,"Corsa, Model Year 2003",1.0 12v 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,M5,973,Petrol,7.2,4.7,5.6,39.2,60.1,50.4,135,390,IV,71,0.3,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.0 12v 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,M5,973,Petrol,7.1,4.6,5.5,39.8,61.4,51.4,131,382,IV,71,0.3,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.0 12v 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,MTA,973,Petrol,6.9,4.7,5.5,40.9,60.1,51.4,132,382,IV,72,0.4,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.0 12v 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,MTA,973,Petrol,6.8,4.6,5.4,41.5,61.4,52.3,129,376,IV,72,0.4,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.0 12v Eco 3 Door Hatchback From VIN: W0L0XCF0834000001,MTA,973,Petrol,6.5,4,4.9,43.5,70.6,57.6,118,341,IV,71,0.4,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.2 16v GLS 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,M5,1199,Petrol,8.2,5.2,6.3,34.4,54.3,44.8,151,438,IV,71,0.2,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.2 16v 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,MTA,1199,Petrol,8,5.2,6.2,35.3,54.3,45.6,149,431,IV,73,0.3,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.2 16v GLS 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,M5,1199,Petrol,7.9,4.9,6,35.8,57.6,47.1,143,417,IV,71,0.2,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.2 16v 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,M5,1199,Petrol,8,5,6.1,35.3,56.5,46.3,146,424,IV,72,0.2,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,M5,1389,Petrol,9.8,5.7,7.2,28.8,49.6,39.2,173,501,IV,72,0.4,,0,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.2 16v 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,M5,1199,Petrol,8.4,5.3,6.4,33.6,53.3,44.1,154,445,IV,72,0.2,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v SRI 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834139399,M5,1389,Petrol,9.6,5.5,7,29.4,51.4,40.4,168,486,IV,72,0.4,,0,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,M5,1389,Petrol,9.4,5.3,6.8,30.1,53.3,41.5,163,473,IV,72,0.4,,0,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v 3 Door Hatchback From VIN: W0L0XCF0834000001,A4,1389,Petrol,10.7,6.1,7.8,26.4,46.3,36.2,188,543,IV,72,0.3,,0.1,0.1,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v 5 Door Hatchback From VIN: W0L0XCF6834000001,A4,1389,Petrol,10.8,6.2,7.9,26.2,45.6,35.8,190,549,IV,72,0.3,,0.1,0.1,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.8 16v 3/5 Door Hatchback From VIN: W0L0XCF0834000001/W0L0XCF6834000001,M5,1796,Petrol,11.2,6,7.9,25.2,47.1,35.8,190,549,IV,74,0.7,,0,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.8 16v 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,M5,1796,Petrol,11,5.8,7.7,25.7,48.7,36.7,185,535,IV,74,0.7,,0,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.2 16v 3/5 Door Hatchback From VIN: W0L0XCF0834139396/W0L0XCF6834139399,MTA,1199,Petrol,7.8,5,6,36.2,56.5,47.1,144,417,IV,73,0.3,,0.1,0,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v 3 Door Hatchback From VIN: W0L0XCF0834139396,A4,1389,Petrol,10.3,5.7,7.4,27.4,49.6,38.2,178,514,IV,72,0.3,,0.1,0.1,,26-Apr-04
+VAUXHALL,"Corsa, Model Year 2003",1.4 16v 5 Door Hatchback From VIN: W0L0XCF6834139399,A4,1389,Petrol,10.4,5.8,7.5,27.2,48.7,37.7,180,521,IV,72,0.3,,0.1,0.1,,26-Apr-04
+VAUXHALL,"Meriva, Model Year 2003",1.6 16v 5 Door Hatchback (Z16XE) From VIN: W0L0XCE7534000001,M5,1598,Petrol,9.9,6.1,7.5,28.5,46.3,37.7,179,521,IV,72,0.5,,0,0,,21-Apr-04
+VAUXHALL,"Meriva, Model Year 2003",1.8 5 Door Hatchback (Z18XE) From VIN: W0L0XCE7534000001,M5,1796,Petrol,10.9,6.6,8.2,25.9,42.8,34.4,196,571,IV,73,0.6,,0,0,,21-Apr-04
+VAUXHALL,"Meriva, Model Year 2003",1.6 8v 5 Door Hatchback (Z16SE) From VIN: W0L0XCE7534220260,M5,1598,Petrol,10.5,6.2,7.8,26.9,45.6,36.2,187,543,IV,71,0.7,,0.1,0,,21-Apr-04
+VAUXHALL,"Omega, Model Year 2003","2.2 16v 4 Door Saloon, From VIN: W0L0VBF6931000001",A4,2198,Petrol,14.8,7.7,10.3,19.1,36.7,27.4,248,717,IV,74,0.2,0.2,0.1,0,,08-May-03
+VAUXHALL,"Omega, Model Year 2003","2.2 16v 5 Door Estate, From VIN: W0L0VBF3531000001",A4,2198,Petrol,14.9,7.9,10.5,19,35.8,26.9,252,730,IV,74,0.2,0.2,0.1,0,,08-May-03
+VAUXHALL,"Omega, Model Year 2003","2.2 16v 4 Door Saloon, From VIN: W0L0VBF6931000001",M5,2198,Petrol,14,7.1,9.6,20.2,39.8,29.4,231,668,IV,74,0.4,0.1,0.1,0,,08-May-03
+VAUXHALL,"Omega, Model Year 2003","2.2 16v 4 Door Saloon, From VIN: W0L0VBF6931000001",A4,2198,Petrol,14.8,7.7,10.3,19.1,36.7,27.4,248,717,IV,74,0.2,0.2,0.1,0,,08-May-03
+VAUXHALL,"Omega, Model Year 2003","2.2 16v 5 Door Estate, From VIN: W0L0VBF3531000001",M5,2198,Petrol,14.1,7.3,9.8,20,38.7,28.8,236,682,IV,74,0.4,0.1,0.1,0,,08-May-03
+VAUXHALL,"Signum, Model Year 2003",2.2 16v Direct 5 Door Hatchback (Z22YH) From VIN: W0L0ZCF4831000001,M5,2198,Petrol,10.6,6.6,8.1,26.6,42.8,34.9,194,563,IV,74,0.2,,0,0,,21-Apr-04
+VAUXHALL,"Signum, Model Year 2003",2.2 16v Direct 5 Door Hatchback (Z22YH) From VIN: W0L0ZCF4831000001,A5,2198,Petrol,12.4,7.2,9.1,22.8,39.2,31,218,634,IV,74,0.4,,0.1,0,,21-Apr-04
+VAUXHALL,"Signum, Model Year 2003",3.2 V6 5 Door Hatchback (Z32SE) From VIN: W0L0ZCF4831000001,M5,3175,Petrol,14.3,7.6,10.1,19.8,37.2,28,242,701,IV,74,0.7,,0.1,0,,21-Apr-04
+VAUXHALL,"Signum, Model Year 2003",2.0 16v Turbo 5 Door Hatchback (Z20NET) From VIN: W0L0ZCF4831000001,M6,1998,Petrol,13.1,6.9,9.2,21.6,40.9,30.7,221,640,IV,73,0.7,,0.1,0,,21-Apr-04
+VAUXHALL,"Signum, Model Year 2003",3.2 V6 5 Door Hatchback (Z32SE) From VIN: W0L0ZCF4831000001,A5,3175,Petrol,15.7,7.8,10.7,18,36.2,26.4,256,744,IV,74,0.3,,0.1,0,,21-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",1.8 16v Elegance/Club/LS/Elite 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931000000/W0L0ZCF6838000000,M5,1796,Petrol,10.8,5.9,7.7,26.2,47.9,36.7,184,535,IV,72,0.2,,0,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",1.8 16v SXI/SRI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931000000/W0L0ZCF6838000000,M5,1796,Petrol,11.1,6.1,7.9,25.4,46.3,35.8,190,549,IV,72,0.6,,0,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",1.8 16v SXI/SRI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931077952/W0L0ZCF6838056497,M5,1796,Petrol,10.7,5.8,7.6,26.4,48.7,37.2,182,528,IV,72,0.6,,0,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",1.8 16v Elegance/Club/LS/Elite 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931077952/W0L0ZCF6838056497,M5,1796,Petrol,10.4,5.6,7.4,27.2,50.4,38.2,177,514,IV,72,0.2,,0,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v SRI 5 Door Hatchback From VIN: W0L0ZCF6838056497,M5,2198,Petrol,11.5,6.3,5.2,24.6,44.8,34.3,197,573,IV,73,0.5,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",3.2 V6 Elite/GSI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931000000/W0L0ZCF6838000000,M5,3175,Petrol,14.3,7.6,10.1,19.8,37.2,28,243,701,IV,74,0.7,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v Elegance/Elite/LS/SXI/SRI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931000000/W0L0ZCF6838000000,M5,2198,Petrol,11.9,6.7,8.6,23.7,42.2,32.8,206,599,IV,73,0.5,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v LS 5 Door Hatchback From VIN: W0L0ZCF6838000000,M5,2198,Petrol,11.9,6.7,8.6,23.7,42.2,32.8,206,599,IV,73,0.5,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",3.2 V6 Elite 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931000000/W0L0ZCF6838000000,A5,3175,Petrol,15.8,7.8,10.7,17.9,36.2,26.4,257,744,IV,74,0.3,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",3.2 V6 Elite 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931077952/W0L0ZCF6838056497,A5,3175,Petrol,15.5,7.6,10.5,18.2,37.2,26.9,252,730,IV,74,0.3,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",3.2 V6 Elite/GSI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931077952/W0L0ZCF6838056497,M5,3175,Petrol,14,7.3,9.8,20.2,38.7,28.8,235,682,IV,74,0.7,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v Elegance/Elite/LS/SXI/SRI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931000000/W0L0ZCF6838000000,A5,2198,Petrol,13.6,6.9,9.4,20.8,40.9,30.1,226,652,IV,71,0.4,,0,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v Elegance/Elite/LS/SRI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931077952/W0L0ZCF6838056497,A5,2198,Petrol,13.5,6.8,9.3,20.9,41.5,30.4,223,646,IV,71,0.4,,0,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v Elegance/Elite/SXI 4/5 Door Saloon/Hatchback From VIN: W0L0ZCF6931077952/W0L0ZCF6838056497,M5,2198,Petrol,11.5,6.3,8.2,24.6,44.8,34.4,197,571,IV,73,0.5,,0.1,0,,26-Apr-04
+VAUXHALL,"Vectra, Model Year 2003",2.2 16v LS 5 Door Hatchback From VIN: W0L0ZCF6838056497,M5,2198,Petrol,11.5,6.3,8.2,24.6,44.8,34.4,197,571,IV,73,0.5,,0.1,0,,26-Apr-04
+VAUXHALL,"VX220, Model Year 2003","2.0 16v 2 Door Convertible, From VIN: W0L0EBR973N000001",M5,1998,Petrol,11.9,6.5,8.5,23.7,43.5,33.2,202,592,IV,75,0.3,0.1,0.1,0,,09-May-03
+VAUXHALL,"Zafira, Model Year 2003","2.0 16v GSI 5 Door Estate, From VIN: W0L0TGF7532157402",M5,1998,Petrol,13.1,7.2,9.4,21.6,39.2,30.1,225,652,IV,74,0.4,0.1,0.1,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","2.0 16v 5 Door Estate, From VIN: W0L0TGF7532000000",M5,1998,Petrol,13.8,7.9,10.1,20.5,35.8,28,243,701,IV,74,0.4,0.1,0.1,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","2.2 16v 5 Door Estate, From VIN: W0L0TGF7532000000",A4,2198,Petrol,13.1,7.4,9.5,21.6,38.2,29.7,228,661,IV,73,0.3,0.1,0.1,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","1.6 16v 5 Door Estate, From VIN: W0L0TGF7532000000",M5,1598,Petrol,10.3,6.5,7.9,27.4,43.5,35.8,190,549,IV,73,0.2,0.1,0,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","1.6 16v 5 Door Estate, From VIN: W0L0TGF7532157402",M5,1598,Petrol,9.9,6.1,7.5,28.5,46.3,37.7,180,521,IV,73,0.2,0.1,0,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","2.0 16v GSI 5 Door Estate, From VIN: W0L0TGF7532000000",M5,1998,Petrol,13.8,7.9,10.1,20.5,35.8,28,243,701,IV,74,0.4,0.1,0.1,0,,21-Apr-04
+VAUXHALL,"Zafira, Model Year 2003","2.2 16v 5 Door Estate, From VIN: W0L0TGF7532157402",A4,2198,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,214,620,IV,73,0.3,0.1,0.1,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","2.2 16v 5 Door Estate, From VIN: W0L0TGF7532000000",M5,2198,Petrol,12.2,7,8.9,23.2,40.4,31.7,214,620,IV,74,0.5,0.1,0.1,0,,08-May-03
+VAUXHALL,"Zafira, Model Year 2003","2.2 16v 5 Door Estate, From VIN: W0L0TGF7532157402",M5,2198,Petrol,11.8,6.6,8.5,23.9,42.8,33.2,204,592,IV,74,0.5,0.1,0.1,0,,21-Apr-04
+VAUXHALL,"Zafira, Model Year 2003",1.6 16v 5 Door Estate,M5,1598,LPG,13.5,8.9,10.6,20.9,31.7,26.7,172,368,IV,73,0.4,,0,0,,19-Mar-03
+VAUXHALL,"Zafira, Model Year 2003",1.8 16v Elegance/Club/Design/Comfort 5 Door Estate From VIN: W0L0TGF7532000000,A4,1796,Petrol,12.4,7.2,9.1,22.8,39.2,31,219,634,IV,71,0.5,,0,0,,27-Apr-04
+VAUXHALL,"Zafira, Model Year 2003",1.8 16v Elegance/Club/Design 5 Door Estate From VIN: W0L0TGF7532157402,A4,1796,Petrol,11.9,6.8,8.7,23.7,41.5,32.5,208,604,IV,71,0.5,,0,0,,27-Apr-04
+VAUXHALL,"Zafira, Model Year 2003",1.8 16v 5 Door Estate From VIN: W0L0TGF7532157402,M5,1796,Petrol,11,6.5,8.2,25.7,43.5,34.4,196,571,IV,73,0.6,,0,0,,27-Apr-04
+VAUXHALL,"Zafira, Model Year 2003",1.8 16v 5 Door Estate,M5,1796,LPG,15.4,9.1,11.4,18.4,31.1,24.8,184,396,IV,73,0.9,,0,0,,27-Apr-04
+VAUXHALL,"Zafira, Model Year 2003",1.8 16v 5 Door Estate From VIN: W0L0TGF7532000000,M5,1796,Petrol,11.4,6.9,8.6,24.8,40.9,32.8,207,599,IV,73,0.6,,0,0,,27-Apr-04
+VOLKSWAGEN,Lupo,1.4 (75 PS) ,M5,1390,Petrol,8.7,4.9,6.3,32.5,57.6,44.8,151,438,IV,72.5,0.2,,0.1,0,,26-Feb-04
+VOLKSWAGEN,Lupo,1.4 (75 PS) ,A4,1390,Petrol,10.1,5.7,7.3,28,49.6,38.7,175,507,IV,71,0.1,,0.1,0.1,,26-Feb-04
+VOLKSWAGEN,Lupo,1.0 (50 PS),M5,999,Petrol,7.8,4.7,5.8,36.2,60.1,48.7,139,403,IV,72.5,0.2,,0.1,0,,29-May-03
+VOLKSWAGEN,Lupo,1.4 (100 PS),M5,1390,Petrol,9.6,5.2,6.8,29.4,54.3,41.5,163,473,IV,73,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Lupo,1.6 16v GTI (125 PS),M6,1598,Petrol,10.5,5.6,7.4,26.9,50.4,38.2,178,514,IV,74,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Polo,1.4 (86 PS) FSI,M5,1390,Petrol,7.8,4.8,5.9,36.2,58.9,47.9,142,410,IV,71,0.2,,0.1,0,,29-May-03
+VOLKSWAGEN,Polo,1.2 (65 PS) ,M5,1198,Petrol,7.7,5.1,6,36.7,55.4,47.1,144,417,IV,72,0.6,,0.1,0,,26-Feb-04
+VOLKSWAGEN,Polo,1.2 (55 PS),M5,1198,Petrol,7.9,4.8,6,35.8,58.9,47.1,144,417,IV,72,0.5,,0,0,,29-May-03
+VOLKSWAGEN,Polo,1.4 (100 PS) ,M5,1390,Petrol,9,5.4,6.7,31.4,52.3,42.2,161,465,IV,71,0.3,,0.1,0,,26-Feb-04
+VOLKSWAGEN,Polo,1.4 (75 PS) ,M5,1390,Petrol,8.9,5.3,6.5,31.7,53.3,43.5,156,451,IV,72,0.2,,0.1,0,,29-May-03
+VOLKSWAGEN,Polo,1.4 (75 PS),A4,1390,Petrol,10.4,6,7.6,27.2,47.1,37.2,182,528,IV,69,0.1,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),3.2 V6 (240 PS),QM6,3189,Petrol,16.4,8.6,11.5,17.2,32.8,24.6,276,798,IV,74,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),1.8T (180 PS),M6,1781,Petrol,11.8,6.6,8.5,23.9,42.8,33.2,204,592,IV,73,0.5,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),1.4 (75 PS),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,473,IV,73,0.1,,0.1,0,,10-Jun-03
+VOLKSWAGEN,Golf Hatchback (3 Door),2.0 (115 PS),M5,1984,Petrol,11.3,6.2,8.1,25,45.6,34.9,194,563,IV,72,0.2,,0,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),1.8T GTI (150 PS),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),V5 (170 PS),M5,2324,Petrol,12.5,6.7,8.8,22.6,42.2,32.1,211,612,IV,72,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),V6 4MOTION (204 PS),QM6,2792,Petrol,15.8,8.3,11.1,17.9,34,25.4,266,773,IV,74,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (3 Door),V5 (170 PS),A5,2324,Petrol,13.9,7.4,9.8,20.3,38.2,28.8,235,682,IV,73,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),1.4 (75 PS),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,473,IV,73,0.1,,0.1,0,,10-Jun-03
+VOLKSWAGEN,Golf Hatchback (5 Door),1.6 (102 PS),A4,1595,Petrol,11.7,6.4,8.4,24.1,44.1,33.6,201,584,IV,69,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),1.6 (105 PS),M5,1598,Petrol,9.5,5.7,7.1,29.7,49.6,39.8,170,493,IV,71,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),2.0 (115 PS),M5,1984,Petrol,11.3,6.2,8.1,25,45.6,34.9,194,563,IV,72,0.2,,0,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),1.8T GTI (150 PS),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),V5 (170 PS),M5,2324,Petrol,12.5,6.7,8.8,22.6,42.2,32.1,211,612,IV,72,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),V6 4MOTION (204 PS),QM6,2792,Petrol,15.8,8.3,11.1,17.9,34,25.4,266,773,IV,74,0.4,,0,0,,21-Apr-04
+VOLKSWAGEN,Golf Hatchback (5 Door),1.8T (180 PS),M6,1781,Petrol,11.8,6.6,8.5,23.9,42.8,33.2,204,592,IV,73,0.5,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),3.2 V6 (240 PS),QM6,3189,Petrol,16.5,8.7,11.6,17.1,32.5,24.4,278,805,IV,74,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Golf Hatchback (5 Door),V5 Tiptronic (170 PS),A5,2324,Petrol,13.9,7.4,9.8,20.3,38.2,28.8,235,682,IV,73,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf 3 Door (from 2004),2.0 TDI PD (140 PS),M6,1968,Diesel,7.4,4.8,5.7,38.2,58.9,49.6,154,412,IV,72,0.1,0.3,,0.2,0,28-Jan-04
+VOLKSWAGEN,Golf 3 Door (from 2004),2.0 SDI (75 PS),M5,1968,Diesel,6.8,4.7,5.4,41.5,60.1,52.3,146,391,IV,73,0.2,0.2,,0.2,0,02-Feb-04
+VOLKSWAGEN,Golf 3 Door (from 2004),2.0 FSI (150 PS),M6,1984,Petrol,10.3,5.8,7.4,27.4,48.7,38.2,178,514,IV,72,0.3,,0.1,0.1,,29-Jan-04
+VOLKSWAGEN,Golf 3 Door (from 2004),1.9 TDI PD (105 PS),M5,1896,Diesel,6.6,4.5,5.2,42.8,62.8,54.3,140,377,IV,73,0,0.2,,0.1,0,28-Jan-04
+VOLKSWAGEN,Golf 3 Door (from 2004),1.4 (75 PS),M5,1390,Petrol,9.5,5.5,6.9,29.7,51.4,40.9,166,480,IV,74,0.2,,0.1,0.1,,28-Jan-04
+VOLKSWAGEN,Golf 3 Door (from 2004),1.6 FSI (115 PS),M6,1598,Petrol,8.7,5.4,6.6,32.5,52.3,42.8,158,459,IV,73,0.1,,0,0,,28-Jan-04
+VOLKSWAGEN,Golf 3 Door (from 2004),1.4 FSI (90 PS),M5,1390,Petrol,8.7,5.3,6.5,32.5,53.3,43.5,156,451,IV,72,0.2,,0.1,0.1,,28-Jan-04
+VOLKSWAGEN,Golf 3 Door (from 2004),2.0 TDI PD (140 PS) DSG,D6,1986,Diesel,8,5,6.1,35.3,56.5,46.3,165,442,IV,71,0.1,0.2,,0.2,0,19-Mar-04
+VOLKSWAGEN,Golf 3 Door (from 2004),1.9 TDI PD (105 PS) DSG,D6,1896,Diesel,7.5,4.8,5.8,37.7,58.9,48.7,157,420,IV,69,0.1,0.3,,0.2,0,19-Mar-04
+VOLKSWAGEN,Golf 5 Door (from 2004),2.0 TDI PD (140 PS) DSG,D6,1968,Diesel,8,5,6.1,35.3,56.5,46.3,165,442,IV,71,0.1,0.2,,0.2,0,19-Mar-04
+VOLKSWAGEN,Golf 5 Door (from 2004),1.9 TDI PD (105 PS) DSG,D6,1896,Diesel,7.5,4.8,5.8,37.7,58.9,48.7,157,420,IV,69,0.1,0.3,,0.2,0,19-Mar-04
+VOLKSWAGEN,Golf 5 Door (from 2004),1.9 TDI PD (105 PS),M5,1896,Diesel,6.7,4.6,5.3,42.2,61.4,53.3,143,384,IV,73,0,0.2,,0.2,0,28-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),2.0 FSI (150 PS),A6,1984,Petrol,12.2,6.4,8.5,23.2,44.1,33.2,204,592,IV,72,0.2,,0,0,,28-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),1.4 (75 PS),M5,1390,Petrol,9.6,5.6,7,29.4,50.4,40.4,168,486,IV,74,0.2,,0.1,0.1,,28-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),2.0 TDI PD (140 PS),M6,1968,Diesel,7.4,4.8,5.7,38.2,58.9,49.6,154,412,IV,72,0.1,0.3,,0.2,0,28-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),1.4 FSI (90 PS),M5,1390,Petrol,8.7,5.3,6.5,32.5,53.3,43.5,156,451,IV,72,0.2,,0.1,0.1,,28-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),2.0 FSI (150 PS),M6,1984,Petrol,10.3,5.8,7.4,27.4,48.7,38.2,178,514,IV,72,0.3,,0.1,0.1,,29-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),2.0 SDI (75 PS),M5,1968,Diesel,6.8,4.7,5.4,41.5,60.1,52.3,146,391,IV,73,0.2,0.2,,0.2,0,02-Feb-04
+VOLKSWAGEN,Golf 5 Door (from 2004),1.6 FSI (115 PS),M6,1598,Petrol,8.9,5.5,6.8,31.7,51.4,41.5,163,473,IV,73,0.1,,0,0,,28-Jan-04
+VOLKSWAGEN,Golf 5 Door (from 2004),1.6 FSI (115 PS),A6,1598,Petrol,10,5.8,7.4,28.2,48.7,38.2,178,514,IV,73,0.2,,0.1,0,,28-Jan-04
+VOLKSWAGEN,Golf Estate,1.4 (75 PS),M5,1390,Petrol,9.3,5.6,7,30.4,50.4,40.4,168,486,IV,72,0.1,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Estate,1.6 (105 PS),M5,1598,Petrol,9.5,5.7,7.1,29.7,49.6,39.8,170,493,IV,71,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Estate,2.0 (115 PS),M5,1984,Petrol,11.4,6.3,8.2,24.8,44.8,34.4,190,571,IV,71,0.2,,0,0,,02-Feb-04
+VOLKSWAGEN,Golf Estate,1.8T GTI (150 PS),M5,1781,Petrol,10.9,6.4,8.1,25.9,44.1,34.9,194,563,IV,71,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Golf Estate,1.6 (102 PS) ,A4,1390,Petrol,11.8,6.5,8.5,23.9,43.5,33.2,204,592,IV,69,0.5,,0.1,0,,26-Feb-04
+VOLKSWAGEN,Bora,1.6 (102 PS),A4,1595,Petrol,11.7,6.4,8.4,24.1,44.1,33.6,201,584,IV,67,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Bora,1.6 (105 PS),M5,1598,Petrol,9.5,5.7,7.1,29.7,49.6,39.8,170,493,IV,71,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Bora,2.0 (115 PS),M5,1984,Petrol,11.4,6.3,8.2,24.8,44.8,34.4,197,571,IV,72,0.2,,0,0,,29-May-03
+VOLKSWAGEN,Bora,1.8T (150 PS),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,556,IV,71,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Bora,V5 (170 PS),M5,2324,Petrol,12.6,6.8,8.9,22.4,41.5,31.7,214,620,IV,72,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Bora,V5 Tiptronic (170 PS),A5,2324,Petrol,13.9,7.4,9.8,20.3,38.2,28.8,235,682,IV,73,0.7,,0.1,0,,29-May-03
+VOLKSWAGEN,Bora,V6 4MOTION (204 PS),QM6,2792,Petrol,15.8,8.3,11.1,17.9,34,25.4,266,773,IV,74,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Bora,1.8T (180 PS),M6,1781,Petrol,11.9,6.7,8.6,23.7,42.2,32.8,206,599,IV,73,0.5,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Beetle,2.0 (115 PS),M5,1984,Petrol,11.9,6.8,8.7,23.7,41.5,32.5,209,604,IV,73.5,0.2,,0.1,0,,29-May-03
+VOLKSWAGEN,Beetle,2.3 V5 (170 PS),M5,2324,Petrol,12.4,6.8,8.9,22.8,41.5,31.7,214,620,IV,74,0.5,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Beetle,1.6 (102 PS),M5,1598,Petrol,10.5,6,7.7,26.9,47.1,36.7,185,535,IV,73,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Beetle,2.0 (115 PS),A4,1984,Petrol,13.3,7.3,9.5,21.2,38.7,29.7,228,661,IV,73,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Beetle,1.8 20v Turbo (150 PS),M5,1718,Petrol,11.1,6.5,8.2,25.4,43.5,34.4,197,571,IV,72,0.6,,0,0,,29-May-03
+VOLKSWAGEN,Beetle,1.4 (75 PS),M5,1390,Petrol,9.4,5.8,7.1,30.1,48.7,39.8,170,493,IV,72,0.2,,0.1,0,,26-Feb-04
+VOLKSWAGEN,Beetle Cabriolet,1.8T (150 PS),M5,1781,Petrol,11.2,6.6,8.3,25.2,42.8,34,199,578,IV,72,0.6,,0,0,,18-Dec-03
+VOLKSWAGEN,Beetle Cabriolet,1.4 (75 PS),M5,1390,Petrol,9.6,5.9,7.2,29.4,47.9,39.2,173,501,IV,72,0.2,,0.1,0,,29-May-03
+VOLKSWAGEN,Beetle Cabriolet,1.6 (102 PS),M5,1595,Petrol,10.6,6.1,7.8,26.6,46.3,36.2,187,543,IV,73,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Beetle Cabriolet,2.0 (115 PS),M5,1984,Petrol,12,6.9,8.8,23.5,40.9,32.1,211,612,IV,72,0.3,,0,0,,29-May-03
+VOLKSWAGEN,Beetle Cabriolet,2.0 (115 PS),A6,1984,Petrol,13.4,7,9.3,21.1,40.4,30.4,223,646,IV,71,0.3,,0,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,2.0 (130 PS),M5,1984,Petrol,11.6,6.1,8.1,24.4,46.3,34.9,194,563,IV,74,0.4,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,1.8 20v Turbo (150 PS),M5,1781,Petrol,11.5,6.5,8.3,24.6,43.5,34,199,578,IV,72,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,1.8 20v Turbo Tiptronic (150 PS),A5,1781,Petrol,13.6,7.2,9.6,20.8,39.2,29.4,233,668,IV,71,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,2.3 V5 Tiptronic (170 PS),A5,2324,Petrol,15,7.1,9.9,18.8,39.8,28.5,238,689,IV,71,0.6,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,2.8 V6 4MOTION (193 PS),QM5,2771,Petrol,15.4,8.1,10.8,18.3,34.9,26.2,259,750,IV,72,0.3,,0,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,2.8 V6 4MOTION Tiptronic (193 PS),QA5,2771,Petrol,16.4,8,11.1,17.2,35.3,25.4,266,773,IV,73,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,W8 Tiptronic (275 PS),QA5,3999,Petrol,19.5,9.3,13,14.5,30.4,21.7,312,905,IV,73,0.6,,0,0.1,,26-Jun-03
+VOLKSWAGEN,Passat Saloon,W8 (275 PS),QM6,3999,Petrol,19.5,9.6,13.2,14.5,29.4,21.4,317,918,IV,74,0.8,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Saloon,2.3 V5 (170 PS),M5,2324,Petrol,13,7.2,9.3,21.7,39.2,30.4,223,646,IV,71,0.5,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Passat Saloon,2.5 V6 TDI (163 PS),M6,2496,Diesel,9.9,5.3,6.9,28.5,53.3,40.9,186,500,IV,74,0.3,0.2,,0.2,0,28-Jan-04
+VOLKSWAGEN,Passat Saloon,2.5 V6 TDI (163 PS),A5,2496,Diesel,11.6,5.8,7.9,24.4,48.7,35.8,213,571,IV,72,0.2,0.3,,0.2,0,28-Jan-04
+VOLKSWAGEN,Passat Estate,2.5 V6 TDI (163 PS),M6,2496,Diesel,10,5.5,7.1,28.2,51.4,39.8,192,514,IV,74,0.3,0.2,,0.2,0,28-Jan-04
+VOLKSWAGEN,Passat Estate,2.5 V6 TDI (163 PS),A5,2496,Diesel,11.7,5.9,8,24.1,47.9,35.3,216,580,IV,72,0.2,0.3,,0.2,0,28-Jan-04
+VOLKSWAGEN,Passat Estate,2.3 V5 (170 PS),A5,2324,Petrol,15.3,7.3,10.3,18.5,38.7,27.4,247,717,IV,71,0.6,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Estate,W8 Tiptronic (275 PS),QA5,3999,Petrol,19.6,9.5,13.2,14.4,29.7,21.4,317,918,IV,73,0.6,,0,0.1,,26-Jun-03
+VOLKSWAGEN,Passat Estate,W8 (275 PS),QM6,3999,Petrol,19.5,9.7,13.3,14.5,29.1,21.2,319,926,IV,74,0.8,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Estate,1.8 20v Turbo (150 PS),M5,1781,Petrol,11.8,6.8,8.6,23.9,41.5,32.8,206,599,IV,72,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Passat Estate,1.8 20v Turbo Tiptronic (150 PS),A5,1781,Petrol,13.7,7.4,9.8,20.6,38.2,28.8,235,682,IV,71,0.4,,0,0,,29-May-03
+VOLKSWAGEN,Passat Estate,2.3 V5 (170 PS),M5,2324,Petrol,13.1,7.3,9.4,21.6,38.7,30.1,226,652,IV,71,0.5,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Passat Estate,2.8 V6 4MOTION Tiptronic (193 PS),QA5,2771,Petrol,16.7,8.2,11.3,16.9,34.4,25,271,786,IV,73,0.3,,0.1,0,,29-May-03
+VOLKSWAGEN,Passat Estate,2.8 V6 4MOTION (193 PS),QM5,2771,Petrol,15.5,8.2,10.9,18.2,34.4,25.9,262,758,IV,72,0.3,,0,0,,29-May-03
+VOLKSWAGEN,Passat Estate,2.0 (130 PS),M5,1984,Petrol,11.8,6.4,8.4,23.9,44.1,33.6,202,584,IV,74,0.4,,0.1,0,,29-May-03
+VOLKSWAGEN,Sharan,2.8 V6 (204 PS),M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,750,IV,73,0.3,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Sharan,2.8 V6 4MOTION (204 PS),QM6,2792,Petrol,15.5,9.3,11.6,18.2,30.4,24.4,278,805,IV,74,0.3,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Sharan,2.0 (115 PS),M6,1984,Petrol,13.1,7.7,9.7,21.6,36.7,29.1,233,675,IV,74,0.8,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Sharan,1.8 20v Turbo Tiptronic (150 PS),A5,1781,Petrol,14.7,8.6,10.8,19.2,32.8,26.2,259,750,IV,70,0.3,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Sharan,1.8 20v Turbo (150 PS),M6,1781,Petrol,13.3,7.6,9.7,21.2,37.2,29.1,233,675,IV,74,0.5,,0.1,0,,29-May-03
+VOLKSWAGEN,Sharan,2.0 (115 PS),A4,1984,Petrol,14.8,8.7,11,19.1,32.5,25.7,264,764,IV,73,0.8,,0.1,0.1,,29-May-03
+VOLKSWAGEN,Sharan,2.8 V6 Tiptronic (204 PS),A5,2792,Petrol,16.8,9.2,12,16.8,30.7,23.5,288,836,IV,73,0.4,,0.1,0,,29-May-03
+VOLKSWAGEN,Touareg,V6,A6,3189,Petrol,18.6,10.6,13.5,15.2,26.6,20.9,324,940,IV,74,0.5,,0.1,0,,26-Jun-03
+VOLKSWAGEN,Touareg,V8,A6,4172,Petrol,20.3,11.6,14.8,13.9,24.4,19.1,355,1028,IV,73,0.4,,0.1,0,,12-Mar-03
+VOLKSWAGEN,Phaeton,3.2 V6 ,A5,3189,Petrol,17.2,9.4,12.2,16.4,30.1,23.2,293,846,IV,73,0.3,,0,0,,21-Feb-03
+VOLKSWAGEN,Phaeton,V8 (335 PS),A6,4172,Petrol,18.9,9.8,13.1,14.9,28.8,21.6,314,909,IV,72,0.5,,0.1,0,,26-Jun-03
+VOLKSWAGEN,Phaeton,W12,A5,5998,Petrol,23.9,10.9,15.6,11.8,25.9,18.1,374,1085,IV,72,0.1,,0.1,0,,25-Mar-02
+VOLKSWAGEN,Touran,1.6 FSI (115 PS),M6,1598,Petrol,9.7,6.4,7.6,29.1,44.1,37.2,182,528,IV,73,0.1,,0,0,,26-Jun-03
+VOLKSWAGEN,Touran,1.6 FSI Tiptronic (115 PS),A6,1598,Petrol,10.7,6.5,8,26.4,43.5,35.3,159,556,IV,72,0.2,,0.1,0,,21-Apr-04
+VOLKSWAGEN,Touran,1.6 SRE (102 PS),M5,1595,Petrol,11.1,6.4,8.1,25.4,44.1,34.9,194,563,IV,73,0.6,,0.1,0,,26-Jun-03
+VOLKSWAGEN,Touran,1.9 TDI (100 PS),M6,1896,Diesel,7.5,5.3,6,37.7,53.3,47.1,162,434,IV,72,0.1,0.2,,0.2,0,16-Jan-04
+VOLKSWAGEN,Touran,2.0 TDI (136 PS),M6,1968,Diesel,7.7,5.3,6.1,36.7,53.3,46.3,165,442,IV,72,0.1,0.3,,0.2,0,07-Oct-03
+VOLKSWAGEN,Touran,2.0 FSI (150 PS),M6,1984,Petrol,11.2,6.6,8.3,25.2,42.8,34,198,578,IV,72,0.5,,0.1,0,,18-Dec-03
+VOLKSWAGEN,Touran,2.0 TDI PD (140 PS) DSG ,D6,1968,Diesel,8.4,5.5,6.6,33.6,51.4,42.8,178,478,IV,71,0.1,0.3,,0.2,0,19-Mar-04
+VOLKSWAGEN C.V.,"Caravelle (S,SE,Executive) From Oct 2003",3.2 V6 (235 PS) ,A6,3198,Petrol,18.2,9.9,12.9,15.5,28.5,21.9,310,897,IV,70,0.4,,0,0,,11-Mar-04
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,M5,2435,Petrol,12,6.9,8.8,23.5,40.9,32.1,211,612,IV,74,0.4,,0.1,0,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,M5,2435,CNG  ,12.9,6.7,9,21.9,42.2,31.4,161,0,IV,74,0.3,,0,0,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,A4,2435,Petrol,14.2,7,9.6,19.9,40.4,29.4,231,668,IV,74,0.5,,0.1,0.1,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,A4,2435,CNG  ,14.4,7.4,10,19.6,38.2,28.2,178,0,IV,74,0.6,,0.1,0,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,M5,2435,Petrol,12.1,6.9,8.8,23.3,40.9,32.1,211,612,IV,74,0.4,,0.1,0,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,M5,2435,LPG,15.8,8.8,11.4,17.9,32.1,24.8,185,396,IV,74,0.5,,0,0,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,A5,2435,Petrol,14,7.1,9.6,20.2,39.8,29.4,231,668,IV,74,0.4,,0.1,0.1,,19-Mar-03
+VOLVO,S60 Model Year 2002,2.4 Bi-Fuel ,A5,2435,LPG,18.5,9.6,12.9,15.3,29.4,21.9,209,448,IV,74,0.4,,0,0,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 (170 bhp),M5,2435,Petrol,12.5,7.2,9.1,22.6,39.2,31,219,634,IV,72,0.7,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 2002,2.4 (170 bhp),A5,2435,Petrol,13.6,7.4,9.7,20.8,38.2,29.1,231,675,IV,73,0.6,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 2002,2.4 (140 bhp),M5,2435,Petrol,12.2,7,8.9,23.2,40.4,31.7,214,620,IV,73,0.6,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 2002,2.4 (140 bhp),A5,2435,Petrol,13.5,7.3,9.6,20.9,38.7,29.4,229,668,IV,73,0.5,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,M5,2435,Petrol,12.3,7.3,9.1,23,38.7,31,219,634,IV,74,0.4,,0,0,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,M5,2435,LPG,16.4,9.7,12.2,17.2,29.1,23.2,197,423,IV,74,0.4,,0,0,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,A5,2435,Petrol,14.5,7.7,10.2,19.5,36.7,27.7,244,709,IV,74,0.5,,0.1,0.1,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,A5,2435,LPG,19,10.5,13.6,14.9,26.9,20.8,221,472,IV,74,0.4,,0,0,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,M5,2435,Petrol,12.6,7,9.1,22.4,40.4,31,219,634,IV,74,0.4,,0.1,0,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,M5,2435,CNG  ,13.3,7.5,9.6,21.2,37.7,29.4,171,0,IV,74,0.4,,0.1,0,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,A4,2435,Petrol,14.2,7.9,10.2,19.9,35.8,27.7,244,709,IV,74,0.5,,0.1,0.1,,19-Mar-03
+VOLVO,V70 Model Year 2002,2.4 Bi-Fuel ,A4,2435,CNG  ,14.9,7.8,10.4,19,36.2,27.2,186,0,IV,74,0.5,,0.1,0,,19-Mar-03
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,M5,2435,Petrol,12.3,6.9,8.9,23,40.9,31.7,213,620,IV,74,0.4,,0.1,0,,19-Mar-03
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,M5,2435,CNG  ,12.8,7.1,9.2,22.1,39.8,30.7,164,0,IV,74,0.4,,0.1,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,A4,2435,Petrol,14.9,7.6,10.1,19,37.2,28,246,701,IV,74,0.6,,0.1,0.1,,19-Mar-03
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,A4,2435,CNG  ,15.1,7.9,10.5,18.7,35.8,26.9,187,0,IV,74,0.6,,0.1,0,,19-Mar-03
+VOLVO,S80 Model Year 2002,2.9,A4,2922,Petrol,15.1,8.3,10.8,18.7,34,26.2,259,750,IV,74,0.1,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 (170 bhp),M5,2435,Petrol,12.2,7,9,23.2,40.4,31.4,215,625,IV,72,0.5,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 (170 bhp),A5,2435,Petrol,13.7,7.3,9.7,20.6,38.7,29.1,231,675,IV,73,0.5,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 (140 bhp),M5,2435,Petrol,12.2,6.9,8.9,23.2,40.9,31.7,211,620,IV,73,0.5,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 (140 bhp),A5,2435,Petrol,13.7,7.2,9.6,20.6,39.2,29.4,229,668,IV,74,0.5,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,M5,2435,Petrol,12.4,6.9,8.9,22.8,40.9,31.7,213,620,IV,74,0.5,,0.1,0,,19-Mar-03
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,M5,2435,LPG,16.1,8.9,11.6,17.5,31.7,24.4,187,402,IV,74,0.6,,0.1,0,,19-Mar-03
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7.6,10,19.9,37.2,28.2,240,696,IV,74,0.6,,0.1,0.1,,19-Mar-03
+VOLVO,S80 Model Year 2002,T6 ,A4,2922,Petrol,16.3,8.4,11.3,17.3,33.6,25,272,786,IV,74,0.1,,0.1,0,,02-Feb-04
+VOLVO,S80 Model Year 2002,2.4 Bi-Fuel ,A5,2435,LPG,18.7,10.1,13.3,15.1,28,21.2,215,463,IV,74,0.5,,0,0,,19-Mar-03
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel ,M5,2435,Petrol,12.6,7.1,9.1,22.4,39.8,31,217,634,IV,74,0.4,,0,0,,11-Oct-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel ,M5,2435,LPG,15.6,9.1,11.5,18.1,31,24.6,186,399,IV,74,0.7,,0,0,,11-Oct-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel ,A5,2435,Petrol,14,7.1,9.6,20.2,39.8,29.4,231,668,IV,74,0.4,,0.1,0.1,,29-Jul-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel ,A5,2435,LPG,18.5,9.6,12.9,15.3,29.4,21.9,209,448,IV,74,0.3,,0,0,,29-Jul-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel ,M5,2435,Petrol,12,6.9,8.8,23.5,40.9,32.1,211,612,IV,74,0.4,,0.1,0,,29-Jul-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel,M5,2435,CNG  ,12.9,6.7,9,21.9,42.2,31.4,161,0,IV,74,0.3,,0,0,,29-Jul-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7,9.6,19.9,40.4,29.4,231,668,IV,74,0.5,,0.1,0.1,,29-Jul-02
+VOLVO,S60 Model Year 03,2.4 Bi-Fuel,A5,2435,CNG  ,14.4,7.4,10,19.6,38.2,28.2,178,0,IV,74,0.6,,0.1,0,,29-Jul-02
+VOLVO,XC70 Model Year 03,2.5T,M5,2521,Petrol,13.8,8.4,10.4,20.5,33.6,27.2,249,722,IV,72,0.2,,0,0,,29-Jul-02
+VOLVO,XC70 Model Year 03,2.5T,A5,2521,Petrol,15.5,8.9,11.3,18.2,31.7,25,270,786,IV,74,0.2,,0,0,,29-Jul-02
+VOLVO,V70 Model Year 03,2.5T AWD,M5,2521,Petrol,14,7.9,10.2,20.2,35.8,27.7,244,709,IV,69,0.2,,0,0,,26-Jul-02
+VOLVO,V70 Model Year 03,2.5T AWD,A5,2521,Petrol,14.7,8.5,10.8,19.2,33.2,26.2,258,750,IV,70,0.2,,0,0,,13-Aug-02
+VOLVO,V70 Model Year 03,2.4 (170 bhp),M5,2435,Petrol,12.8,7.3,9.3,22.1,38.7,30.4,221,646,IV,72,0,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 03,2.4 (170 bhp),A5,2435,Petrol,13.9,7.6,9.9,20.3,37.2,28.5,237,689,IV,73,0.1,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 03,2.4 (140 bhp),M5,2435,Petrol,12.6,7,9.1,22.4,40.4,31,217,634,IV,73,0,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 03,2.4 (140 bhp) ,A5,2435,Petrol,13.7,7.5,9.8,20.6,37.7,28.8,235,682,IV,73,0.1,,0,0,,02-Feb-04
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,M5,2435,Petrol,12.9,7.5,9.5,21.9,37.7,29.7,227,661,IV,74,0.4,,0.1,0,,11-Oct-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,M5,2435,LPG,16.4,9.8,12.2,17.2,28.8,23.2,197,423,IV,74,0.6,,0,0,,11-Oct-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,A5,2435,Petrol,14.5,7.7,10.2,19.5,36.7,27.7,244,709,IV,74,0.5,,0.1,0.1,,26-Jul-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,A5,2435,LPG,19,10.5,13.6,14.9,26.9,20.8,221,472,IV,74,0.4,,0,0,,26-Jul-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,M5,2435,Petrol,12.6,7,9.1,22.4,40.4,31,219,634,IV,74,0.4,,0.1,0,,26-Jul-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,M5,2435,CNG  ,13.3,7.5,9.6,21.2,37.7,29.4,171,0,IV,74,0.4,,0.1,0,,26-Jul-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7.9,10.2,19.9,35.8,27.7,244,709,IV,74,0.5,,0.1,0.1,,26-Jul-02
+VOLVO,V70 Model Year 03,2.4 Bi-Fuel ,A5,2435,CNG  ,14.9,7.8,10.4,19,36.2,27.2,186,0,IV,74,0.5,,0.1,0,,26-Jul-02
+VOLVO,S80 Model Year 03,T6 (Geartronic),A4,2922,Petrol,16.3,8.4,11.3,17.3,33.6,25,272,786,IV,74,0.1,,0.1,0,,29-Jul-02
+VOLVO,S80 Model Year 03,2.9 (Geartronic),A4,2922,Petrol,15.1,8.3,10.8,18.7,34,26.2,259,750,IV,74,0.1,,0,0,,29-Jul-02
+VOLVO,S80 Model Year 03,2.4 (170 bhp),M5,2435,Petrol,12.6,7.1,9.1,22.4,39.8,31,217,634,IV,72,0,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 03,2.4 (170 bhp),A5,2435,Petrol,13.9,7.4,9.8,20.3,38.2,28.8,235,682,IV,73,0.1,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 03,2.4 (140 bhp),M5,2435,Petrol,12.6,6.9,9,22.4,40.9,31.4,215,625,IV,73,0,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 03,2.4 (140 bhp),A5,2435,Petrol,13.7,7.4,9.7,20.6,38.2,29.1,232,675,IV,74,0.1,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel,M5,2435,Petrol,12.4,6.9,8.9,22.8,40.9,31.7,213,620,IV,74,0.5,,0.1,0,,29-Jul-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel ,M5,2435,LPG,16.1,8.9,11.6,17.5,31.7,24.4,187,402,IV,74,0.6,,0.1,0,,29-Jul-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7.6,10,19.9,37.2,28.2,240,696,IV,74,0.6,,0.1,0.1,,11-Oct-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel ,A5,2435,LPG,18.7,10.1,13.3,15.1,28,21.2,215,463,IV,74,0.4,,0,0,,29-Jul-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel ,M5,2435,Petrol,12.8,7.1,9.2,22.1,39.8,30.7,220,640,IV,74,0.5,,0,0,,11-Oct-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel,M5,2435,CNG  ,12.8,7.1,9.2,22.1,39.8,30.7,164,0,IV,74,0.4,,0.1,0,,11-Oct-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel,A5,2435,Petrol,14.9,7.6,10.1,19,37.2,28,246,701,IV,74,0.6,,0.1,0.1,,29-Jul-02
+VOLVO,S80 Model Year 03,2.4 Bi-Fuel,A5,2435,CNG  ,15.1,7.9,10.5,18.7,35.8,26.9,187,0,IV,74,0.6,,0.1,0,,29-Jul-02
+VOLVO,XC90 Model Year 03,T6 (Geartronic),A4,2922,Petrol,18.5,9.6,12.9,15.3,29.4,21.9,309,897,IV,74,0.1,,0,0,,11-Oct-02
+VOLVO,S60 Model Year 04,R,A5,2521,Petrol,16.1,8.2,11.1,17.5,34.4,25.4,266,773,IV,73,0.3,,0.1,0.1,,09-May-03
+VOLVO,S60 Model Year 04,2.5T,A5,2521,Petrol,14.2,7.4,9.9,19.9,38.2,28.5,236,689,IV,73,0.2,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,M5,2435,Petrol,12.6,7.1,9.1,22.4,39.8,31,217,634,IV,74,0.4,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,M5,2435,Petrol,12,6.9,8.8,23.5,40.9,32.1,211,612,IV,74,0.4,,0.1,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,M5,2435,CNG  ,12.9,6.7,9,21.9,42.2,31.4,161,0,IV,74,0.3,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7,9.6,19.9,40.4,29.4,231,668,IV,74,0.5,,0.1,0.1,,04-Mar-03
+VOLVO,S60 Model Year 04,2.5T,M5,2521,Petrol,12.9,7,9.2,21.9,40.4,30.7,220,640,IV,73,0.2,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,R,M6,2521,Petrol,14.7,8.3,10.7,19.2,34,26.4,256,744,IV,73,0,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,M5,2435,LPG,15.6,9.1,11.5,18.1,31,24.6,186,399,IV,74,0.7,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,A5,2435,Petrol,14,7.1,9.6,20.2,39.8,29.4,231,668,IV,74,0.4,,0.1,0.1,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,A5,2435,LPG,18.5,9.6,12.9,15.3,29.4,21.9,209,448,IV,74,0.3,,0,0,,04-Mar-03
+VOLVO,S60 Model Year 04,2.4 Bi-Fuel ,A5,2435,CNG  ,14.4,7.4,10,19.6,38.2,28.2,178,0,IV,74,0.6,,0.1,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.5T,A5,2521,Petrol,14.8,7.9,10.3,19.1,35.8,27.4,249,717,IV,73,0.1,,0,0,,13-Mar-03
+VOLVO,V70 Model Year 04,2.5T AWD,M5,2521,Petrol,14,7.9,10.2,20.2,35.8,27.7,244,709,IV,69,0.2,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.5T AWD,A5,2521,Petrol,14.7,8.5,10.8,19.2,33.2,26.2,258,750,IV,70,0.2,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 (170 bhp),M5,2435,Petrol,12.8,7.3,9.3,22.1,38.7,30.4,221,646,IV,72,0,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 (170 bhp),A5,2435,Petrol,13.9,7.6,9.9,20.3,37.2,28.5,237,689,IV,73,0.1,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,M5,2435,Petrol,12.9,7.5,9.5,21.9,37.7,29.7,227,661,IV,74,0.4,,0.1,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,M5,2435,LPG,16.4,9.8,12.2,17.2,28.8,23.2,197,423,IV,74,0.6,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,A5,2435,LPG,19,10.5,13.6,14.9,26.9,20.8,221,472,IV,74,0.4,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 (140 bhp),M5,2435,Petrol,12.6,7,9.1,22.4,40.4,31,217,634,IV,73,0,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,M5,2435,Petrol,12.6,7,9.1,22.4,40.4,31,219,634,IV,74,0.4,,0.1,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,M5,2435,CNG  ,13.3,7.5,9.6,21.2,37.7,29.4,171,0,IV,74,0.4,,0.1,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7.9,10.2,19.9,35.8,27.7,244,709,IV,74,0.5,,0.1,0.1,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,A5,2435,CNG  ,14.9,7.8,10.4,19,36.2,27.2,186,0,IV,74,0.5,,0.1,0,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 (140 bhp),A5,2435,Petrol,13.7,7.5,9.8,20.6,37.7,28.8,235,682,IV,73,0.1,,0,0,,04-Mar-03
+VOLVO,V70 Model Year 04,R,M6,2521,Petrol,14.9,8.6,10.9,19,32.8,25.9,261,758,IV,73,0.3,,0.1,0.1,,04-Mar-03
+VOLVO,V70 Model Year 04,2.4 Bi-Fuel ,A5,2435,Petrol,14.5,7.7,10.2,19.5,36.7,27.7,244,709,IV,74,0.5,,0.1,0.1,,04-Mar-03
+VOLVO,V70 Model Year 04,2.5T,M5,2521,Petrol,12.8,7.2,9.3,22.1,39.2,30.4,222,646,IV,73,0.2,,0,0,,13-Mar-03
+VOLVO,V70 Model Year 04,R,A5,2521,Petrol,16.3,8.4,11.3,17.3,33.6,25,270,786,IV,73,0.3,,0.1,0.1,,09-May-03
+VOLVO,XC70 Model Year 04,2.5T,A5,2521,Petrol,15.5,8.9,11.3,18.2,31.7,25,270,786,IV,74,0.2,,0,0,,04-Mar-03
+VOLVO,XC70 Model Year 04,2.5T,M5,2521,Petrol,13.8,8.4,10.4,20.5,33.6,27.2,249,722,IV,72,0.2,,0,0,,04-Mar-03
+VOLVO,XC90 Model Year 04,T6 (Geartronic),A4,2922,Petrol,18.5,9.6,12.9,15.3,29.4,21.9,309,897,IV,74,0.1,,0,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.9 (Geartronic),A4,2922,Petrol,15.2,8.4,10.9,18.6,33.6,25.9,259,758,IV,74,0.1,,0,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 (140 bhp),A5,2435,Petrol,13.7,7.4,9.7,20.6,38.2,29.1,232,675,IV,74,0.1,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 04,2.5T,M5,2521,Petrol,13,7.1,9.3,21.7,39.8,30.4,222,646,IV,73,0.2,,0,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 (170 bhp),A5,2435,Petrol,13.9,7.4,9.8,20.3,38.2,28.8,235,682,IV,73,0.1,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel,M5,2435,Petrol,12.4,6.9,8.9,22.8,40.9,31.7,213,620,IV,74,0.5,,0.1,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel ,M5,2435,LPG,16.1,8.9,11.6,17.5,31.7,24.4,187,402,IV,74,0.6,,0.1,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel,M5,2435,CNG  ,12.8,7.1,9.2,22.1,39.8,30.7,164,0,IV,74,0.4,,0.1,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel,A5,2435,Petrol,14.9,7.6,10.1,19,37.2,28,246,701,IV,74,0.6,,0.1,0.1,,09-May-03
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel,A5,2435,CNG  ,15.1,7.9,10.5,18.7,35.8,26.9,187,0,IV,74,0.6,,0.1,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.5T,A5,2521,Petrol,14.3,7.5,10,19.8,37.7,28.2,239,696,IV,73,0.1,,0,0,,04-Mar-03
+VOLVO,S80 Model Year 04,T6 (Geartronic),A4,2922,Petrol,16.3,8.4,11.3,17.3,33.6,25,272,786,IV,74,0.1,,0.1,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 (170 bhp),M5,2435,Petrol,12.6,7.1,9.1,22.4,39.8,31,217,634,IV,72,0,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 04,2.4 (140 bhp),M5,2435,Petrol,12.6,6.9,9,22.4,40.9,31.4,215,625,IV,73,0,,0,0,,02-Feb-04
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel ,A5,2435,Petrol,14.2,7.6,10,19.9,37.2,28.2,240,696,IV,74,0.6,,0.1,0.1,,09-May-03
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel ,A5,2435,LPG,18.7,10.1,13.3,15.1,28,21.2,215,463,IV,74,0.4,,0,0,,04-Mar-03
+VOLVO,S80 Model Year 04,2.4 Bi-Fuel ,M5,2435,Petrol,12.8,7.1,9.2,22.1,39.8,30.7,220,640,IV,74,0.5,,0,0,,09-May-03
+VOLVO,New S40 Model Year 04,2.4 (170 bhp),M5,2435,Petrol,12.4,6.6,8.5,22.8,42.8,33.2,203,592,IV,72,0,,0,0,,21-Nov-03
+VOLVO,New S40 Model Year 04,T5,A5,2521,Petrol,13.7,6.9,9.4,20.6,40.9,30.1,224,652,IV,74,0.2,,0.1,0,,21-Nov-03
+VOLVO,New S40 Model Year 04,2.4 (170 bhp),A5,2435,Petrol,13.2,6.7,9.1,21.4,42.2,31,217,634,IV,74,0.1,,0,0,,21-Nov-03
+VOLVO,New S40 Model Year 04,T5,M6,2521,Petrol,12.5,6.4,8.7,22.6,44.1,32.5,208,604,IV,71,0.2,,0,0,,21-Nov-03
+VOLVO,V50 Model Year 04,2.4 (170 bhp),M5,2435,Petrol,12.5,6.8,8.6,22.6,41.5,32.8,204,599,IV,72,0,,0,0,,19-Dec-03
+VOLVO,V50 Model Year 04,T5,M6,2521,Petrol,12.5,6.6,8.8,22.6,42.8,32.1,209,612,IV,71,0.2,,0,0,,19-Dec-03
+VOLVO,V50 Model Year 04,T5,A5,2521,Petrol,13.6,7.1,9.5,20.8,39.8,29.7,227,661,IV,74,0.2,,0.1,0,,19-Dec-03
+VOLVO,V50 Model Year 04,2.4 (170 bhp),A5,2435,Petrol,13.3,6.8,9.2,21.2,41.5,30.7,220,640,IV,74,0.1,,0,0,,19-Dec-03

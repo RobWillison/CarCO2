@@ -1,0 +1,7 @@
+Manufacturer,Model,Description,Transmission,Engine Capacity,Fuel Type,Metric Urban (Cold),Metric Extra-Urban,Metric Combined,Imperial Urban (Cold),Imperial Extra-Urban,Imperial Combined,CO2 g/km,Fuel Cost 12000 Miles,Euro Standard,Noise Level dB(A),Emissions CO [mg/km],THC Emissions [mg/km],Emissions NOx [mg/km],THC + NOx Emissions [mg/km],Particulates [No.] [mg/km]
+MERCEDES-BENZ,"E-Class Saloon, Model Year 2011","E 350 BLUETEC with 17"" rear wheels",A7,2987,Diesel,9.9,5.4,7.0,28.5,52.3,40.4,184,1877,6,72.0,347,,64,97,0.0
+MERCEDES-BENZ,"E-Class Saloon, Model Year 2011","E 350 BLUETEC with 18"" & 19"" rear wheels",A7,2987,Diesel,10.0,5.6,7.2,28.2,50.4,39.2,188,1934,6,72.0,347,,64,97,0.0
+MERCEDES-BENZ,"S-Class, Model Year 2011","S 350 BLUETEC with 17"" & 18"" rear wheels",A7,2987,Diesel,9.3,5.3,6.8,30.4,53.3,51.5,177,1472,6,71.0,255,,65,89,0.0
+MERCEDES-BENZ,"S-Class, Model Year 2011","S 350 BLUETEC with 19"" & 20"" rear wheels",A7,2987,Diesel,9.4,5.5,6.9,30.1,61.4,40.9,182,1854,6,71.0,255,,65,89,0.0
+MERCEDES-BENZ,"S-Class Limousine, Model Year 2011","S 350 BLUETEC with 17"" wheels",A7,2987,Diesel,9.3,5.3,6.8,30.4,53.3,41.5,177,1827,6,71.0,255,,65,89,0.1
+MERCEDES-BENZ,"S-Class Limousine, Model Year 2011","S 350 BLUETEC with 19"" & 20"" rear wheels",A7,2987,Diesel,9.4,5.5,6.9,30.1,51.4,40.9,182,1854,6,71.0,255,,65,89,0.0

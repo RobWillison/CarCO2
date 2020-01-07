@@ -1,0 +1,208 @@
+Manufacturers,Model,Description,Transmission,Engine Capacity,Fuel Type,Metric Urban (cold),Metric Extra-urban,Metric Combined,Imperial (cold),Imperial Extra-urban,Imperial Combined,CO2 g/km,Fuel Cost 6000 Miles,Euro Standard,Noise Level dB(A),Emissions CO,Emissions HC+NOx,Emissions HC,Emissions NOx,Emissions Particulates
+AUDI,Audi A2 (Standard & SE),1.4 (75 bhp),M5,1390,Petrol,8.2,4.7,6,34.4,60.1,47.1,144,463,IV,71,0.258,0,0.068,0.025,0
+AUDI,Audi A2 (Standard & SE),1.4 SE (75 bhp),M5,1390,Petrol,8.3,4.8,6.1,34,58.9,46.3,146,471,IV,71,0.258,0,0.068,0.025,0
+AUDI,"Audi A3 (3 door, S, SE & Sport)","1.6 S, SE & Sport Models (101 bhp)",A4,1595,Petrol,11.2,6.2,8,25.2,45.6,35.3,192,618,IV,71,0.48,0,0.058,0.044,0
+AUDI,"Audi A3 (3 door, S, SE & Sport)","1.6 S, SE & Sport Models (101 bhp)",M5,1595,Petrol,9.8,5.4,7,28.8,52.3,40.4,168,540,IV,73,0.718,0,0.053,0.039,0
+AUDI,"Audi A3 (3 door, S, SE & Sport)",1.8 T Sport (150 bhp),A4,1781,Petrol,12.8,6.9,9,22.1,40.9,31.4,216,695,IV,70,0.775,0,0.051,0.026,0
+AUDI,"Audi A3 (3 door, S, SE & Sport)",1.8 T Sport (150 bhp),M5,1781,Petrol,10.7,6.2,7.9,26.4,45.6,35.8,190,610,IV,71,0.631,0,0.065,0.038,0
+AUDI,"Audi A3 (5 door, S, SE & Sport)",1.6 S (101 bhp),A4,1595,Petrol,11.2,6.2,8,25.2,45.6,35.3,192,618,IV,71,0.48,0,0.058,0.044,0
+AUDI,"Audi A3 (5 door, S, SE & Sport)",1.6 SE & Sport Models (101 bhp),A4,1595,Petrol,11.4,6.3,8.1,24.8,44.8,34.9,194,625,IV,71,0.48,0,0.058,0.044,0
+AUDI,"Audi A3 (5 door, S, SE & Sport)",1.6 S & Sport Models (101 bhp),M5,1595,Petrol,9.8,5.4,7,28.8,52.3,40.4,168,540,IV,73,0.718,0,0.053,0.039,0
+AUDI,"Audi A3 (5 door, S, SE & Sport)",1.6 SE (101 bhp),M5,1595,Petrol,9.9,5.5,7.1,28.5,51.4,39.8,170,548,IV,73,0.718,0,0.053,0.039,0
+AUDI,"Audi A3 (5 door, S, SE & Sport)",1.8 T Sport (150 bhp),A4,1781,Petrol,12.8,6.9,9,22.1,40.9,31.4,216,695,IV,70,0.775,0,0.051,0.026,0
+AUDI,"Audi A3 (5 door, S, SE & Sport)",1.8 T Sport (150 bhp),M5,1781,Petrol,10.7,6.2,7.9,26.4,45.6,35.8,190,610,IV,71,0.631,0,0.065,0.038,0
+AUDI,"Audi A4 Saloon (Standard, SE, Sport & Quattro)",1.6 SE (101 bhp),M5,1595,Petrol,10.7,6,7.7,26.4,47.1,36.7,185,595,IV,74,0.48,0,0.059,0.025,0
+AUDI,"Audi A4 Saloon (Standard, SE, Sport & Quattro)",1.8 20v T Sport (150 bhp),M5,1781,Petrol,11.3,6.3,8.1,25,44.8,34.9,194,625,IV,72,0.31,0,0.03,0.04,0
+AUDI,"Audi A4 Saloon (Standard, SE, Sport & Quattro)",1.8 20v T Sport Tiptronic (150 bhp),A5,1781,Petrol,13.4,7,9.4,21.1,40.4,30.1,226,725,IV,70,0.263,0,0.042,0.029,0
+AUDI,"Audi A4 Saloon (Standard, SE, Sport & Quattro)",2.4 V6 SE Tiptronic (165 bhp),A5,2393,Petrol,15,7.6,10.1,18.8,37.2,28,242,779,IV,73,0.158,0,0.043,0.036,0
+AUDI,"Audi A4 Saloon (Standard, SE, Sport & Quattro)",2.8 V6 Quattro (193 bhp),QM5,2771,Petrol,15.4,7.8,10.6,18.3,36.2,26.6,254,820,IV,73,0.276,0,0.04,0.037,0
+AUDI,"Audi A4 Saloon (Standard, SE, Sport & Quattro)",2.8 V6 Quattro Tiptronic (193 bhp),QA5,2771,Petrol,16.2,8,11,17.4,35.3,25.7,264,849,IV,74,0.338,0,0.038,0.042,0
+AUDI,"Audi A4 Avant (Standard, SE, Sport & Quattro)",1.8 20v T Sport (150 bhp),M5,1781,Petrol,11.4,6.4,8.2,24.8,44.1,34.4,197,634,IV,72,0.31,0,0.03,0.04,0
+AUDI,"Audi A4 Avant (Standard, SE, Sport & Quattro)",1.8 20v T Sport Tiptronic (150 bhp),A5,1781,Petrol,13.4,7,9.4,21.1,40.4,30.1,226,725,IV,70,0.269,0,0.042,0.029,0
+AUDI,"Audi A4 Avant (Standard, SE, Sport & Quattro)",2.4 V6 SE (165 bhp),M5,2393,Petrol,13.6,7.1,9.5,20.8,39.8,29.7,228,735,IV,73,0.162,0,0.038,0.025,0
+AUDI,"Audi A4 Avant (Standard, SE, Sport & Quattro)",2.4 V6 SE Tiptronic (165 bhp),A5,2393,Petrol,15,7.6,10.1,18.8,37.2,28,242,779,IV,73,0.158,0,0.043,0.036,0
+AUDI,"Audi A4 Avant (Standard, SE, Sport & Quattro)",2.8 V6 Quattro (193 bhp),QM5,2771,Petrol,15.6,7.9,10.7,18.1,35.8,26.4,257,827,IV,73,0.276,0,0.04,0.037,0
+AUDI,"Audi A4 Avant (Standard, SE, Sport & Quattro)",2.8 V6 Quattro Tiptronic (193 bhp),QA5,2771,Petrol,16.2,8,11,17.4,35.3,25.7,264,849,IV,74,0.338,0,0.038,0.042,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",1.8 20v T Multitronic (150 bhp),AV,1781,Petrol,11.7,6.7,8.5,24.1,42.2,33.2,204,657,IV,72,0.496,0,0.053,0.04,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",1.8 20v T SE Multitronic (150 bhp),AV,1781,Petrol,11.9,6.9,8.7,23.7,40.9,32.5,209,671,IV,72,0.496,0,0.053,0.04,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",1.8 20v T & SE Models (150 bhp),M5,1781,Petrol,11.5,6.7,8.5,24.6,42.2,33.2,204,657,IV,72,0.35,0,0.032,0.037,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",1.8 20v T Quattro & SE Models  (150 bhp),QM5,1781,Petrol,12.7,7.5,9.5,22.2,37.7,29.7,228,735,IV,74,0.42,0,0.042,0.04,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",2.4 V6 SE Multitronic (165 bhp),AV,2393,Petrol,14.3,7.1,9.7,19.8,39.8,29.1,233,750,IV,73,0.274,0,0.05,0.035,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",2.4 V6 SE (165 bhp),M5,2393,Petrol,14,7.5,9.9,20.2,37.7,28.5,238,766,IV,72,0.229,0,0.047,0.036,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",2.4 V6 Quattro (165 bhp),QM5,2393,Petrol,15.2,8.3,10.9,18.6,34,25.9,262,843,IV,73,0.257,0,0.044,0.026,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",2.4 V6  Quattro SE Tiptronic (165 bhp),QA5,2393,Petrol,16.1,8.1,11.2,17.5,34.9,25.2,269,866,IV,73,0.184,0,0.049,0.037,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",2.8 V6 Sport & Quattro Models  (194 bhp),QM5,2771,Petrol,15.4,8.2,10.8,18.3,34.4,26.2,259,833,IV,72,0.332,0,0.042,0.032,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",2.8 V6 Sport & Quattro Models Tiptronic (194 bhp),QA5,2771,Petrol,16.8,8.6,11.6,16.8,32.8,24.4,278,894,IV,72,0.235,0,0.042,0.036,0
+AUDI,"Audi A6 Saloon (SE, Sport & Quattro)",4.2 V8 Sport & Quattro Models (300 bhp),QA5,4172,Petrol,19.4,9.5,13.1,14.6,29.7,21.6,314,1010,IV,74,0.419,0,0.058,0.038,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",1.8 20v T  & SE Multitronic Models (150 bhp),AV,1781,Petrol,11.9,6.9,8.7,23.7,40.9,32.5,209,671,IV,72,0.496,0,0.053,0.04,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",1.8 20v T & SE Models (150 bhp),M5,1781,Petrol,11.5,6.7,8.5,24.6,42.2,33.2,204,657,IV,72,0.35,0,0.032,0.037,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",1.8 20v T Quattro & SE Models (150 bhp),QM5,1781,Petrol,12.7,7.5,9.5,22.2,37.7,29.7,228,735,IV,74,0.42,0,0.042,0.04,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",2.4 V6 SE Multitronic (165 bhp),AV,2393,Petrol,14.3,7.1,9.7,19.8,39.8,29.1,233,750,IV,73,0.274,0,0.05,0.035,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",2.4 V6 SE (165 bhp),M5,2393,Petrol,14.1,7.6,10,20,37.2,28.2,240,774,IV,72,0.229,0,0.047,0.036,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",2.4 V6 Quattro SE Tiptronic (165 bhp),QA5,2393,Petrol,16.3,8.2,11.3,17.3,34.4,25,271,873,IV,73,0.184,0,0.049,0.037,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",2.4 V6 Quattro (165 bhp),QM5,2393,Petrol,15.3,8.4,11,18.5,33.6,25.7,264,849,IV,73,0.257,0,0.044,0.026,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",2.8 V6 Sport & Quattro Models Tiptronic (194 bhp),QA5,2771,Petrol,16.8,8.6,11.6,16.8,32.8,24.4,278,894,IV,72,0.235,0,0.042,0.036,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",2.8 V6 Sport & Quattro Models (194 bhp),QM5,2771,Petrol,15.5,8.3,10.9,18.2,34,25.9,262,843,IV,72,0.332,0,0.042,0.032,0
+AUDI,"Audi A6 Avant (SE, Sport & Quattro)",4.2 V8 Sport & Quattro Models (300 bhp),QA5,4172,Petrol,19.4,9.5,13.1,14.6,29.7,21.6,314,1010,IV,74,0.419,0,0.058,0.038,0
+AUDI,"Audi A8 (Sport, Quattro & Quattro Sport)",2.8 Sport Quattro & Sport Tiptronic (194 bhp),A5,2772,Petrol,17.5,8.5,11.8,16.1,33.2,23.9,283,913,IV,72,0.33,0,0.064,0.031,0
+AUDI,"Audi A8 (Sport, Quattro & Quattro Sport)",3.7 V8 Quattro & Sport Tiptronic (260 bhp),QA5,3697,Petrol,18.4,9,12.4,15.4,31.4,22.8,298,957,IV,73,0.665,0,0.07,0.018,0
+AUDI,"Audi A8 (Sport, Quattro & Quattro Sport)",4.2 V8 Quattro Tiptronic (310 bhp),QA5,4172,Petrol,19.6,9.2,13,14.4,30.7,21.7,312,1006,IV,74,0.38,0,0.054,0.055,0
+AUDI,"Audi A8 (Sport, Quattro & Quattro Sport)",4.2 V8 Quattro (LWB) Tiptronic (310 bhp),QA5,4172,Petrol,19.7,9.3,13.1,14.3,30.4,21.6,314,1010,IV,74,0.38,0,0.054,0.055,0
+FORD,Fiesta,1.25i 16V (13 inch tyre),M5,1242,Petrol,8.7,5.8,6.9,32.5,48.7,40.9,161,534,IV,73,0.296,0,0.054,0.061,0
+FORD,Fiesta,1.25i 16V (14 inch tyre),M5,1242,Petrol,8.8,5.7,6.9,32.1,49.6,40.9,161,534,IV,73,0.296,0,0.054,0.061,0
+FORD,Fiesta,1.6i 16V,M5,1596,Petrol,9.5,6,7.3,29.7,47.1,38.7,171,564,IV,71,0.533,0,0.073,0.032,0
+FORD,Puma,1.6i 16V,M5,1596,Petrol,9.5,6,7.3,29.7,47.1,38.7,171,564,IV,70,0.2,0,0.037,0.023,0
+FORD,New Mondeo,2.0i 16V 4/5 Door Saloon,A4,1999,Petrol,12.6,7.2,9.1,22.4,39.2,31,219,704,IV,70,0.233,0,0.062,0.048,0
+FORD,New Mondeo,2.0i 16V Estate LX/ Zetec,A4,1999,Petrol,12.6,7.3,9.2,22.4,38.7,30.7,221,711,IV,70,0.233,0,0.062,0.048,0
+FORD,New Mondeo,2.0i 16V Estate Ghia/Ghia X,A4,1999,Petrol,12.7,7.4,9.3,22.2,38.2,30.4,223,718,IV,70,0.233,0,0.062,0.048,0
+FORD,New Mondeo,2.5 V6 4/5 Door Saloon Zetec S,M5,2495,Petrol,14.2,7.2,9.8,19.8,39.2,28.2,235,774,IV,71,0.174,0,0.059,0.019,0
+FORD,New Mondeo,2.5 V6 4/5 Door Saloon Ghia X,M5,2495,Petrol,14.3,7.3,9.9,19.8,38.7,28.5,238,766,IV,71,0.174,0,0.059,0.019,0
+FORD,New Mondeo,2.5 V6 4/5 Door Estate,M5,2495,Petrol,14.4,7.4,10,19.6,38.2,28.2,240,774,IV,71,0.174,0,0.059,0.019,0
+FORD,New Galaxy,2.8i CD-V6,M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,833,IV,73,0.28,0,0.071,0.059,0
+FORD,New Galaxy,2.8i CD-V6,A5,2792,Petrol,16.8,9.2,12,16.8,30.7,23.5,288,929,IV,73,0.449,0,0.061,0.016,0
+LEXUS,All Models,GS430,A5,4293,Petrol,17.3,9.4,12.3,16.3,30.1,23,296,949,IV,71,0.112,0,0.041,0.051,0
+LEXUS,All Models,LS430,A5,4293,Petrol,17.5,8.9,12,16.1,31.7,23.5,289,929,IV,72,0.23,0,0.04,0.02,0
+SEAT,Arosa,1.0 & S Models (50 bhp),M5,999,Petrol,7.8,4.7,5.8,36.2,60.1,48.7,139,448,IV,73,0.209,0,0.071,0.025,0
+SEAT,Arosa,1.4  Auto S (60 bhp),A4,1390,Petrol,10,6.1,7.5,28.2,46.3,37.7,180,579,IV,74,0.395,0,0.066,0.011,0
+SEAT,Arosa,1.4 16v Sport (100 bhp),M5,1390,Petrol,9.3,5.1,6.6,30.4,55.4,42.8,158,510,IV,73,0.677,0,0.083,0.035,0
+SEAT,Ibiza,1.4 Cool & S Models (60 bhp),M5,1390,Petrol,9,5.4,6.7,31.4,52.3,42.2,161,517,IV,70,0.299,0,0.022,0.06,0
+SEAT,Ibiza,1.6 Sport (101 bhp),M5,1590,Petrol,11,6.1,7.9,25.7,46.3,35.8,190,610,IV,73,0.592,0,0.058,0.119,0
+SEAT,Cordoba,1.4 16V Cool & S Models (75 bhp),M5,1390,Petrol,9.2,5.4,6.8,30.7,52.3,41.5,163,526,IV,72,0.301,0,0.074,0.16,0
+SEAT,Cordoba Vario,1.4 16V Cool & S Models (75 bhp),M5,1390,Petrol,9.1,5.4,6.8,31,52.3,41.5,163,526,IV,73,0.301,0,0.074,0.16,0
+SEAT,Leon,1.4 S (75 bhp),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,526,IV,72,0.121,0,0.04,0.074,0
+SEAT,Leon,1.6 S (105 bhp),M5,1598,Petrol,9.6,5.7,7.1,29.4,49.6,39.8,170,548,IV,71,0.353,0,0.061,0.032,0
+SEAT,Leon,Sport & Cupra 1.8 20VT (180 bhp),M6,1781,Petrol,11.8,6.6,8.5,23.9,42.8,33.2,204,657,IV,72,0.679,0,0.06,0.043,0
+SEAT,Toledo,V5 (170 bhp),M5,2324,Petrol,8.2,5.2,6.3,34.4,54.3,44.8,170,487,IV,73,0.46,0,0.058,0.048,0
+SEAT,Alhambra,2.0 S (115 bhp),M6,1984,Petrol,13,7.6,9.6,21.7,37.2,29.4,230,742,IV,74,0.814,0,0.067,0.07,0
+SEAT,Alhambra,1.8 20V T  S & SE Models (150 bhp),M6,1781,Petrol,13.1,7.4,9.5,21.6,38.2,29.7,228,735,IV,74,0.545,0,0.061,0.017,0
+SEAT,Alhambra,1.8 20V T  SE Tiptronic (150 bhp),A5,1781,Petrol,14.5,8.4,10.6,19.5,33.6,26.6,254,820,IV,70,0.348,0,0.091,0.05,0
+SEAT,Alhambra,2.8 V6 Sport (204 bhp),M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,833,IV,73,0.028,0,0.071,0.059,0
+SKODA,Fabia Hatch,1.4 16V Classic & Comfort Models (75 bhp),M5,1390,Petrol,9.3,5.3,6.7,30.4,53.3,42.2,161,517,IV,72,0.637,0,0.092,0.059,0
+SKODA,Fabia Hatch,1.4 16V Classic & Elegance Models (100 bhp),M5,1390,Petrol,9.7,5.6,7.1,29.1,50.4,39.8,170,548,IV,73,0.615,0,0.089,0.02,0
+SKODA,Fabia Hatch,2.0 MPI Elegance (115 bhp),M5,1984,Petrol,11.1,5.9,7.8,25.4,47.9,36.2,187,603,IV,74,0.634,0,0.055,0.046,0
+SKODA,Fabia Estate,1.4 MPI Classic & Comfort Models (68 bhp),M5,1397,Petrol,9.8,5.6,7.2,28.8,50.4,39.2,173,557,IV,72,0.772,0,0.084,0.049,0
+SKODA,Fabia Estate,1.4 16V Classic & Comfort Models (75 bhp),M5,1390,Petrol,9.3,5.3,6.7,30.4,53.3,42.2,161,517,IV,72,0.637,0,0.092,0.059,0
+SKODA,Fabia Estate,1.4 16V Comfort & Elegance Models (100bhp),M5,1390,Petrol,9.7,5.6,7.1,29.1,50.4,39.8,170,548,IV,73,0.615,0,0.089,0.02,0
+SKODA,Fabia Estate,2.0 MPI Elegance (115 bhp),M5,1984,Petrol,11.2,6,7.9,25.2,47.1,35.8,187,610,IV,74,0.634,0,0.055,0.046,0
+SKODA,Octavia Hatch, 1.4 16V Classic (75 bhp),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,526,IV,71,0.121,0,0.074,0.04,0
+SKODA,Octavia Hatch, 1.6 MPI Ambiente & Classic Models (102 bhp),M5,1595,Petrol,10,5.8,7.3,28.2,48.7,38.7,175,564,IV,72,0.718,0,0.053,0.033,0
+SKODA,Octavia Hatch, 2.0 Elegance & Ambiente Models (115 bhp),M5,1984,Petrol,11.3,6.2,8.1,25,45.6,34.9,194,625,IV,73,0.795,0,0.068,0.029,0
+SKODA,Octavia Hatch, 2.0 Elegance & Ambiente Models (115 bhp),A4,1984,Petrol,12.7,6.9,9,22.2,40.9,31.4,216,695,IV,73,1.016,0,0.12,0.067,0
+SKODA,Octavia Hatch, 1.8 Turbo Elegance L & K Models (150 bhp),A4,1781,Petrol,12.9,7,9.1,21.9,40.4,31,218,704,IV,71,0.775,0,0.051,0.026,0
+SKODA,Octavia Hatch, 1.8 Turbo Elegance L & K Models (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,618,IV,71,0.667,0,0.054,0.03,0
+SKODA,Octavia Estate,1.6 MPI Ambiente & Classic Models (102 bhp),M5,1595,Petrol,10,5.8,7.3,28.2,48.7,38.7,175,564,IV,72,0.718,0,0.053,0.033,0
+SKODA,Octavia Estate,2.0 Elegance & Ambiente Models (115 bhp),M5,1984,Petrol,11.3,6.2,8.1,25,45.6,34.9,194,625,IV,73,0.795,0,0.068,0.029,0
+SKODA,Octavia Estate,2.0 Elegance & Ambiente Models (115 bhp),A4,1984,Petrol,12.7,6.9,9,22.2,40.9,31.4,216,695,IV,73,1.016,0,0.12,0.067,0
+SKODA,Octavia Estate,1.8 Turbo Elegance L + K Models (150 bhp),A4,1781,Petrol,13,7.1,9.2,21.7,39.8,30.7,221,711,IV,71,0.775,0,0.051,0.026,0
+SKODA,Octavia Estate,1.8 Turbo Elegance L + K Models (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,618,IV,71,0.667,0,0.054,0.03,0
+TOYOTA,Avensis,1.8 VVT-i 4 door,M5,1794,Petrol,9.9,6,7.4,28.5,47.1,38.2,172,571,IV,73,0.54,0,0.04,0.02,0
+TOYOTA,Avensis,1.8 VVT-i 4 door CDX,M5,1794,Petrol,9.9,6,7.4,28.5,47.1,38.2,176,571,IV,73,0.54,0,0.04,0.02,0
+TOYOTA,Avensis,1.8 VVT-i 5 door,M5,1794,Petrol,9.9,6,7.4,28.5,47.1,38.2,176,571,IV,73,0.54,0,0.04,0.02,0
+TOYOTA,Avensis,1.8 VVT-i 4/5 door,A4,1794,Petrol,11,6.4,8.1,25.7,44.1,34.9,194,625,IV,71,0.39,0,0.06,0.01,0
+TOYOTA,Avensis,1.8 VVT-i 5 door CDX,A4,1794,Petrol,11.2,6.5,8.3,25.2,43.5,34,197,642,IV,71,0.39,0,0.06,0.01,0
+TOYOTA,Avensis,1.8 VVT-i Estate,M5,1794,Petrol,10,6.2,7.6,28.2,45.6,37.2,182,587,IV,73,0.54,0,0.04,0.02,0
+VAUXHALL,"Agila, Model Year 2001",1.0 12v,M,973,Petrol,7.5,5.6,6.3,37.7,50.4,44.8,151,487,IV,72,0.403,0.115,0.064,0.051,0
+VAUXHALL,"Agila, Model Year 2001",1.2 16v,M,1199,Petrol,8,5.7,6.5,35.3,49.6,43.5,156,502,IV,73,0.348,0.087,0.055,0.032,0
+VAUXHALL,"Astra, Model Year 2001",1.6i Hatch/Saloon,M5,1598,Petrol,9.6,5.6,7.1,29.4,50.4,39.8,171,548,IV,72,0.695,0.073,0.054,0.019,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 3 Door Hatch,A4,1598,Petrol,11.2,6.3,8.1,25.2,44.8,34.9,195,625,IV,71,0.357,0.073,0.044,0.029,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 5 Door Hatch/Saloon,A4,1598,Petrol,11.3,6.4,8.2,25,44.1,34.4,197,634,IV,71,0.357,0.073,0.044,0.029,0
+VAUXHALL,"Astra, Model Year 2001",1.6i Estate,M5,1598,Petrol,9.8,5.8,7.3,28.8,48.7,38.7,175,564,IV,72,0.695,0.073,0.054,0.019,0
+VAUXHALL,"Astra, Model Year 2001",1.6i Estate,A4,1598,Petrol,11.4,6.6,8.4,24.8,42.8,33.6,201,649,IV,71,0.357,0.073,0.044,0.029,0
+VAUXHALL,"Astra, Model Year 2001",1.4i 16v Hatch,M5,1389,Petrol,9.7,5.8,7.2,29.1,48.7,39.2,173,557,IV,73,0.247,0.117,0.094,0.023,0
+VAUXHALL,"Astra, Model Year 2001",1.4i 16v Estate,M5,1389,Petrol,9.9,6.1,7.5,28.5,46.3,37.7,180,579,IV,73,0.247,0.117,0.094,0.023,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 16v 3 Door Hatch,M5,1598,Petrol,9.5,5.5,7,29.7,51.4,40.4,168,540,IV,72,0.487,0.056,0.03,0.026,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 16v 5 Door Hatch/Saloon,M5,1598,Petrol,9.6,5.6,7.1,29.4,50.4,39.8,171,548,IV,72,0.695,0.073,0.054,0.019,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 16v Hatch/Saloon,A4,1598,Petrol,10.6,6,7.7,26.6,47.1,36.7,185,595,IV,72,0.318,0.085,0.044,0.041,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 16v Estate,M5,1598,Petrol,9.7,5.8,7.2,29.1,48.7,39.2,172,557,IV,72,0.219,0.063,0.037,0.026,0
+VAUXHALL,"Astra, Model Year 2001",1.6i 16v Estate,A4,1598,Petrol,10.7,6.2,7.9,26.4,45.6,35.8,190,610,IV,72,0.318,0.085,0.044,0.041,0
+VAUXHALL,"Astra, Model Year 2001",1.8i 16v Hatch/Saloon,M5,1796,Petrol,11,6,7.8,25.7,47.1,36.2,187,603,IV,73,0.627,0.043,0.035,0.008,0
+VAUXHALL,"Astra, Model Year 2001",1.8i 16v Hatch/Saloon,A4,1796,Petrol,12,6.6,8.6,23.5,42.8,32.8,207,665,IV,71,0.486,0.05,0.037,0.013,0
+VAUXHALL,"Astra, Model Year 2001",1.8i 16v Estate,M5,1796,Petrol,11.1,6.2,8,25.4,45.6,35.3,192,618,IV,73,0.627,0.043,0.035,0.008,0
+VAUXHALL,"Astra, Model Year 2001",1.8i 16v Estate,A4,1796,Petrol,12.1,6.8,8.8,23.3,41.5,32.1,211,680,IV,71,0.486,0.05,0.037,0.013,0
+VAUXHALL,"Astra, Model Year 2001",2.2i 16v Hatch,M5,2198,Petrol,12,6.3,8.4,23.5,44.8,33.6,202,649,IV,74,0.755,0.069,0.043,0.026,0
+VAUXHALL,"Astra Coupé, Model Year 2001",1.8 16v,M5,1796,Petrol,11,6,7.8,25.7,47.1,36.2,187,603,IV,73,0.627,0.043,0.035,0.008,0
+VAUXHALL,"Astra Coupé, Model Year 2001",2.0i 16v turbo,M5,1998,Petrol,12.5,6.8,8.9,22.6,41.5,31.7,214,688,IV,74,0.627,0.043,0.035,0.008,0
+VAUXHALL,"Astra Coupé, Model Year 2001",2.2i 16v,M5,2198,Petrol,12,6.3,8.4,23.5,44.8,33.6,202,649,IV,74,0.755,0.069,0.043,0.026,0
+VAUXHALL,"Astra Coupé, Model Year 2001",2.2i 16v,A4,2198,Petrol,11.9,6.7,8.6,23.7,42.2,32.8,207,665,IV,73,0.522,0.124,0.061,0.063,0
+VAUXHALL,"Corsa, Model Year 2001",1.0 12v,M5,973,Petrol,7.2,4.7,5.6,39.2,60.1,50.4,135,433,IV,71,0.342,0.108,0.06,0.048,0
+VAUXHALL,"Corsa, Model Year 2001",1.2i 16v,M5,1199,Petrol,8.2,5.2,6.3,34.4,54.3,44.8,151,487,IV,71,0.211,0.083,0.052,0.031,0
+VAUXHALL,"Corsa, Model Year 2001",1.4 16v,M5,1389,Petrol,9.8,5.7,7.2,28.8,49.6,39.2,173,557,IV,72,0.371,0.071,0.045,0.026,0
+VAUXHALL,"Corsa, Model Year 2001",1.4 16v 3 Door,A4,1389,Petrol,11.2,6,7.9,25.2,47.1,35.8,190,610,IV,72,0.287,0.122,0.065,0.057,0
+VAUXHALL,"Corsa, Model Year 2001",1.4 16v 5 Door,A4,1389,Petrol,11.3,6.1,8,25,46.3,35.3,192,618,IV,72,0.287,0.122,0.065,0.057,0
+VAUXHALL,"Vectra, Model Year 2001",1.6i 16v Hatch/Saloon,M5,1598,Petrol,9.8,5.6,7.1,28.8,50.4,39.8,171,548,IV,72,0.273,0.062,0.043,0.019,0
+VAUXHALL,"Vectra, Model Year 2001",1.6i 16v Hatch/Saloon,A4,1598,Petrol,11.3,6.2,8.1,25,45.6,34.9,195,625,IV,71,0.418,0.104,0.038,0.066,0
+VAUXHALL,"Vectra, Model Year 2001",1.8i 16v Hatch/Saloon (exc. SXi/SRi),M5,1798,Petrol,10.7,5.8,7.6,26.4,48.7,37.2,183,587,IV,72,0.784,0.074,0.063,0.011,0
+VAUXHALL,"Vectra, Model Year 2001",1.8i 16v Hatch/Saloon SXi/SRi,M5,1798,Petrol,11,6,7.8,25.7,47.1,36.2,187,603,IV,72,0.503,0.047,0.035,0.012,0
+VAUXHALL,"Vectra, Model Year 2001",1.8i 16v Hatch/Saloon,A4,1798,Petrol,12.1,6.6,8.6,23.3,42.8,32.8,207,665,IV,72,0.693,0.082,0.066,0.016,0
+VAUXHALL,"Vectra, Model Year 2001",1.8i 16v Estate  (exc. SXi/SRi),M5,1798,Petrol,10.8,6,7.8,26.2,47.1,36.2,187,603,IV,72,0.784,0.074,0.063,0.011,0
+VAUXHALL,"Vectra, Model Year 2001",1.8i 16v Estate SXi/SRi,M5,1798,Petrol,11.1,6.2,8,25.4,45.6,35.3,192,618,IV,72,0.503,0.047,0.035,0.012,0
+VAUXHALL,"Vectra, Model Year 2001",1.8i 16v Estate,A4,1798,Petrol,12.2,6.8,8.8,23.2,41.5,32.1,211,680,IV,72,0.693,0.082,0.066,0.016,0
+VAUXHALL,"Vectra, Model Year 2001",2.2i 16v Hatch/Saloon,M5,2198,Petrol,12,6.3,8.4,23.5,44.8,33.6,202,649,IV,73,0.904,0.124,0.076,0.048,0
+VAUXHALL,"Vectra, Model Year 2001",2.2i 16v Hatch/Saloon,A4,2198,Petrol,13.1,6.8,9.1,21.6,41.5,31.8,219,686,IV,73,0.417,0.096,0.048,0.048,0
+VAUXHALL,"Vectra, Model Year 2001",2.2i 16v Estate,M5,2198,Petrol,12.1,6.5,8.6,23.3,43.5,32.8,207,665,IV,73,0.904,0.124,0.076,0.048,0
+VAUXHALL,"Vectra, Model Year 2001",2.2i 16v Estate,A4,2198,Petrol,13.2,7,9.3,21.4,40.4,30.4,224,718,IV,73,0.457,0.096,0.048,0.048,0
+VAUXHALL,"VX220, Model Year 2001",VX220,M5,2198,Petrol,12.3,6.4,8.5,23,44,33.3,205,655,IV,74,0.366,0.059,0.016,0.043,0
+VAUXHALL,"Zafira, Model Year 2001",1.6i 16v,M5,1598,Petrol,10.3,6.5,7.9,27.4,43.5,35.8,190,610,IV,73,0.219,0.063,0.037,0.026,0
+VAUXHALL,"Zafira, Model Year 2001",1.8i 16v,M5,1796,Petrol,11.4,6.9,8.6,24.8,40.9,32.8,207,665,IV,73,0.627,0.043,0.035,0.008,0
+VAUXHALL,"Zafira, Model Year 2001",1.8i 16v,A4,1796,Petrol,12.4,7.2,9.1,22.8,39.2,31,219,704,IV,71,0.486,0.05,0.037,0.013,0
+VAUXHALL,"Zafira, Model Year 2001",2.2i 16v,M5,2198,Petrol,12.2,7,8.9,23.2,40.4,31.7,214,688,IV,74,0.755,0.069,0.043,0.026,0
+VAUXHALL,"Zafira, Model Year 2001",2.2i 16v,A4,2198,Petrol,13.1,7.4,9.5,21.6,38.2,29.7,228,735,IV,73,0.552,0.124,0.061,0.063,0
+VOLKSWAGEN,Lupo,1.0 E (50 bhp),M5,999,Petrol,7.8,4.7,5.8,36.2,60.1,48.7,139,448,IV,72.5,0.209,0,0.071,0.025,0
+VOLKSWAGEN,Lupo,1.4 E & S Models (75 bhp),M5,1390,Petrol,8.7,4.9,6.3,32.5,57.6,44.8,151,487,IV,72.5,0.294,0,0.067,0.03,0
+VOLKSWAGEN,Lupo,1.4 Sport (100 bhp),M5,1390,Petrol,9.6,5.2,6.8,29.4,54.3,41.5,163,526,IV,73,0.283,0,0.061,0.014,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,1.0 E (50 bhp),M5,999,Petrol,8,4.8,6,35.3,58.9,47.1,144,463,IV,72,0.209,0,0.071,0.025,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,"1.4 E, S & SE Models (60 bhp)",M5,1390,Petrol,8.8,5,6.4,32.1,56.5,44.1,154,495,IV,73,0.251,0,0.043,0.023,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,"1.4 E, S & SE Models (60 bhp)",A4,1390,Petrol,10.5,6.3,7.8,26.9,44.8,36.2,187,603,IV,73,0.31,0,0.062,0.019,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,"1.4 16V S, SE & Colour Concept Models (75 bhp)",M5,1390,Petrol,9.1,5,6.5,31,56.5,43.5,156,502,IV,72.5,0.355,0,0.071,0.032,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,"1.4 16V S, SE & Colour Concept Models (75 bhp)",A4,1390,Petrol,10.3,5.9,7.5,27.4,47.9,37.7,180,579,IV,70,0.11,0,0.072,0.07,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,1.4 16V (100 bhp),M5,1390,Petrol,9.8,5.4,7,28.8,52.3,40.4,168,540,IV,74,0.283,0,0.061,0.014,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,1.6 GTI (125 bhp),M5,1598,Petrol,10.2,5.5,7.2,27.7,51.4,39.2,173,557,IV,74,0.191,0,0.059,0.042,0
+VOLKSWAGEN,Golf Cabriolet,2.0 Avantgarde & Colour Concept Models (115 bhp),M5,1984,Petrol,11.3,6.3,8.1,25,44.8,34.9,194,625,IV,72,0.569,0,0.064,0.03,0
+VOLKSWAGEN,Golf  Hatchback,1.4 E & S Models (75 bhp),M5,1390,Petrol,9.1,5.5,6.8,31,51.4,41.5,163,526,IV,72,0.121,0,0.074,0.04,0
+VOLKSWAGEN,Golf  Hatchback,1.6 S & SE Models (105 bhp),M5,1598,Petrol,9.4,5.6,7,30.1,50.4,40.4,168,540,IV,71,0.504,0,0.083,0.047,0
+VOLKSWAGEN,Golf  Hatchback,1.6 S & SE Models (102 bhp),A4,1595,Petrol,11.4,6.3,8.1,24.8,44.8,34.9,194,625,IV,67,0.48,0,0.058,0.044,0
+VOLKSWAGEN,Golf  Hatchback,1.8 T GTI (150 bhp),M5,1781,Petrol,10.8,6.3,8,26.2,44.8,35.3,192,618,IV,71,0.667,0,0.054,0.03,0
+VOLKSWAGEN,Golf  Hatchback,GTI 2.0 (115 bhp),M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,625,IV,73,0.794,0,0.068,0.03,0
+VOLKSWAGEN,Golf  Hatchback,V5 (170 bhp),M5,2324,Petrol,12.5,6.7,8.8,22.6,42.2,32.1,211,680,IV,72,0.461,0,0.058,0.048,0
+VOLKSWAGEN,Golf  Hatchback,V6 4MOTION (204 bhp),QM6,2792,Petrol,15.6,8.3,11,18.1,34,25.7,264,849,IV,74,0.473,0,0.059,0.025,0
+VOLKSWAGEN,Golf Estate,1.4 E (75 bhp),M5,1390,Petrol,9.3,5.6,7,30.4,50.4,40.4,168,540,IV,72,0.121,0,0.074,0.04,0
+VOLKSWAGEN,Golf Estate,2.0 S & SE Models (115 bhp),M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,625,IV,73,0.794,0,0.068,0.03,0
+VOLKSWAGEN,Golf Estate,1.6 S & SE Models (105 bhp),M5,1598,Petrol,9.5,5.7,7.1,29.7,49.6,39.8,170,548,IV,71,0.504,0,0.083,0.047,0
+VOLKSWAGEN,Bora,1.6 SE (102 bhp),A4,1595,Petrol,11.5,6.4,8.3,24.6,44.1,34,199,642,IV,67,0.48,0,0.058,0.044,0
+VOLKSWAGEN,Bora,1.6 S & SE Models (105 bhp),M5,1598,Petrol,9.4,5.6,7,30.1,50.4,40.4,168,540,IV,71,0.504,0,0.083,0.047,0
+VOLKSWAGEN,Bora,2.0 SE & Sport Models (115 bhp),M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,625,IV,73,0.794,0,0.068,0.03,0
+VOLKSWAGEN,Bora,V5 (170 bhp),M5,2324,Petrol,12.5,6.7,8.8,22.6,42.2,32.1,211,680,IV,72,0.461,0,0.058,0.048,0
+VOLKSWAGEN,Bora,V6 4MOTION (204 bhp),QM6,2792,Petrol,15.6,8.3,11,18.1,34,25.7,264,849,IV,74,0.473,0,0.059,0.025,0
+VOLKSWAGEN,Beetle,1.6 (102 bhp),M5,1598,Petrol,10.5,6,7.7,26.9,47.1,36.7,185,595,IV,73,0.53,0,0.055,0.031,0
+VOLKSWAGEN,New Sharan,"1.8 20v Turbo SE, Sport & Carat Models (150 bhp)",A5,1781,Petrol,14.7,8.6,10.8,19.2,32.8,26.2,259,833,IV,70,0.348,0,0.091,0.05,0
+VOLKSWAGEN,New Sharan,"1.8 20v Turbo SE, Sport & Carat Models (150 bhp)",M6,1781,Petrol,13.3,7.6,9.7,21.2,37.2,29.1,233,750,IV,74,0.545,0,0.061,0.017,0
+VOLKSWAGEN,New Sharan,2.0 S & SE Models (115 bhp),A4,1984,Petrol,14.8,8.7,11,19.1,32.5,25.7,264,849,IV,73,0.775,0,0.088,0.066,0
+VOLKSWAGEN,New Sharan,2.0 S & SE Models (115 bhp),M6,1984,Petrol,13,7.6,9.6,21.7,37.2,29.4,230,742,IV,74,0.814,0,0.067,0.07,0
+VOLKSWAGEN,New Sharan,2.8 V6 Sport & Carat Models (204 bhp),A5,2792,Petrol,16.8,9.2,12,16.8,30.7,23.5,288,929,IV,73,0.449,0,0.061,0.016,0
+VOLKSWAGEN,New Sharan,2.8 V6 Sport & Carat Models (204 bhp),M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,833,IV,73,0.28,0,0.071,0.059,0
+VOLKSWAGEN,New Sharan,"2.8 V6 Sport, Carat & 4MOTION Models (204 bhp)",QM6,2792,Petrol,15.5,9.3,11.6,18.2,30.4,24.4,278,894,IV,74,0.348,0,0.059,0.054,0
+VOLKSWAGEN,New Passat  Saloon,"2.0 S, SE & Sport Models (115 bhp)",M5,1984,Petrol,12.1,6.6,8.6,23.3,42.8,32.8,206,665,IV,73,0.337,0,0.023,0.016,0
+VOLKSWAGEN,New Passat  Saloon,"2.0 S, SE & Sport Models (115 bhp)",A4,1984,Petrol,13.4,7.6,9.7,21.1,37.2,29.1,233,750,IV,71,0.536,0,0.041,0.017,0
+VOLKSWAGEN,New Passat  Saloon,1.8 20V Turbo SE & Sport  Models (150 bhp),M5,1781,Petrol,11.5,6.5,8.3,24.6,43.5,34,199,642,IV,72,0.35,0,0.032,0.037,0
+VOLKSWAGEN,New Passat  Saloon,1.8 20V Turbo SE & Sport Models (150 bhp),A5,1781,Petrol,13.6,7.2,9.6,20.8,39.2,29.4,233,742,IV,71,0.392,0,0.041,0.037,0
+VOLKSWAGEN,New Passat  Saloon,2.3 V5 (170 bhp),M5,2324,Petrol,13.2,7.4,9.5,21.4,38.2,29.7,228,735,IV,71,0.468,0,0.066,0.062,0
+VOLKSWAGEN,New Passat  Saloon,2.8 V6 4MOTION (193 bhp),QM5,2771,Petrol,15.4,8.1,10.8,18.3,34.9,26.2,259,833,IV,73,0.275,0,0.028,0.023,0
+VOLKSWAGEN,New Passat  Saloon,2.8 V6 4MOTION (193 bhp),QA5,2771,Petrol,16.7,8.2,11.3,16.9,34.4,25,271,873,IV,72,0.295,0,0.052,0.012,0
+VOLKSWAGEN,New Passat Estate,"2.0 S, SE & Sport Models (115 bhp)",M5,1984,Petrol,12.2,6.8,8.7,23.2,41.5,32.5,209,671,IV,73,0.337,0,0.023,0.016,0
+VOLKSWAGEN,New Passat Estate,"2.0 S, SE & Sport Models (115 bhp)",A4,1984,Petrol,13.8,7.8,10,20.5,36.2,28.2,240,774,IV,71,0.536,0,0.041,0.017,0
+VOLKSWAGEN,New Passat Estate,1.8 20V Turbo SE & Sport Models (150 bhp),M5,1781,Petrol,11.7,6.7,8.5,24.1,42.2,33.2,204,657,IV,72,0.35,0,0.032,0.037,0
+VOLKSWAGEN,New Passat Estate,1.8 20V Turbo SE & Sport Models (150 bhp),A5,1781,Petrol,13.7,7.4,9.8,20.6,38.2,28.8,235,758,IV,71,0.392,0,0.041,0.037,0
+VOLKSWAGEN,New Passat Estate,2.3 V5 (170 bhp),M5,2324,Petrol,13.3,7.5,9.6,21.2,37.7,29.4,230,742,IV,71,0.468,0,0.066,0.062,0
+VOLKSWAGEN,New Passat Estate,2.8 4MOTION (193 bhp),QM5,2771,Petrol,15.5,8.2,10.9,18.2,34.4,25.9,262,843,IV,72,0.275,0,0.028,0.023,0
+VOLKSWAGEN,New Passat Estate,2.8 4MOTION (193 bhp),QA5,2771,Petrol,16.7,8.2,11.3,16.9,34.4,25,271,873,IV,72,0.295,0,0.052,0.012,0
+VOLKSWAGEN,Caddy Kombi,1.4 P (75 bhp),M5,1390,Petrol,9.9,6.7,7.9,28.5,42.2,35.8,190,610,IV,73,0.526,0.155,0.095,0.06,0
+VOLVO,New V70 Model Year 2001,2.4 (170 bhp),M5,2435,Petrol,12,7,8.8,23.5,40.4,32.1,210,680,IV,72,0.636,0.072,0.047,0.025,0
+VOLVO,New V70 Model Year 2001,2.4 (170 bhp),A5,2435,Petrol,13.2,7.2,9.4,21.4,39.2,30.1,224,725,IV,73,0.376,0.057,0.031,0.026,0
+VOLVO,New V70 Model Year 2001,2.4 (140 bhp),M5,2435,Petrol,11.7,6.8,8.6,24.1,41.5,32.8,205,665,IV,73,0.558,0.054,0.037,0.017,0
+VOLVO,New V70 Model Year 2001,2.4 (140 bhp),A5,2435,Petrol,13.1,7.1,9.3,21.6,39.8,30.4,222,718,IV,73,0.433,0.071,0.036,0.035,0
+VOLVO,S80 Model Year 2001,2.9,M5,2922,Petrol,14.7,7.6,10.2,19.2,37.2,27.7,246,788,IV,71,0.187,0.071,0.061,0.01,0
+VOLVO,S80 Model Year 2001,2.9,A4,2922,Petrol,15.3,7.6,10.4,18.5,37.2,27.2,251,802,IV,72,0.205,0.075,0.071,0.004,0
+VOLVO,S80 Model Year 2001,2.4 (170 bhp),M5,2435,Petrol,12,6.9,8.8,23.5,40.9,32.1,210,680,IV,72,0.472,0.064,0.034,0.03,0
+VOLVO,S80 Model Year 2001,2.4 (170 bhp),A5,2435,Petrol,13.3,7.1,9.4,21.2,39.8,30.1,224,725,IV,73,0.406,0.075,0.037,0.038,0
+VOLVO,S80 Model Year 2001,2.4 (140 bhp),M5,2435,Petrol,11.8,6.7,8.6,23.9,42.2,32.8,205,665,IV,73,0.526,0.061,0.038,0.023,0
+VOLVO,S80 Model Year 2001,2.4 (140 bhp),A5,2435,Petrol,13.3,7,9.3,21.2,40.4,30.4,222,718,IV,74,0.467,0.069,0.038,0.031,0

@@ -1,0 +1,334 @@
+Manufacturer,Model,Description,transmission,Transmission type,Engine Capacity,Fuel Type,Electrical energy consumption miles/kWh,wh/km,Electric range (Km),Electric range (miles),Metric Urban (Cold),Metric Extra-Urban,Metric Combined,Imperial Urban (Cold),Imperial Extra-Urban,Imperial Combined,CO2 g/km,Fuel Cost of Driving 12000 Miles (£s),Electricity cost of Driving 12000 Miles (£s),Total cost of Driving 12000 miles (£s),Noise Level dB(A),Emissions CO [mg/km],THC Emissions [mg/km],Emissions NOx [mg/km],THC + NOx Emissions [mg/km],Particulates [No.] [mg/km],Euro Standard,Booklet,VED Band
+ALFA ROMEO,MiTo,875 cc TB Twin Air 105 bhp,Manual,M6,875,Petrol,,,,,5,3.8,4.2,56.5,74.3,67.3,99,1119,,1119,74,316,41,34,,,6,August 2013,A
+AUDI,New A3 Sportback,1.4 TFSI 140PS,Manual,M6,1395,Petrol,,,,,5.9,4.2,4.8,47.9,67.3,58.9,112,1278,,1278,70,613,52,43,,,6,August 2013,C
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 205/55 R16 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.2,4.1,4.5,54.3,68.9,62.8,118,1260,,1260,75,115,,30,47,0.2,6,August 2013,C
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 205/50 R17 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 225/45 R17 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 205/55 R16 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.7,4,4.6,49.6,70.6,61.4,122,1288,,1288,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 205/50 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 225/45 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",120d 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 205/55 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7,4.5,5.4,40.4,62.8,52.3,125,1439,,1439,73,441,59,24,,,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",114i 3-door - 205/55 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.1,4.5,5.5,39.8,62.8,51.4,127,1465,,1465,73,441,59,24,,,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 205/55 R16 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.2,4.6,5.6,39.2,61.4,50.4,129,1494,,1494,71,313,54,20,,,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 205/55 R16 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.1,4.6,5.6,39.8,61.4,50.4,129,1494,,1494,68,293,45,15,,,6,August 2013,D
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 205/50 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 225/45 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",114i 3-door - 205/50 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",114i 3-door - 225/45 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",114i 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",114i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 205/55 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 205/50 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 225/45 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",116i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 205/50 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 225/45 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 205/50 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 225/45 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",118i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 3-door F21, From September 2012",125i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1997,Petrol,,,,,8.5,5.1,6.3,33.2,55.4,44.8,148,1680,,1680,72,250,30,28,,,6,August 2013,F
+BMW,"1 Series 3-door F21, From September 2012",125i 3-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1997,Petrol,,,,,8.6,5.4,6.6,32.8,52.3,42.8,154,1759,,1759,74,383,43,33,,,6,August 2013,G
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 205/55 R16 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.2,4.1,4.5,54.3,68.9,62.8,118,1260,,1260,75,115,,30,47,0.2,6,August 2013,C
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 205/50 R17 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 225/45 R17 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1995,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,121,1288,,1288,75,115,,30,47,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 205/55 R16 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.7,4,4.6,49.6,70.6,61.4,122,1288,,1288,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 205/50 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 225/45 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",120d 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1995,Diesel,,,,,5.8,4.1,4.7,48.7,68.9,60.1,124,1316,,1316,74,174,,72,77,0.2,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 205/55 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7,4.5,5.4,40.4,62.8,52.3,125,1439,,1439,73,441,59,24,,,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",114i 5-door - 205/55 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.1,4.5,5.5,39.8,62.8,51.4,127,1465,,1465,73,441,59,24,,,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 205/55 R16 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.2,4.6,5.6,39.2,61.4,50.4,129,1494,,1494,71,313,54,20,,,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 205/55 R16 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.1,4.6,5.6,39.8,61.4,50.4,129,1494,,1494,68,293,45,15,,,6,August 2013,D
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 205/50 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 225/45 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1598,Petrol,,,,,7.3,4.7,5.6,38.7,60.1,50.4,131,1494,,1494,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",114i 5-door - 205/50 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",114i 5-door - 225/45 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",114i 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",114i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,73,441,59,24,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 205/55 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.4,4.7,5.7,38.2,60.1,49.6,132,1518,,1518,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 205/50 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 225/45 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",116i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,71,313,54,20,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 205/50 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 225/45 R17 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1598,Petrol,,,,,7.4,4.8,5.8,38.2,58.9,48.7,134,1546,,1546,68,293,45,15,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 205/50 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 225/45 R17 tyres front and rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 225/45 R17 tyres front / 245/40 R17 tyres rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",118i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,74,312,42,31,,,6,August 2013,E
+BMW,"1 Series 5-door F20, From September 2011",125i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Automatic,A8,1997,Petrol,,,,,8.5,5.1,6.3,33.2,55.4,44.8,148,1680,,1680,72,250,30,28,,,6,August 2013,F
+BMW,"1 Series 5-door F20, From September 2011",125i 5-door - 225/40 R18 tyres front / 245/35 R18 tyres rear,Manual,M6,1997,Petrol,,,,,8.6,5.4,6.6,32.8,52.3,42.8,154,1759,,1759,74,383,43,33,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",320d Gran Turismo - 225/50 R18 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.9,4.4,4.9,47.9,64.2,57.6,129,1373,,1373,72,156,,49,53,0.1,6,August 2013,D
+BMW,"3 Series Gran Turismo F34, From June 2013",320d Gran Turismo - 225/50 R18 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.8,4.4,4.9,48.7,64.2,57.6,129,1373,,1373,73,186,,36,61,0.1,6,August 2013,D
+BMW,"3 Series Gran Turismo F34, From June 2013",320d Gran Turismo - 225/50 R18 tyres front / 255/45 R18 tyres rear,Automatic,A8,1995,Diesel,,,,,5.9,4.4,5,47.9,64.2,56.5,131,1400,,1400,72,156,,49,53,0.1,6,August 2013,E
+BMW,"3 Series Gran Turismo F34, From June 2013",320d Gran Turismo - 225/45 R19 tyres front / 255/40 R19 tyres rear,Automatic,A8,1995,Diesel,,,,,5.9,4.4,5,47.9,64.2,56.5,131,1400,,1400,72,156,,49,53,0.1,6,August 2013,E
+BMW,"3 Series Gran Turismo F34, From June 2013",320d Gran Turismo - 225/50 R18 tyres front / 255/45 R18 tyres rear,Manual,M6,1995,Diesel,,,,,5.9,4.4,5,47.9,64.2,56.5,131,1400,,1400,73,186,,36,61,0.1,6,August 2013,E
+BMW,"3 Series Gran Turismo F34, From June 2013",320d Gran Turismo - 225/45 R19 tyres front / 255/40 R19 tyres rear,Manual,M6,1995,Diesel,,,,,5.9,4.4,5,47.9,64.2,56.5,131,1400,,1400,73,186,,36,61,0.1,6,August 2013,E
+BMW,"3 Series Gran Turismo F34, From June 2013",320i Gran Turismo - 225/50 R18 tyres front and rear,Automatic,A8,1997,Petrol,,,,,8.2,5.1,6.2,34.4,55.4,45.6,145,1651,,1651,68,278,45,19,,,6,August 2013,F
+BMW,"3 Series Gran Turismo F34, From June 2013",320i Gran Turismo - 225/50 R18 tyres front / 255/45 R18 tyres rear,Automatic,A8,1997,Petrol,,,,,8.3,5.1,6.3,34,55.4,44.8,147,1680,,1680,68,278,45,19,,,6,August 2013,F
+BMW,"3 Series Gran Turismo F34, From June 2013",320i Gran Turismo - 225/45 R19 tyres front / 255/40 R19 tyres rear,Automatic,A8,1997,Petrol,,,,,8.3,5.1,6.3,34,55.4,44.8,147,1680,,1680,68,278,45,19,,,6,August 2013,F
+BMW,"3 Series Gran Turismo F34, From June 2013",328i Gran Turismo - 225/50 R18 tyres front and rear,Automatic,A8,1997,Petrol,,,,,8.3,5.3,6.4,34,53.3,44.1,149,1707,,1707,69,264,37,32,,,6,August 2013,F
+BMW,"3 Series Gran Turismo F34, From June 2013",328i Gran Turismo - 225/50 R18 tyres front / 255/45 R18 tyres rear,Automatic,A8,1997,Petrol,,,,,8.5,5.4,6.5,33.2,52.3,43.5,151,1731,,1731,69,264,37,32,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",328i Gran Turismo - 225/45 R19 tyres front / 255/40 R19 tyres rear,Automatic,A8,1997,Petrol,,,,,8.5,5.4,6.5,33.2,52.3,43.5,151,1731,,1731,69,264,37,32,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",320i Gran Turismo - 225/50 R18 tyres front and rear,Manual,M6,1997,Petrol,,,,,8.7,5.3,6.6,32.5,53.3,42.8,153,1759,,1759,71,253,29,21,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",320i Gran Turismo - 225/50 R18 tyres front / 255/45 R18 tyres rear,Manual,M6,1997,Petrol,,,,,8.9,5.4,6.7,31.7,52.3,42.2,156,1784,,1784,71,253,29,21,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",320i Gran Turismo - 225/45 R19 tyres front / 255/40 R19 tyres rear,Manual,M6,1997,Petrol,,,,,8.9,5.4,6.7,31.7,52.3,42.2,156,1784,,1784,71,253,29,21,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",328i Gran Turismo - 225/50 R18 tyres front and rear,Manual,M6,1997,Petrol,,,,,8.8,5.5,6.7,32.1,51.4,42.2,156,1784,,1784,73,389,35,32,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",328i Gran Turismo - 225/50 R18 tyres front / 255/45 R18 tyres rear,Manual,M6,1997,Petrol,,,,,8.8,5.6,6.8,32.1,50.4,41.5,158,1814,,1814,73,389,35,32,,,6,August 2013,G
+BMW,"3 Series Gran Turismo F34, From June 2013",328i Gran Turismo - 225/45 R19 tyres front / 255/40 R19 tyres rear,Manual,M6,1997,Petrol,,,,,8.8,5.6,6.8,32.1,50.4,41.5,158,1814,,1814,73,389,35,32,,,6,August 2013,G
+BMW,"3 Series Saloon F30, From February 2012",320d EfficientDynamics Saloon - 205/60 R16 tyres front and rear,Automatic,A8,1995,Diesel,,,,,4.9,3.7,4.1,57.6,76.3,68.9,109,1148,,1148,72,109,,35,61,0.2,6,August 2013,B
+BMW,"3 Series Saloon F30, From February 2012",320d EfficientDynamics Saloon - 205/60 R16 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.1,3.6,4.1,55.4,78.5,68.9,109,1148,,1148,73,143,,47,157,0.2,6,August 2013,B
+BMW,"3 Series Saloon F30, From February 2012",320d Saloon - all tyre sizes,Automatic,A8,1995,Diesel,,,,,5.4,3.9,4.5,52.3,72.4,62.8,118,1260,,1260,72,127,,32,58,0.1,6,August 2013,C
+BMW,"3 Series Saloon F30, From February 2012",320d Saloon - all tyre sizes,Manual,M6,1995,Diesel,,,,,5.6,3.9,4.6,50.4,72.4,61.4,120,1288,,1288,73,122,,19,46,0.2,6,August 2013,C
+BMW,"3 Series Saloon F30, From February 2012",320i EfficientDynamics Saloon - 205/60 R16 tyres front and rear,Manual,M6,1598,Petrol,,,,,7,4.4,5.3,40.4,64.2,53.3,124,1412,,1412,69,360,67,25,,,6,August 2013,D
+BMW,"3 Series Saloon F30, From February 2012",320i EfficientDynamics Saloon - 205/60 R16 tyres front and rear,Automatic,A8,1598,Petrol,,,,,7.3,4.4,5.4,38.7,64.2,52.3,127,1439,,1439,69,343,55,25,,,6,August 2013,D
+BMW,"3 Series Saloon F30, From February 2012",330d Saloon - all tyre sizes,Automatic,A8,2993,Diesel,,,,,5.7,4.5,4.9,49.6,62.8,57.6,129,1373,,1373,73,251,,60,105,0.2,6,August 2013,D
+BMW,"3 Series Saloon F30, From February 2012",316i Saloon - all tyre sizes,Automatic,A8,1598,Petrol,,,,,7.6,4.9,5.9,37.2,57.6,47.9,137,1572,,1572,69,319,45,25,,,6,August 2013,E
+BMW,"3 Series Saloon F30, From February 2012",330d xDrive Saloon - all tyre sizes,Automatic,A8,2993,Diesel,,,,,6,4.8,5.2,47.1,58.9,54.3,137,1457,,1457,73,251,,60,105,0.2,6,August 2013,E
+BMW,"3 Series Saloon F30, From February 2012",316i Saloon - all tyre sizes,Manual,M6,1598,Petrol,,,,,7.7,4.8,5.9,36.7,58.9,47.9,137,1572,,1572,70,289,45,31,,,6,August 2013,E
+BMW,"3 Series Saloon F30, From February 2012",320i Saloon - all tyre sizes,Automatic,A8,1997,Petrol,,,,,8.1,4.9,6,34.9,57.6,47.1,141,1598,,1598,68,239,33,28,,,6,August 2013,F
+BMW,"3 Series Saloon F30, From February 2012",328i Saloon - all tyre sizes,Automatic,A8,1997,Petrol,,,,,8.1,5.2,6.3,34.9,54.3,44.8,147,1680,,1680,73,391,54,32,,,6,August 2013,F
+BMW,"3 Series Saloon F30, From February 2012",320i Saloon - all tyre sizes,Manual,M6,1997,Petrol,,,,,8.6,5,6.3,32.8,56.5,44.8,147,1680,,1680,71,279,27,18,,,6,August 2013,F
+BMW,"3 Series Saloon F30, From February 2012",328i Saloon - all tyre sizes,Manual,M6,1997,Petrol,,,,,8.5,5.1,6.4,33.2,55.4,44.1,149,1707,,1707,74,506,37,18,,,6,August 2013,F
+BMW,"3 Series Saloon F30, From February 2012",320i xDrive Saloon - all tyre sizes,Automatic,A8,1997,Petrol,,,,,8.8,5.2,6.5,32.1,54.3,43.5,152,1731,,1731,68,239,33,28,,,6,August 2013,G
+BMW,"3 Series Saloon F30, From February 2012",320i xDrive Saloon - all tyre sizes,Manual,M6,1997,Petrol,,,,,9,5.6,6.8,31.4,50.4,41.5,159,1814,,1814,71,279,27,18,,,6,August 2013,G
+BMW,"3 Series Touring F31, from September 2012",320d EfficientDynamics Touring - 205/60 R16 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.1,3.9,4.3,55.4,72.4,65.7,114,1204,,1204,72,109,,35,61,0.2,6,August 2013,C
+BMW,"3 Series Touring F31, from September 2012",320d EfficientDynamics Touring - 205/60 R16 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.3,3.8,4.3,53.3,74.3,65.7,114,1204,,1204,73,143,,47,157,0.2,6,August 2013,C
+BMW,"3 Series Touring F31, from September 2012",320d Touring - all tyre sizes,Automatic,A8,1995,Diesel,,,,,5.6,4.2,4.7,50.4,67.3,60.1,124,1316,,1316,72,127,,32,58,0.1,6,August 2013,D
+BMW,"3 Series Touring F31, from September 2012",320d Touring - all tyre sizes,Manual,M6,1995,Diesel,,,,,5.9,4.1,4.8,47.9,68.9,58.9,125,1343,,1343,73,122,,19,46,0.2,6,August 2013,D
+BMW,"3 Series Touring F31, from September 2012",330d Touring - all tyre sizes,Automatic,A8,2993,Diesel,,,,,5.9,4.7,5.1,47.9,60.1,55.4,135,1428,,1428,73,251,,60,105,0.2,6,August 2013,E
+BMW,"3 Series Touring F31, from September 2012",330d xDrive Touring - all tyre sizes,Automatic,A8,2993,Diesel,,,,,6.2,4.9,5.4,45.6,57.6,52.3,142,1512,,1512,73,251,,60,105,0.2,6,August 2013,F
+BMW,"3 Series Touring F31, from September 2012",316i Touring - all tyre sizes,Automatic,A8,1598,Petrol,,,,,7.9,5.1,6.2,35.8,55.4,45.6,143,1651,,1651,69,319,45,25,,,6,August 2013,F
+BMW,"3 Series Touring F31, from September 2012",316i Touring - all tyre sizes,Manual,M6,1598,Petrol,,,,,8.1,5,6.2,34.9,56.5,45.6,143,1651,,1651,70,289,45,31,,,6,August 2013,F
+BMW,"3 Series Touring F31, from September 2012",320i Touring - all tyre sizes,Automatic,A8,1997,Petrol,,,,,8.4,5,6.2,33.6,56.5,45.6,145,1651,,1651,68,239,33,28,,,6,August 2013,F
+BMW,"3 Series Touring F31, from September 2012",328i Touring - all tyre sizes,Automatic,A8,1997,Petrol,,,,,8.4,5.4,6.5,33.6,52.3,43.5,152,1731,,1731,73,391,54,32,,,6,August 2013,G
+BMW,"3 Series Touring F31, from September 2012",320i Touring - all tyre sizes,Manual,M6,1997,Petrol,,,,,8.8,5.2,6.5,32.1,54.3,43.5,152,1731,,1731,71,279,27,18,,,6,August 2013,G
+BMW,"3 Series Touring F31, from September 2012",320i xDrive Touring - all tyre sizes,Automatic,A8,1997,Petrol,,,,,8.9,5.3,6.6,31.7,53.3,42.8,154,1759,,1759,68,239,33,28,,,6,August 2013,G
+BMW,"3 Series Touring F31, from September 2012",328i Touring - all tyre sizes,Manual,M6,1997,Petrol,,,,,9.2,5.5,6.8,30.7,51.4,41.5,159,1814,,1814,74,506,37,18,,,6,August 2013,G
+BMW,"3 Series Touring F31, from September 2012",320i xDrive Touring - all tyre sizes,Manual,M6,1997,Petrol,,,,,9,5.6,6.9,31.4,50.4,40.9,160,1841,,1841,71,279,27,18,,,6,August 2013,G
+BMW,"5 Series F10/F11, From March 2010",520d EfficientDynamics Saloon - 225/55 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.6,3.9,4.5,50.4,72.4,62.8,119,1260,,1260,75,247,,58,91,0.2,6,August 2013,C
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 225/55 R17 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.4,4.4,4.8,52.3,64.2,58.9,125,1343,,1343,73,175,,41,71,0.1,6,August 2013,D
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 225/55 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.7,4.3,4.8,49.6,65.7,58.9,127,1343,,1343,75,103,,26,73,0.1,6,August 2013,D
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 245/45 R18 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.6,4.5,4.9,50.4,62.8,57.6,129,1373,,1373,73,175,,41,71,0.1,6,August 2013,D
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 245/45 R18 tyres front and rear,Manual,M6,1995,Diesel,,,,,5.8,4.4,4.9,48.7,64.2,57.6,130,1373,,1373,75,103,,26,73,0.1,6,August 2013,D
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 245/45 R18 tyres front and 275/40 R18 tyres rear,Automatic,A8,1995,Diesel,,,,,5.7,4.6,5,49.6,61.4,56.5,131,1400,,1400,73,175,,41,71,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 245/40 R19 tyres front and 275/35 R19 tyres rear,Automatic,A8,1995,Diesel,,,,,5.7,4.6,5,49.6,61.4,56.5,131,1400,,1400,73,175,,41,71,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Touring - 225/55 R17 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.8,4.6,5,48.7,61.4,56.5,132,1400,,1400,73,175,,41,71,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 245/45 R18 tyres front and 275/40 R18 tyres rear,Manual,M6,1995,Diesel,,,,,6,4.5,5,47.1,62.8,56.5,133,1400,,1400,75,103,,26,73,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Saloon - 245/40 R19 tyres front and 275/35 R19 tyres rear,Manual,M6,1995,Diesel,,,,,6,4.5,5,47.1,62.8,56.5,133,1400,,1400,75,103,,26,73,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Touring - 225/55 R17 tyres front and rear,Manual,M6,1995,Diesel,,,,,6,4.5,5,47.1,62.8,56.5,133,1400,,1400,75,103,,26,73,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Touring - 245/45 R18 tyres front and rear,Automatic,A8,1995,Diesel,,,,,5.9,4.7,5.2,47.9,60.1,54.3,136,1457,,1457,73,175,,41,71,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Touring - 245/45 R18 tyres front and rear,Manual,M6,1995,Diesel,,,,,6.1,4.7,5.2,46.3,60.1,54.3,137,1457,,1457,75,103,,26,73,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Touring - 245/40 R19 tyres front and rear,Automatic,A8,1995,Diesel,,,,,6,4.8,5.2,47.1,58.9,54.3,138,1457,,1457,73,175,,41,71,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",530d Saloon - 225/55 R17 tyres front and rear,Automatic,A8,2993,Diesel,,,,,6.1,4.8,5.3,46.3,58.9,53.3,139,1484,,1484,70,170,,40,77,0.4,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",520d Touring - 245/40 R19 tyres front and rear,Manual,M6,1995,Diesel,,,,,6.2,4.7,5.3,45.6,60.1,53.3,139,1484,,1484,75,103,,26,73,0.1,6,August 2013,E
+BMW,"5 Series F10/F11, From March 2010",530d Saloon - 245/45 R18 tyres front and rear,Automatic,A8,2993,Diesel,,,,,6.3,4.9,5.4,44.8,57.6,52.3,143,1512,,1512,70,170,,40,77,0.4,6,August 2013,F
+BMW,"5 Series F10/F11, From March 2010",530d Saloon - 245/45 R18 tyres front and 275/40 R18 tyres rear,Automatic,A8,2993,Diesel,,,,,6.4,5,5.5,44.1,56.5,51.4,145,1539,,1539,70,170,,40,77,0.4,6,August 2013,F
+BMW,"5 Series F10/F11, From March 2010",530d Saloon - 245/40 R19 tyres front and 275/35 R19 tyres rear,Automatic,A8,2993,Diesel,,,,,6.4,5,5.5,44.1,56.5,51.4,145,1539,,1539,70,170,,40,77,0.4,6,August 2013,F
+BMW,"5 Series F10/F11, From March 2010",530d Touring - 225/55 R17 tyres front and rear,Automatic,A8,2993,Diesel,,,,,6.4,5,5.5,44.1,56.5,51.4,145,1539,,1539,70,170,,40,77,0.4,6,August 2013,F
+BMW,"5 Series F10/F11, From March 2010",530d Touring - 245/45 R18 tyres front and rear,Automatic,A8,2993,Diesel,,,,,6.6,5.1,5.7,42.8,55.4,49.6,149,1595,,1595,70,170,,40,77,0.4,6,August 2013,F
+BMW,"5 Series F10/F11, From March 2010",530d Touring - 245/40 R19 tyres front and rear,Automatic,A8,2993,Diesel,,,,,6.7,5.2,5.8,42.2,54.3,48.7,152,1624,,1624,70,170,,40,77,0.4,6,August 2013,G
+BMW,"5 Series Gran Turismo F07, From October 2009",530d Gran Turismo,Automatic,A8,2993,Diesel,,,,,6.7,5.3,5.8,42.2,53.3,48.7,153,1624,,1624,69,250,,44,111,0.3,6,August 2013,G
+BMW,7 Series F01/F02,730d Saloon,Automatic,A8,2993,Diesel,,,,,6.5,5.1,5.6,43.5,55.4,50.4,148,1569,,1569,71,223,,46,97,0.1,6,August 2013,F
+BMW,7 Series F01/F02,730Ld Saloon,Automatic,A8,2993,Diesel,,,,,6.5,5.1,5.6,43.5,55.4,50.4,148,1569,,1569,71,223,,46,97,0.1,6,August 2013,F
+BMW,7 Series F01/F02,760Li Saloon,Automatic,A8,5972,Petrol,,,,,20.5,9.3,13.4,13.8,30.4,21.1,314,3568,,3568,71,158,51,28,,,6,August 2013,M
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/50 R17 tyres front and rear,Automatic,A8,1997,Petrol,,,,,8.7,5.2,6.7,32.5,54.3,42.2,157,1784,,1784,73,360,41,25,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/45 R18 tyres front and rear,Automatic,A8,1997,Petrol,,,,,8.8,5.3,6.8,32.1,53.3,41.5,160,1814,,1814,73,360,41,25,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/45 R18 tyres front / 255/40 R18 tyres rear,Automatic,A8,1997,Petrol,,,,,8.8,5.3,6.8,32.1,53.3,41.5,160,1814,,1814,73,360,41,25,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/40 R19 tyres front / 255/35 R19 tyres rear,Automatic,A8,1997,Petrol,,,,,8.8,5.3,6.8,32.1,53.3,41.5,160,1814,,1814,73,360,41,25,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/50 R17 tyres front and rear,Manual,M6,1997,Petrol,,,,,8.9,5.8,6.9,31.7,48.7,40.9,162,1841,,1841,74,452,41,20,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/45 R18 tyres front and rear,Manual,M6,1997,Petrol,,,,,9,5.9,7.1,31.4,47.9,39.8,165,1892,,1892,74,452,41,20,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/45 R18 tyres front / 255/40 R18 tyres rear,Manual,M6,1997,Petrol,,,,,9,5.9,7.1,31.4,47.9,39.8,165,1892,,1892,74,452,41,20,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 sDrive20i - 225/40 R19 tyres front / 255/35 R19 tyres rear,Manual,M6,1997,Petrol,,,,,9,5.9,7.1,31.4,47.9,39.8,165,1892,,1892,74,452,41,20,,,6,August 2013,G
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/50 R17 tyres front and rear,Automatic,A8,1997,Petrol,,,,,9.1,6,7.1,31,47.1,39.8,167,1892,,1892,73,360,41,25,,,6,August 2013,H
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/45 R18 tyres front and rear,Automatic,A8,1997,Petrol,,,,,9.2,6.2,7.3,30.7,45.6,38.7,170,1945,,1945,73,360,41,25,,,6,August 2013,H
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/45 R18 tyres front / 255/40 R18 tyres rear,Automatic,A8,1997,Petrol,,,,,9.2,6.2,7.3,30.7,45.6,38.7,170,1945,,1945,73,360,41,25,,,6,August 2013,H
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/40 R19 tyres front / 255/35 R19 tyres rear,Automatic,A8,1997,Petrol,,,,,9.2,6.2,7.3,30.7,45.6,38.7,170,1945,,1945,73,360,41,25,,,6,August 2013,H
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/50 R17 tyres front and rear,Manual,M6,1997,Petrol,,,,,9.5,6.3,7.5,29.7,44.8,37.7,176,1997,,1997,74,286,21,17,,,6,August 2013,I
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/45 R18 tyres front and rear,Manual,M6,1997,Petrol,,,,,9.7,6.5,7.7,29.1,43.5,36.7,179,2051,,2051,74,286,21,17,,,6,August 2013,I
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/45 R18 tyres front / 255/40 R18 tyres rear,Manual,M6,1997,Petrol,,,,,9.7,6.5,7.7,29.1,43.5,36.7,179,2051,,2051,74,286,21,17,,,6,August 2013,I
+BMW,"X1 Series E84 , From October 2009",X1 xDrive20i - 225/40 R19 tyres front / 255/35 R19 tyres rear,Manual,M6,1997,Petrol,,,,,9.7,6.5,7.7,29.1,43.5,36.7,179,2051,,2051,74,286,21,17,,,6,August 2013,I
+BMW,"X3 Series F25, From November 2010",X3 xDrive20d,Automatic,A8,1995,Diesel,,,,,6,5.4,5.6,47.1,52.3,50.4,149,1569,,1569,74,41,,9,49,0.1,6,August 2013,F
+BMW,"X3 Series F25, From November 2010",X3 xDrive20d,Manual,M6,1995,Diesel,,,,,6.8,5.1,5.7,41.5,55.4,49.6,151,1595,,1595,75,242,,54,98,0.3,6,August 2013,G
+BMW,X5 Series E70,X5 xDrive30d,Automatic,A8,2993,Diesel,,,,,8.8,6.8,7.5,32.1,41.5,37.7,198,2098,,2098,72,191,,26,69,0.3,6,August 2013,J
+BMW,X6 Series E71,X6 xDrive30d,Automatic,A8,2993,Diesel,,,,,8.8,6.8,7.5,32.1,41.5,37.7,198,2098,,2098,72,191,,26,69,0.3,6,August 2013,J
+BMW,Z4 Series E89,Z4 sDrive18i Roadster,Automatic,A8,1997,Petrol,,,,,9.4,5.3,6.8,30.1,53.3,41.5,159,1814,,1814,72,285,30,32,,,6,August 2013,G
+BMW,Z4 Series E89,Z4 sDrive20i Roadster,Automatic,A8,1997,Petrol,,,,,9.4,5.3,6.8,30.1,53.3,41.5,159,1814,,1814,72,285,30,32,,,6,August 2013,G
+BMW,Z4 Series E89,Z4 sDrive28i Roadster,Automatic,A8,1997,Petrol,,,,,9.4,5.3,6.8,30.1,53.3,41.5,159,1814,,1814,72,224,35,38,,,6,August 2013,G
+BMW,Z4 Series E89,Z4 sDrive18i Roadster,Manual,M6,1997,Petrol,,,,,8.9,5.6,6.8,31.7,50.4,41.5,159,1814,,1814,74,309,28,24,,,6,August 2013,G
+BMW,Z4 Series E89,Z4 sDrive20i Roadster,Manual,M6,1997,Petrol,,,,,8.9,5.6,6.8,31.7,50.4,41.5,159,1814,,1814,74,309,28,24,,,6,August 2013,G
+BMW,Z4 Series E89,Z4 sDrive28i Roadster,Manual,M6,1997,Petrol,,,,,9.1,5.5,6.8,31,51.4,41.5,159,1814,,1814,74,283,31,19,,,6,August 2013,G
+CHRYSLER JEEP,"Jeep Compass, MY2013",2.4 4x4,Automatic,CVT,2359,Petrol,,,,,11.3,7,8.6,25,40.4,32.8,199,2295,,2295,74,491,44,10,,,6,August 2013,J
+CHRYSLER JEEP,"Jeep Compass, MY2014",2.0 4x2,Manual,M5,1998,Petrol,,,,,10.2,6.1,7.6,27.7,46.3,37.2,175,2024,,2024,72,800,53,7,,,6,August 2013,H
+CHRYSLER JEEP,"Jeep Compass, MY2014",2.4 4x4,Automatic,A6,209,Petrol,,,,,12,7.1,9,23.5,39.8,31.4,209,2398,,2398,73,366,37,10,,,6,August 2013,K
+CHRYSLER JEEP,"Jeep Grand Cherokee, MY2014",6.4,Automatic,A5,6417,Petrol,,,,,20.7,10.1,14,13.6,28,20.2,327,3727,,3727,73,424,43,39,,,6,August 2013,M
+FIAT,500L,0.9 TwinAir TB 105,Manual,M6,875,Petrol,,,,,5.7,4.3,4.8,49.6,65.7,58.9,112,1278,,1278,69.6,339,46,38,,,6,August 2013,C
+FIAT,500L,0.9 TwinAir TB 105 Trekking,Manual,M6,875,Petrol,,,,,6,4.6,5.1,47.1,61.4,55.4,119,1359,,1359,69.6,339,46,38,,,6,August 2013,C
+FIAT,500L,1.4 16v 95,Manual,M6,1368,Petrol,,,,,8.3,5,6.2,34,56.5,45.6,145,1651,,1651,70.4,225,35,36,,,6,August 2013,F
+FIAT,500L,1.4 16v 95 Trekking,Manual,M6,1368,Petrol,,,,,8.4,5.3,6.4,33.6,53.3,44.1,149,1707,,1707,70.4,225,35,36,,,6,August 2013,F
+MAZDA,CX-5,2.2 SKYACTIV-D (150PS) 2WD,Manual,M6,2191,Diesel,,,,,5.4,4.1,4.6,52.3,68.9,61.4,119,1288,,1288,71,97,,68,97,0.2,6,August 2013,C
+MAZDA,CX-5,2.2 SKYACTIV-D (150PS) 4WD,Manual,M6,2191,Diesel,,,,,6,4.7,5.2,47.1,60.1,54.3,136,1457,,1457,71.1,97,,68,97,0.2,6,August 2013,E
+MAZDA,CX-5,2.2 SKYACTIV-D (175PS) 4WD,Manual,M6,2191,Diesel,,,,,6,4.7,5.2,47.1,60.1,54.3,136,1457,,1457,71.1,97,,68,97,0.2,6,August 2013,E
+MAZDA,CX-5,2.2 SKYACTIV-D (150PS) 2WD,Automatic,A6,2191,Diesel,,,,,6.2,4.7,5.3,45.6,60.1,53.3,139,1484,,1484,70.1,141,,73,100,0.3,6,August 2013,E
+MAZDA,CX-5,2.2 SKYACTIV-D (150PS) 4WD,Automatic,A6,2191,Diesel,,,,,6.4,4.9,5.5,44.1,57.6,51.4,144,1539,,1539,70.7,141,,73,100,0.3,6,August 2013,F
+MAZDA,CX-5,2.2 SKYACTIV-D (175PS) 4WD,Automatic,A6,2191,Diesel,,,,,6.4,4.9,5.5,44.1,57.6,51.4,144,1539,,1539,70.7,141,,73,100,0.3,6,August 2013,F
+MAZDA,Mazda6,2.2 SKYACTIV-D (150PS) Saloon,Manual,M6,2191,Diesel,,,,,5.1,3.6,4.2,55.4,78.5,67.3,108,1175,,1175,69.5,244,,47,83,0.2,6,August 2013,B
+MAZDA,Mazda6,2.2 SKYACTIV-D (150PS) Tourer,Manual,M6,2191,Diesel,,,,,5.5,3.8,4.4,51.4,74.3,64.2,116,1232,,1232,69.5,168,,51,82,0,6,August 2013,C
+MAZDA,Mazda6,2.2 SKYACTIV-D (175PS) Saloon,Manual,M6,2191,Diesel,,,,,5.5,3.9,4.5,51.4,72.4,62.8,119,1260,,1260,69.5,274,,48,99,0.2,6,August 2013,C
+MAZDA,Mazda6,2.2 SKYACTIV-D (175PS) Tourer,Manual,M6,2191,Diesel,,,,,5.7,4,4.6,49.6,70.6,61.4,121,1288,,1288,69.5,274,,48,99,0.2,6,August 2013,D
+MAZDA,Mazda6,2.2 SKYACTIV-D (150PS) Saloon,Automatic,A6,2191,Diesel,,,,,5.9,4.2,4.8,47.9,67.3,58.9,127,1343,,1343,69.1,212,,45,77,0,6,August 2013,D
+MAZDA,Mazda6,2.2 SKYACTIV-D (175PS) Saloon,Automatic,A6,2191,Diesel,,,,,5.9,4.2,4.8,47.9,67.3,58.9,127,1343,,1343,69.1,212,,45,77,0,6,August 2013,D
+MAZDA,Mazda6,2.2 SKYACTIV-D (150PS) Tourer,Automatic,A6,2191,Diesel,,,,,6.1,4.2,4.9,46.3,67.3,57.6,129,1373,,1373,69.1,212,,45,77,0,6,August 2013,D
+MAZDA,Mazda6,2.2 SKYACTIV-D (175PS) Tourer,Automatic,A6,2191,Diesel,,,,,6.1,4.2,4.9,46.3,67.3,57.6,129,1373,,1373,69.1,212,,45,77,0,6,August 2013,D
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 220 CDI with 18"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.4,3.8,4.4,52.3,74.3,64.2,115,1232,,1232,73,158,,65,86,1,6,August 2013,C
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 16"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.1,4.5,5.4,39.8,62.8,52.3,127,1439,,1439,72,177,41,12,,,6,August 2013,D
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 16"" rear wheels",Manual,M6,1595,Petrol,,,,,7.5,4.3,5.5,37.7,65.7,51.4,128,1465,,1465,74,101,44,13,,,6,August 2013,D
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 15"" rear wheels",Manual,M6,1595,Petrol,,,,,7.5,4.4,5.5,37.7,64.2,51.4,129,1465,,1465,74,101,44,13,,,6,August 2013,D
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.2,4.7,5.6,39.2,60.1,50.4,131,1494,,1494,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 200 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.2,4.7,5.6,39.2,60.1,50.4,131,1494,,1494,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.3,4.8,5.7,38.7,58.9,49.6,133,1518,,1518,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 200 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.3,4.8,5.7,38.7,58.9,49.6,133,1518,,1518,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.6,4.6,5.7,37.2,61.4,49.6,133,1518,,1518,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 200 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.6,4.6,5.7,37.2,61.4,49.6,134,1518,,1518,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 180 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,7.7,4.7,5.8,36.7,60.1,48.7,135,1546,,1546,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 200 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,7.7,4.8,5.8,36.7,58.9,48.7,136,1546,,1546,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 250 with 18"" rear wheels",Automatic,A7,1991,Petrol,,,,,8.4,5,6.2,33.6,56.5,45.6,145,1651,,1651,72,145,31,40,,,6,August 2013,F
+MERCEDES-BENZ,"A-Class, Model Year 2013","A 250 Engineered by AMG with 18"" rear wheels",Automatic,A7,1991,Petrol,,,,,8.4,5.1,6.4,33.6,55.4,44.1,148,1707,,1707,74,296,34,29,,,6,August 2013,F
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 220 CDI with 18"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.4,3.8,4.4,52.3,74.3,64.2,115,1232,,1232,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 180 with 16"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.1,4.5,5.4,39.8,62.8,52.3,127,1439,,1439,72,177,41,12,,,6,August 2013,D
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 180 with 16"" rear wheels",Manual,M6,1595,Petrol,,,,,7.5,4.3,5.5,37.7,65.7,51.4,128,1465,,1465,74,101,44,13,,,6,August 2013,D
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 180 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.2,4.7,5.6,39.2,60.1,50.4,131,1494,,1494,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 200 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.2,4.7,5.6,39.2,60.1,50.4,131,1494,,1494,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.3,4.8,5.7,38.7,58.9,49.6,133,1518,,1518,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 200 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.3,4.8,5.7,38.7,58.9,49.6,133,1518,,1518,72,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.6,4.6,5.7,37.2,61.4,49.6,133,1518,,1518,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 200 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.6,4.6,5.7,37.2,61.4,49.6,134,1518,,1518,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 180 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,7.7,4.7,5.8,36.7,60.1,48.7,135,1546,,1546,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 200 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,7.7,4.8,5.8,36.7,58.9,48.7,136,1546,,1546,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 250 with 18"" rear wheels",Automatic,A7,1991,Petrol,,,,,8.4,5,6.2,33.6,56.5,45.6,145,1651,,1651,74,296,34,29,,,6,August 2013,F
+MERCEDES-BENZ,"A-Class, Model Year 2014","A 250 Engineered by AMG with 18"" rear wheels",Automatic,A7,1991,Petrol,,,,,8.4,5.1,6.4,33.6,55.4,44.1,148,1707,,1707,74,296,34,29,,,6,August 2013,F
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 220 CDI with 17"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.5,3.9,4.5,51.4,72.4,62.8,117,1260,,1260,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 220 CDI with 18"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.6,4,4.6,50.4,70.6,61.4,120,1288,,1288,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 180 with 16"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.8,5.8,37.2,58.9,48.7,136,1546,,1546,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 180 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.9,5.9,37.2,57.6,47.9,137,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 200 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.9,5.9,37.2,57.6,47.9,137,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 180 with 16"" rear wheels",Manual,M6,1595,Petrol,,,,,8,4.7,5.9,35.3,60.1,47.9,138,1572,,1572,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,5,5.9,37.2,56.5,47.9,139,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 200 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,5,5.9,37.2,56.5,47.9,139,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,8.2,4.9,6.1,34.4,57.6,46.3,141,1626,,1626,74,101,44,13,,,6,August 2013,F
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 180 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,8.3,5,6.2,34,56.5,45.6,144,1651,,1651,74,101,44,13,,,6,August 2013,F
+MERCEDES-BENZ,"B-Class, Model Year 2013","B 200 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,8.3,5,6.2,34,56.5,45.6,144,1651,,1651,74,101,44,13,,,6,August 2013,F
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 220 CDI with 17"" rear wheels 205/55 tyres ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.5,3.9,4.5,51.4,72.4,62.8,117,1260,,1260,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 220 CDI with 18"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.6,4,4.6,50.4,70.6,61.4,120,1288,,1288,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 180 with 16"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.8,5.8,37.2,58.9,48.7,135,1546,,1546,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 180 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.9,5.9,37.2,57.6,47.9,137,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 200 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.9,5.9,37.2,57.6,47.9,137,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 180 with 16"" rear wheels",Manual,M6,1595,Petrol,,,,,8,4.7,5.9,35.3,60.1,47.9,137,1572,,1572,74,101,44,13,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,5,5.9,37.2,56.5,47.9,139,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 200 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,5,5.9,37.2,56.5,47.9,139,1572,,1572,73,177,41,12,,,6,August 2013,E
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,8.2,4.9,6.1,34.4,57.6,46.3,141,1626,,1626,74,101,44,13,,,6,August 2013,F
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 180 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,8.3,5,6.2,34,56.5,45.6,144,1651,,1651,74,101,44,13,,,6,August 2013,F
+MERCEDES-BENZ,"B-Class, Model Year 2014","B 200 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,8.3,5,6.2,34,56.5,45.6,144,1651,,1651,74,101,41,13,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Coupé Model Year 2013,"C 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,8,5.3,6.3,35.3,53.3,44.8,147,1680,,1680,71,192,52,23,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Coupé Model Year 2013,"C 180 with 18"" rear wheels 205/55 Tyres",Manual,M6,1595,Petrol,,,,,8.1,5.4,6.4,34.9,52.3,44.1,149,1707,,1707,74,127,64,31,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Coupé Model Year 2014,"C 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,8,5.3,6.3,35.3,53.3,44.8,147,1680,,1680,71,175,36,19,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Estate Model Year 2013,"C 180 with 16"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.6,4.9,5.9,37.2,57.6,47.9,139,1572,,1572,71,175,36,19,,,6,August 2013,E
+MERCEDES-BENZ,C-Class Estate Model Year 2013,"C 180 with 16"" rear wheels",Manual,M6,1595,Petrol,,,,,7.7,4.9,5.9,36.7,57.7,47.9,139,1572,,1572,71,175,36,19,,,6,August 2013,E
+MERCEDES-BENZ,C-Class Estate Model Year 2013,"C 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.8,5.2,6.1,36.2,54.3,46.3,144,1626,,1626,74,127,64,31,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Estate Model Year 2013,"C 180 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.8,5.3,6.2,36.2,53.3,45.6,145,1651,,1651,71,175,36,19,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 16"" rear wheels 195/60 Tyres",Automatic,A7,1595,Petrol,,,,,7.7,4.8,5.8,36.7,58.9,48.7,136,1546,,1546,71,175,36,19,,,6,August 2013,E
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 16"" rear wheels 195/60 Tyres",Manual,M6,1595,Petrol,,,,,7.7,4.7,5.8,36.7,60.1,48.7,136,1546,,1546,74,127,64,31,,,6,August 2013,E
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 16"" rear wheels 205/55 Tyres",Automatic,A7,1595,Petrol,,,,,7.7,4.9,5.9,36.7,57.6,47.9,138,1572,,1572,71,175,36,19,,,6,August 2013,E
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 16"" rear wheels 205/55 Tyres",Manual,M6,1595,Petrol,,,,,7.8,4.8,5.9,36.2,58.9,47.9,138,1572,,1572,74,127,64,31,,,6,August 2013,E
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 17"" rear wheels",Automatic,A7,1595,Petrol,,,,,7.9,5.1,6.1,35.8,55.4,46.3,142,1626,,1626,71,192,52,26,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.9,5,6.1,35.8,56.5,46.3,142,1626,,1626,74,127,64,31,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Saloon Model Year 2013,"C 180 with 18"" rear wheels",Automatic,A7,1595,Petrol,,,,,8,5.3,6.3,35.3,53.3,44.8,147,1680,,1680,71,175,36,19,,,6,August 2013,F
+MERCEDES-BENZ,C-Class Saloon Model Year 2014,"C 180 with 17"" rear wheels",Manual,M6,1595,Petrol,,,,,7.9,5,6.1,35.8,56.5,46.3,142,1626,,1626,74,127,64,31,,,6,August 2013,F
+MERCEDES-BENZ,CLA-Class Model Year 2013,"CLA 220 CDI with 18"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.6,3.8,4.5,50.4,74.3,62.8,117,1260,,1260,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,CLA-Class Model Year 2013,"CLA 180 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,7.5,4.5,5.6,37.7,62.8,50.4,130,1494,,1494,74,101,44,13,,,6,August 2013,D
+MERCEDES-BENZ,CLA-Class Model Year 2014,"CLA 220 CDI with 17"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.5,3.7,4.4,51.4,76.3,64.2,114,1232,,1232,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,CLA-Class Model Year 2014,"CLA 220 CDI with 18"" rear wheels ECO Start/Stop",Automatic,A7,2143,Diesel,,,,,5.6,3.8,4.5,50.4,74.3,62.8,117,1260,,1260,73,158,,65,86,1.2,6,August 2013,C
+MERCEDES-BENZ,CLA-Class Model Year 2014,"CLA 180 with 18"" rear wheels",Manual,M6,1595,Petrol,,,,,7.5,4.5,5.6,37.7,62.8,50.4,130,1494,,1494,74,101,44,13,,,6,August 2013,D
+MERCEDES-BENZ,CLS Shooting Brake Model Year 2014,"CLS 63 AMG with 19"" rear wheels",Automatic,A7,5461,Petrol,,,,,14,7.8,10.1,20.2,36.2,28,235,2689,,2689,74,305,45,39,,,6,August 2013,L
+MERCEDES-BENZ,CLS-Class Model Year 2014,"CLS 63 AMG with 19"" rear wheels",Automatic,A7,5461,Petrol,,,,,13.9,7.6,9.9,20.3,37.2,28.5,231,2641,,2641,74,305,45,39,,,6,August 2013,L
+MERCEDES-BENZ,E-Class Cabriolet Model Year 2014,"E 200 with 18"" and 19"" rear wheels",Automatic,A7,1991,Petrol,,,,,8.2,5.3,6.4,34.4,53.3,44.1,148,1707,,1707,71,117,41,46,,,6,August 2013,F
+MERCEDES-BENZ,E-Class Estate Model Year 2014,"E 250 with 18"" and 19"" rear wheels",Automatic,A7,1991,Petrol,,,,,7.9,5.4,6.3,35.8,52.3,44.8,147,1680,,1680,73,117,41,46,,,6,August 2013,F
+MERCEDES-BENZ,E-Class Estate Model Year 2014,"E 350 BLUETEC with 18"" and 19"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.4,5.4,6.2,38.2,52.3,45.6,162,1735,,1735,70,359,,75,112,1.7,6,August 2013,G
+MERCEDES-BENZ,E-Class Estate Model Year 2014,"E 63 AMG with 18"" and 19"" rear wheels",Automatic,A7,5461,Petrol,,,,,13.9,7.8,10,20.3,36.2,28.2,234,2669,,2669,74,305,45,39,,,6,August 2013,L
+MERCEDES-BENZ,E-Class Saloon Model Year 2014,"E 250 with 18"" and 19"" rear wheels",Automatic,A7,1991,Petrol,,,,,7.7,5.1,6.1,36.7,55.4,46.3,142,1626,,1626,73,117,41,46,,,6,August 2013,F
+MERCEDES-BENZ,E-Class Saloon Model Year 2014,"E 350 BLUETEC with 17"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.2,4.8,5.7,39.2,58.9,49.6,149,1595,,1595,73,359,,75,112,1.7,6,August 2013,F
+MERCEDES-BENZ,E-Class Saloon Model Year 2014,"E 350 BLUETEC with 18"" and 19"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.3,5.2,6,38.7,54.3,47.1,157,1679,,1679,73,359,,75,112,1.7,6,August 2013,G
+MERCEDES-BENZ,E-Class Saloon Model Year 2014,"E 63 AMG with 18"" and 19"" rear wheels",Automatic,A7,5461,Petrol,,,,,13.8,7.5,9.8,20.5,37.7,28.8,230,2614,,2614,74,305,45,39,,,6,August 2013,L
+MERCEDES-BENZ,GL-Class Model Year 2013,"GL 350 BLUETEC 4MATIC with 21"" rear wheels",Automatic,A7,2987,Diesel,,,,,8.9,7.5,8,31.7,37.7,35.3,209,2241,,2241,72,296,,65,85,0.9,6,August 2013,K
+MERCEDES-BENZ,M-Class Model Year 2013,"ML 250 BLUETEC 4MATIC with 17"" rear wheels",Automatic,A7,2143,Diesel,,,,,7,5.4,6,40.4,52.3,47.1,158,1679,,1679,73,246,,52,72,0.5,6,August 2013,G
+MERCEDES-BENZ,M-Class Model Year 2013,"ML 250 BLUETEC 4MATIC with 18"" and 19"" rear wheels",Automatic,A7,2143,Diesel,,,,,7.3,5.6,6.3,38.7,50.4,44.8,165,1766,,1766,73,246,,52,72,0.5,6,August 2013,G
+MERCEDES-BENZ,M-Class Model Year 2013,"ML 250 BLUETEC 4MATIC with 20"" and 21"" rear wheels",Automatic,A7,2143,Diesel,,,,,7.6,5.8,6.5,37.2,48.7,43.5,170,1818,,1818,73,246,,52,72,0.5,6,August 2013,H
+MERCEDES-BENZ,M-Class Model Year 2013,"ML 350 BLUETEC 4MATIC with 17"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.8,6.3,6.8,36.2,44.8,41.5,179,1906,,1906,72,304,,73,96,1.9,6,August 2013,I
+MERCEDES-BENZ,M-Class Model Year 2013,"ML 350 BLUETEC 4MATIC with 18"" and 19"" rear wheels",Automatic,A7,2987,Diesel,,,,,8.2,6.7,7.2,34.4,42.2,39.2,189,2018,,2018,72,304,,73,96,1.9,6,August 2013,J
+MERCEDES-BENZ,M-Class Model Year 2013,"ML 350 BLUETEC 4MATIC with 20"" and 21"" rear wheels",Automatic,A7,2987,Diesel,,,,,8.4,6.8,7.4,33.6,41.5,38.2,194,2071,,2071,72,304,,73,96,1.9,6,August 2013,J
+MERCEDES-BENZ,S-Class Limousine Model Year 2013,"S 350 BLUETEC with 17"" and 18"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.7,5.4,6.2,36.7,52.3,45.6,164,1735,,1735,71,252,,65,89,0.7,6,August 2013,G
+MERCEDES-BENZ,S-Class Limousine Model Year 2013,"S 350 BLUETEC with 17"" and 18"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.7,5.4,6.2,36.7,52.3,45.6,164,1735,,1735,71,252,,65,89,1,6,August 2013,G
+MERCEDES-BENZ,S-Class Limousine Model Year 2013,"S 350 BLUETEC with 19"" and 20"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.9,5.6,6.4,35.8,50.4,44.1,168,1794,,1794,71,252,,65,89,0.7,6,August 2013,H
+MERCEDES-BENZ,S-Class Limousine Model Year 2013,"S 350 BLUETEC with 19"" and 20"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.9,5.6,6.4,35.8,50.4,44.1,168,1794,,1794,71,252,,65,89,1,6,August 2013,H
+MERCEDES-BENZ,S-Class Model Year 2013,"S 350 BLUETEC with 17"" and 18"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.7,5.4,6.2,36.7,52.3,45.6,164,1735,,1735,71,252,,65,89,0.7,6,August 2013,G
+MERCEDES-BENZ,S-Class Model Year 2013,"S 350 BLUETEC with 17"" and 18"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.7,5.4,6.2,36.7,52.3,45.6,164,1735,,1735,71,252,,65,89,1,6,August 2013,G
+MERCEDES-BENZ,S-Class Model Year 2013,"S 350 BLUETEC with 19"" and 20"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.9,5.6,6.4,35.8,50.4,44.1,168,1794,,1794,71,252,,65,89,0.7,6,August 2013,H
+MERCEDES-BENZ,S-Class Model Year 2013,"S 350 BLUETEC with 19"" and 20"" rear wheels",Automatic,A7,2987,Diesel,,,,,7.9,5.6,6.4,35.8,50.4,44.1,168,1794,,1794,71,252,,65,89,1,6,August 2013,H
+MINI,MINI Clubman R55,MINI One Clubman,Manual,M6,1598,Petrol,,,,,7.3,4.5,5.5,38.7,62.8,51.4,129,1465,,1465,74,385,42,40,,,6,August 2013,D
+MINI,MINI Clubman R55,MINI Cooper Clubman,Manual,M6,1598,Petrol,,,,,7,4.7,5.5,40.4,60.1,51.4,129,1465,,1465,74,578,61,17,,,6,August 2013,D
+MINI,MINI Clubman R55,MINI One Clubman,Automatic,A6,1598,Petrol,,,,,8.8,5.2,6.5,32.1,54.3,43.5,152,1731,,1731,72,353,57,31,,,6,August 2013,G
+MINI,MINI Clubman R55,MINI Cooper Clubman,Automatic,A6,1598,Petrol,,,,,8.8,5.2,6.5,32.1,54.3,43.5,152,1731,,1731,72,353,57,31,,,6,August 2013,G
+MINI,MINI Convertible R57,MINI One Convertible,Manual,M6,1598,Petrol,,,,,7.6,4.6,5.7,37.2,61.4,49.6,133,1518,,1518,74,385,42,40,,,6,August 2013,E
+MINI,MINI Convertible R57,MINI Cooper Convertible,Manual,M6,1598,Petrol,,,,,7.2,4.9,5.7,39.2,57.6,49.6,133,1518,,1518,74,578,61,17,,,6,August 2013,E
+MINI,MINI Convertible R57,MINI One Convertible,Automatic,A6,1598,Petrol,,,,,8.9,5.3,6.6,31.7,53.3,42.8,154,1759,,1759,72,353,57,31,,,6,August 2013,G
+MINI,MINI Convertible R57,MINI Cooper Convertible,Automatic,A6,1598,Petrol,,,,,8.9,5.3,6.6,31.7,53.3,42.8,154,1759,,1759,72,353,57,31,,,6,August 2013,G
+MINI,MINI Countryman R60 From September 2010,MINI One Countryman,Manual,M6,1598,Petrol,,,,,7.3,5.2,6,38.7,54.3,47.1,139,1598,,1598,74,380,53,51,,,6,August 2013,E
+MINI,MINI Countryman R60 From September 2010,MINI Cooper Countryman,Manual,M6,1598,Petrol,,,,,7.4,5.2,6,38.2,54.3,47.1,140,1598,,1598,74,647,44,13,,,6,August 2013,E
+MINI,MINI Countryman R60 From September 2010,MINI One Countryman,Automatic,A6,1598,Petrol,,,,,9.3,6,7.2,30.4,47.1,39.2,168,1920,,1920,74,462,66,32,,,6,August 2013,H
+MINI,MINI Countryman R60 From September 2010,MINI Cooper Countryman,Automatic,A6,1598,Petrol,,,,,9.3,6,7.2,30.4,47.1,39.2,168,1920,,1920,74,462,66,32,,,6,August 2013,H
+MINI,MINI Coupé R58 From October 2011,MINI Cooper Coupé,Manual,M6,1598,Petrol,,,,,6.9,4.6,5.4,40.9,61.4,52.3,127,1439,,1439,74,578,61,17,,,6,August 2013,D
+MINI,MINI Coupé R58 From October 2011,MINI Cooper Coupé,Automatic,A6,1598,Petrol,,,,,8.7,5.1,6.4,32.5,55.4,44.1,150,1707,,1707,72,353,57,31,,,6,August 2013,F
+MINI,MINI Hatchback R56,MINI First Hatchback,Manual,M6,1598,Petrol,,,,,7.2,4.4,5.4,39.2,64.2,52.3,127,1439,,1439,74,385,42,40,,,6,August 2013,D
+MINI,MINI Hatchback R56,MINI One Hatchback,Manual,M6,1598,Petrol,,,,,7.2,4.4,5.4,39.2,64.2,52.3,127,1439,,1439,74,385,42,40,,,6,August 2013,D
+MINI,MINI Hatchback R56,MINI Cooper Hatchback,Manual,M6,1598,Petrol,,,,,6.9,4.6,5.4,40.9,61.4,52.3,127,1439,,1439,74,578,61,17,,,6,August 2013,D
+MINI,MINI Hatchback R56,MINI One Hatchback,Automatic,A6,1598,Petrol,,,,,8.7,5.1,6.4,32.5,55.4,44.1,150,1707,,1707,72,353,57,31,,,6,August 2013,F
+MINI,MINI Hatchback R56,MINI Cooper Hatchback,Automatic,A6,1598,Petrol,,,,,8.7,5.1,6.4,32.5,55.4,44.1,150,1707,,1707,72,353,57,31,,,6,August 2013,F
+MINI,MINI Paceman R61 From November 2012,MINI Cooper Paceman,Manual,M6,1598,Petrol,,,,,7.4,5.2,6,38.2,54.3,47.1,140,1598,,1598,74,647,44,13,,,6,August 2013,E
+MINI,MINI Paceman R61 From November 2012,MINI Cooper Paceman,Automatic,A6,1598,Petrol,,,,,9.3,6,7.2,30.4,47.1,39.2,168,1920,,1920,74,462,66,32,,,6,August 2013,H
+MINI,MINI Roadster R59 From April 2012,MINI Cooper Roadster,Manual,M6,1598,Petrol,,,,,7.2,4.9,5.7,39.2,57.6,49.6,133,1518,,1518,74,578,61,17,,,6,August 2013,E
+MINI,MINI Roadster R59 From April 2012,MINI Cooper Roadster,Automatic,A6,1598,Petrol,,,,,8.9,5.3,6.6,31.7,53.3,42.8,154,1759,,1759,72,353,57,31,,,6,August 2013,G
+MITSUBISHI,i-MiEV,i-MiEV,N/A,N/A,N/A,Electricity,4.6,135,150,93,N/A,N/A,N/A,N/A,N/A,N/A,0,0,378,378,66,N/A,N/A,N/A,N/A,N/A,6,August 2013,A
+NISSAN,Leaf,Leaf,N/A,N/A,N/A,Electricity,3.6,173,175,109,N/A,N/A,N/A,N/A,N/A,N/A,0,0,484,484,68,N/A,N/A,N/A,N/A,N/A,6,August 2013,A
+ROLLS-ROYCE,Ghost,Ghost,Automatic,A8,6592,Petrol,,,,,21.2,9.8,14,13.3,28.8,20.2,327,3727,,3727,70,190,57,37,,,6,August 2013,M
+ROLLS-ROYCE,Ghost,Ghost EWB,Automatic,A8,6592,Petrol,,,,,21.4,9.8,14.1,13.2,28.8,20,329,3764,,3764,70,190,57,37,,,6,August 2013,M
+SKODA,New Octavia 2013,2.0 TSI 220PS Stop-Start vRS,Manual,M6,1984,Petrol,,,,,7.7,5.3,6.2,36.7,53.3,45.6,142,1651,,1651,74,390,43,42,,,6,August 2013,F
+SKODA,New Octavia 2013,2.0 TSI 220PS DSG Stop-Start vRS,Automatic,D6,1984,Petrol,,,,,8.1,5.4,6.4,34.9,52.3,44.1,149,1707,,1707,73,357,63,54,,,6,August 2013,F
+SKODA,New Octavia Estate 2013,2.0 TSI 220PS Stop-Start vRS,Manual,M6,1984,Petrol,,,,,7.7,5.3,6.2,36.7,53.3,45.6,142,1651,,1651,74,390,52,43,,,6,August 2013,F
+SKODA,New Octavia Estate 2013,2.0 TSI 220PS DSG Stop-Start vRS,Automatic,D6,1984,Petrol,,,,,8.1,5.4,6.4,34.9,52.3,44.1,149,1707,,1707,73,357,63,54,,,6,August 2013,F
+VOLKSWAGEN,New Golf 2013,1.4 TSI 140PS 3 door GT,Manual,M6,1395,Petrol,,,,,5.8,4.2,4.7,48.7,67.3,60.1,109,1253,,1253,73,646,41,32,,,6,August 2013,B
+VOLKSWAGEN,New Golf 2013,2.0 TDI 184PS 3 / 5 door ,Manual,M6,1968,Diesel,,,,,5.1,3.7,4.2,55.4,76.3,67.3,109,1175,,1175,75,281,,64,112,0,6,August 2013,B
+VOLKSWAGEN,New Golf 2013,1.4 TSI 140PS 5 door 7speed DSG GT,Automatic,D7,1395,Petrol,,,,,5.8,4.1,4.7,48.7,68.9,60.1,112,1253,,1253,69,470,53,46,,,6,August 2013,C
+VOLKSWAGEN,New Golf 2013,1.4 TSI 140PS 5 door GT,Manual,M6,1395,Petrol,,,,,5.9,4.3,4.8,47.9,65.7,58.9,117,1278,,1278,73,646,41,32,,,6,August 2013,C
+VOLKSWAGEN,New Golf 2013,2.0 TDI 184PS 3 door DSG,Automatic,D6,1968,Diesel,,,,,5.5,4,4.5,51.4,70.6,62.8,119,1260,,1260,74,165,,74,108,0,6,August 2013,C
+VOLKSWAGEN,New Golf 2013,2.0 TDI 184PS 5 door DSG,Automatic,D6,1968,Diesel,,,,,5.7,4.1,4.7,49.6,68.9,60.1,122,1316,,1316,74,165,,74,108,0,6,August 2013,D
+VOLKSWAGEN,New Golf 2013,GTI 2.0 TSI 220PS 3 / 5 door ,Manual,M6,1984,Petrol,,,,,7.5,5.1,6,37.7,55.4,47.1,139,1598,,1598,72,409,47,38,35,,6,August 2013,E
+VOLKSWAGEN,New Golf 2013,GTI 2.0 TSI 230PS 3 / 5 door ,Manual,M6,1984,Petrol,,,,,7.5,5.1,6,37.7,55.4,47.1,139,1598,,1598,72,409,47,38,35,,6,August 2013,E
+VOLKSWAGEN,New Golf 2013,GTI 2.0 TSI 220PS 3 / 5 door DSG,Automatic,D6,1984,Petrol,,,,,8.1,5.3,6.4,34.9,53.3,44.1,148,1707,,1707,74,357,63,54,32,,6,August 2013,F
+VOLKSWAGEN,New Golf 2013,GTI 2.0 TSI 230PS 3 / 5 door DSG,Automatic,D6,1984,Petrol,,,,,8.1,5.4,6.4,34.9,52.3,44.1,149,1707,,1707,74,357,63,54,32,,6,August 2013,F

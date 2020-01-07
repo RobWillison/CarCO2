@@ -1,0 +1,69 @@
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.0/dist/latest/bootstrap-autocomplete.min.js"></script>
+
+<html>
+    <head>
+        <title>{{ title }} - Microblog</title>
+    </head>
+    <body>
+      <select id='fuel'>
+        <option value="Petrol">Petrol</option>
+        <option value="Diesel">Diesel</option>
+      </select>
+      <input id="year" type="number" name="quantity" min="2005" max="2019">
+      <input id="engine">
+      <input class="form-control basicAutoCompleteMake" type="text" autocomplete="off">
+      <input class="form-control basicAutoCompleteModel" type="text" autocomplete="off">
+      <button id='go'>Go</button>
+
+      <div class="card">
+        <div class="card-body">
+          Approx CO2 g/km <h1 id='co2'>0</h1>
+        </div>
+        <div class="card-body">
+          Approx Number <h1 id='total'>0</h1>
+        </div>
+      </div>
+    </body>
+</html>
+<script>
+  $('.basicAutoCompleteMake').autoComplete({
+      resolverSettings: {
+          url: '/make'
+      },
+      minLength: 1
+  });
+  $('.basicAutoCompleteModel').autoComplete({
+      resolverSettings: {
+          url: '/model'
+      },
+      events: {
+        searchPre: function searchPre(term, el) {
+
+          return $('.basicAutoCompleteMake').val() + '///' + term + '///' + $('#year').val() + '///' + $('#fuel').val() + '///' + $('#engine').val()
+        }
+      },
+      minLength: 1
+  });
+  $("#go").click(function() {
+    make = $('.basicAutoCompleteMake').val()
+    model = $('.basicAutoCompleteModel').val()
+    year = $('#year').val()
+    fuel = $('#fuel').val()
+    engine = $('#engine').val()
+    console.log('data')
+    $.ajax({
+      url: '/data',
+      data: {make: make, model: model, year: year, fuel: fuel, engine: engine},
+      success: function(data) {
+        $('#co2').text(data['co2'])
+        $('#total').text(data['total'])
+      }
+    });
+  });
+</script>

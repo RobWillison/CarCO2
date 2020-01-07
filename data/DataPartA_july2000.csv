@@ -1,0 +1,51 @@
+Manufacturers,Model,Description,Line_2,Line_3,Transmission,Engine Capacity,Fuel Type,Metric Urban (cold),Metric Extra-urban,Metric Combined,Imperial (cold),Imperial Extra-urban,Imperial Combined,CO2 g/km,Fuel Cost 6000 Miles,Euro Standard,Noise Level dB(A),Emissions CO,Emissions HC+NOx,Emissions HC,Emissions NOx,Emissions Particulates
+FORD,Fiesta,1.25i 16V (13 inch tyre),,,M5,1242,Petrol,8.7,5.8,6.9,32.5,48.7,40.9,161,520,IV,73,0.296,0,0.054,0.061,0
+FORD,Fiesta,1.25i 16V (14 inch tyre),,,M5,1242,Petrol,8.8,5.7,6.9,32.1,49.6,40.9,161,520,IV,73,0.296,0,0.054,0.061,0
+FORD,Fiesta,1.6i 16V,,,M5,1596,Petrol,9.5,6.0,7.3,29.7,47.1,38.7,171,550,IV,71,0.427,0,0.052,0.031,0
+FORD,New Galaxy,2.8i CD-V6,,,M6,2792,Petrol,14.8,8.5,10.8,19.1,33.2,26.2,259,812,IV,73,0.28,0,0.071,0.059,0
+SEAT,Alhambra,2.0 115 bhp,,,M6,1984,Petrol,13.0,7.7,9.7,21.7,36.7,29.1,233,731,IV,74,0.814,0,0.067,0.07,0
+SEAT,Alhambra,1.8 20V Turbo,,,M6,1781,Petrol,13.4,7.4,9.6,21.1,38.2,29.4,230,724,IV,74,0.545,0,0.061,0.017,0
+SKODA,Fabia Hatch,Comfort 1.4 16V 100 bhp,,,M5,1390,Petrol,9.6,5.7,7.1,29.4,49.6,39.8,170,535,IV,73,0.615,0,0.089,0.02,0
+SKODA,Fabia Hatch,Elegance 1.4 16V 100 bhp,,,M5,1390,Petrol,9.6,5.7,7.1,29.4,49.6,39.8,170,535,IV,73,0.615,0,0.089,0.02,0
+SKODA,Octavia Hatch,GLXi 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.795,0,0.068,0.029,0
+SKODA,Octavia Hatch,SLXi 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.795,0,0.068,0.029,0
+SKODA,Octavia Estate,GLXi 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.795,0,0.068,0.029,0
+SKODA,Octavia Estate,SLXi 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.795,0,0.068,0.029,0
+VAUXHALL,Agila Model Year 2000,1.0 12V,,,M,973,Petrol,7.5,5.6,6.3,37.7,50.4,44.8,151,475,IV,72,0.403,0.115,0.064,0.051,0
+VAUXHALL,Agila Model Year 2000,1.2 16V,,,M,1199,Petrol,8.0,5.7,6.5,35.3,49.6,43.5,156,489,IV,73,0.348,0.087,0.055,0.032,0
+VOLKSWAGEN,Lupo 3 Door Hatchback,E 1.0  50 bhp,,,M5,999,Petrol,7.8,4.7,5.8,36.2,60.1,48.7,139,437,IV,72.5,0.209,0,0.071,0.025,0
+VOLKSWAGEN,Lupo 3 Door Hatchback,E 1.4  75 bhp,,,M5,1390,Petrol,8.7,4.9,6.3,32.5,57.6,44.8,151,475,IV,72.5,0.294,0,0.067,0.03,0
+VOLKSWAGEN,Lupo 3 Door Hatchback,S 1.4  75 bhp,,,M5,1390,Petrol,8.7,4.9,6.3,32.5,57.6,44.8,151,475,IV,72.5,0.294,0,0.067,0.03,0
+VOLKSWAGEN,Lupo 3 Door Hatchback,Sport 1.4  16V 100 bhp,,,M5,1390,Petrol,9.6,5.2,6.8,29.4,54.3,41.5,163,513,IV,73,0.283,0,0.061,0.014,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,E 1.0  50 bhp,,,M5,999,Petrol,7.6,4.8,5.8,37.2,58.9,48.7,139,437,IV,72,0.209,0,0.071,0.025,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,E 1.4  60 bhp,,,M5,1390,Petrol,8.5,5.0,6.3,33.2,56.5,44.8,151,475,IV,73,0.251,0,0.043,0.023,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,E 1.4  60 bhp,,,A4,1390,Petrol,10.2,6.3,7.7,27.7,44.8,36.7,185,580,IV,73,0.31,0,0.062,0.019,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,S 1.4  60 bhp,,,M5,1390,Petrol,8.5,5.0,6.3,33.2,56.5,44.8,151,475,IV,73,0.251,0,0.043,0.023,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,S 1.4  60 bhp,,,A4,1390,Petrol,10.2,6.3,7.7,27.7,44.8,36.7,185,580,IV,73,0.31,0,0.062,0.019,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,S 1.4  75 bhp,,,M5,1390,Petrol,8.8,5.0,6.4,32.1,56.5,44.1,154,482,IV,73,0.355,0,0.071,0.032,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,SE 1.4  60 bhp,,,M5,1390,Petrol,8.5,5.0,6.3,33.2,56.5,44.8,151,475,IV,73,0.251,0,0.043,0.023,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,SE 1.4  60 bhp,,,A4,1390,Petrol,10.2,6.3,7.7,27.7,44.8,36.7,185,580,IV,73,0.31,0,0.062,0.019,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,SE 1.4  75 bhp,,,M,1390,Petrol,8.8,5.0,6.4,32.1,56.5,44.1,154,482,IV,72.5,0.355,0,0.071,0.032,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,16V 1.4  100 bhp,,,M5,1390,Petrol,9.7,5.5,7.0,29.1,51.4,40.4,168,527,IV,74,0.238,0,0.061,0.014,0
+VOLKSWAGEN,New Polo Hatch 3 & 5 Door,GTI 1.6  125 bhp,,,M5,1598,Petrol,10.2,5.5,7.2,27.7,51.4,39.2,173,543,IV,74,0.191,0,0.059,0.042,0
+VOLKSWAGEN,Golf Cabriolet 2 Door Convertible,Colour Concept  2.0  115 bhp,,,M5,1984,Petrol,11.3,6.3,8.1,25.0,44.8,34.9,194,610,IV,72,0.569,0,0.064,0.032,0
+VOLKSWAGEN,Golf Cabriolet 2 Door Convertible,Avantgarde 2.0  115 bhp,,,M5,1984,Petrol,11.3,6.3,8.1,25.0,44.8,34.9,194,610,IV,72,0.569,0,0.064,0.032,0
+VOLKSWAGEN,Golf 3/5 Door Hatchback,E 1.4 75 bhp,,,M5,1390,Petrol,9.1,5.5,6.8,31.0,51.4,41.5,163,513,IV,72,0.121,0,0.074,0.04,0
+VOLKSWAGEN,Golf 3/5 Door Hatchback,S 1.4 75 bhp,,,M5,1390,Petrol,9.1,5.5,6.8,31.0,51.4,41.5,163,513,IV,72,0.121,0,0.074,0.04,0
+VOLKSWAGEN,Golf 3/5 Door Hatchback,S 1.6 105 bhp,,,M5,1598,Petrol,9.6,5.7,7.1,29.4,49.6,39.8,170,535,IV,72,0.353,0,0.061,0.032,0
+VOLKSWAGEN,Golf 3/5 Door Hatchback,SE 1.6 105 bhp,,,M5,1598,Petrol,9.6,5.7,7.1,29.4,49.6,39.8,170,535,IV,72,0.353,0,0.061,0.032,0
+VOLKSWAGEN,Golf 3/5 Door Hatchback,GTI 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.794,0,0.068,0.03,0
+VOLKSWAGEN,Golf 3/5 Door Hatchback,V6 4MOTION,,,M5,2792,Petrol,15.6,8.3,11.0,18.1,34.0,25.7,264,828,IV,74,0.473,0,0.059,0.025,0
+VOLKSWAGEN,Golf 5 Door Estate,E 1.4 75 bhp,,,M5,1390,Petrol,9.3,5.6,7.0,30.4,50.4,40.4,168,527,IV,72,0.121,0,0.074,0.04,0
+VOLKSWAGEN,Golf 5 Door Estate,S 1.6 105 bhp,,,M5,1598,Petrol,9.7,5.8,7.2,29.1,48.7,39.2,173,543,IV,72,0.353,0,0.061,0.032,0
+VOLKSWAGEN,Golf 5 Door Estate,S 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.794,0,0.068,0.03,0
+VOLKSWAGEN,Golf 5 Door Estate,SE 2.0 115 bhp,,,M5,1984,Petrol,11.1,6.3,8.1,25.4,44.8,34.9,194,610,IV,73,0.794,0,0.068,0.03,0
+VOLKSWAGEN,Bora 4 Door Saloon,V6 4MOTION,,,M5,2792,Petrol,15.6,8.3,11.0,18.1,34.0,25.7,264,828,IV,74,0.473,0,0.059,0.025,0
+VOLKSWAGEN,Bora 4 Door Saloon,S 1.6 105 bhp,,,M5,1598,Petrol,9.7,5.8,7.2,29.1,47.9,39.2,173,543,IV,72,0.353,0,0.061,0.032,0
+VOLKSWAGEN,Bora 4 Door Saloon,SE 1.6 105 bhp,,,M5,1598,Petrol,9.7,5.8,7.2,29.1,47.9,39.2,173,543,IV,72,0.353,0,0.061,0.032,0
+VOLKSWAGEN,New Beetle,2.0 115 bhp,,,M5,1984,Petrol,11.8,6.9,8.7,23.9,40.9,32.5,209,655,IV,73.5,0.685,0,0.086,0.03,0
+VOLKSWAGEN,New Sharan 5 Door,S 2.0 115 bhp,,,M6,1984,Petrol,13.0,7.7,9.7,21.7,36.7,29.1,233,731,IV,74,0.814,0,0.067,0.07,0
+VOLKSWAGEN,New Sharan 5 Door,SE 2.0  115 bhp,,,M6,1984,Petrol,13.0,7.7,9.7,21.7,36.7,29.1,233,731,IV,74,0.814,0,0.067,0.07,0
+VOLKSWAGEN,New Sharan 5 Door,SE 1.8  20V Turbo 150 bhp,,,M6,1781,Petrol,13.5,7.5,9.7,20.9,37.7,29.1,233,731,IV,74,0.545,0,0.061,0.017,0
+VOLKSWAGEN,New Sharan 5 Door,Sport  1.8 20V Turbo 150 bhp,,,M6,1781,Petrol,13.5,7.5,9.7,20.9,37.7,29.1,233,731,IV,74,0.545,0,0.061,0.017,0
+VOLKSWAGEN,New Sharan 5 Door,Carat 1.8 20V Turbo 150 bhp,,,M6,1781,Petrol,13.5,7.5,9.7,20.9,37.7,29.1,233,731,IV,74,0.545,0,0.061,0.017,0
