@@ -5,65 +5,304 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 <script src="https://cdn.jsdelivr.net/gh/xcash/bootstrap-autocomplete@v2.3.0/dist/latest/bootstrap-autocomplete.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js" integrity="sha256-gX8uuyxN8stSMHWO9arnnKyenTOALaVAcVB3b6P87e4=" crossorigin="anonymous"></script>
 
 <html>
     <head>
-        <title>{{ title }} - Microblog</title>
+        <title>Vehicle Emissions BETA</title>
     </head>
     <body>
-      <select id='fuel'>
-        <option value="Petrol">Petrol</option>
-        <option value="Diesel">Diesel</option>
-      </select>
-      <input id="year" type="number" name="quantity" min="2005" max="2019">
-      <input id="engine">
-      <input class="form-control basicAutoCompleteMake" type="text" autocomplete="off">
-      <input class="form-control basicAutoCompleteModel" type="text" autocomplete="off">
-      <button id='go'>Go</button>
+      <div class="box gauge--3">
+      </div>
+      <div class="card form">
+        <div class="card-body">
+          <div class="alert alert-danger no-data" role="alert">
+            No Data Found, Are You Sure The Data Is Correct
+          </div>
+          <form autocomplete="off" id="car_form">
+            <div class="form-row">
+              <div class="form-group col-md-6">
+                <label for="inputEmail4">Make</label>
+                <input class="form-control basicAutoCompleteMake" id="make" placeholder="Make" required>
+              </div>
+              <div class="form-group col-md-6">
+                <label for="model">Model</label>
+                <input class="form-control basicAutoCompleteModel" id="model" placeholder="Model" required>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="form-group col-md-4">
+                <label for="inputEmail4">Year</label>
+                <input class="form-control" id="year" placeholder="Year" required>
+              </div>
 
-      <div class="card">
-        <div class="card-body">
-          Approx CO2 g/km <h1 id='co2'>0</h1>
+              <div class="form-group col-md-4">
+                <label for="model">Fuel Type</label>
+                <select class="custom-select" id="fuel">
+                  <option value="">Any</option>
+                  <option value="Petrol">Petrol</option>
+                  <option value="Diesel">Diesel</option>
+                </select>
+              </div>
+
+              <div class="form-group col-md-4">
+                <label for="model">Engine Size</label>
+                <input class="form-control basicAutoCompleteEngineSize" id="engine" placeholder="Engine Size e.g. 1.2" required>
+              </div>
+            </div>
+          </form>
+
+          <table class="table table-hover" id="cars">
+            <thead  style='display: none'>
+              <tr class="template"><td class="make-value"/><td class="model-value"/><td class="year-value"/><td class="engine-value"/><td class="co2-value"/><td><div class="indicator"></div></td>
+            </thead>
+            <tbody>
+
+            </tbody>
+          </table>
         </div>
+      </div>
+
+      <div class="card results">
         <div class="card-body">
-          Approx Number <h1 id='total'>0</h1>
+          <h1> <el id="co2"></el> g/Km</h1>
+          <div class="mask">
+            <div class="semi-circle">
+              <div class="needle" data-angle=90"></div>
+              <div class="center"></div>
+            </div>
+          </div>
+
+
+          <button type="submit" id="back" class="btn btn-primary">Back</button>
         </div>
       </div>
     </body>
 </html>
 <script>
-  $('.basicAutoCompleteMake').autoComplete({
-      resolverSettings: {
-          url: '/make'
-      },
-      minLength: 1
-  });
-  $('.basicAutoCompleteModel').autoComplete({
-      resolverSettings: {
-          url: '/model'
-      },
-      events: {
-        searchPre: function searchPre(term, el) {
+  $( document ).ready(function() {
+    $('.needle').on('update-angle', function(ev) {
+      setTimeout(function() {
+        angle = $('.needle')[0].dataset.angle
+        $('.needle')[0].style.transform = 'rotate(' + angle + 'deg)'
+      }, 250)
+    })
 
-          return $('.basicAutoCompleteMake').val() + '///' + term + '///' + $('#year').val() + '///' + $('#fuel').val() + '///' + $('#engine').val()
-        }
-      },
-      minLength: 1
-  });
-  $("#go").click(function() {
-    make = $('.basicAutoCompleteMake').val()
-    model = $('.basicAutoCompleteModel').val()
-    year = $('#year').val()
-    fuel = $('#fuel').val()
-    engine = $('#engine').val()
-    console.log('data')
-    $.ajax({
-      url: '/data',
-      data: {make: make, model: model, year: year, fuel: fuel, engine: engine},
-      success: function(data) {
-        $('#co2').text(data['co2'])
-        $('#total').text(data['total'])
+    $('select').change( function(el) {
+      console.log('test')
+      $('form').trigger('update')
+    });
+
+    $('#make').on('autocomplete.select', function(event, item) {
+      event.currentTarget.value = item
+      $('form').trigger('update')
+    });
+
+    $('#model').on('autocomplete.select', function(event, item) {
+      event.currentTarget.value = item
+      $('form').trigger('update')
+    });
+
+    $('.basicAutoCompleteMake').autoComplete({
+        resolverSettings: {
+            url: '/make'
+        },
+        minLength: 1
+    });
+
+    $('.basicAutoCompleteModel').autoComplete({
+        resolverSettings: {
+            url: '/model'
+        },
+        events: {
+          searchPre: function searchPre(term, el) {
+            return $('.basicAutoCompleteMake').val() + '///' + term
+          }
+        },
+        minLength: 1
+    });
+
+    $('.basicAutoCompleteEngineSize').autoComplete({
+        resolverSettings: {
+            url: '/engine'
+        },
+        events: {
+          searchPre: function searchPre(term, el) {
+            return $('#make').val() + '///' + $('#model').val() + '///' + $('#year').val() + '///' + $('#fuel').val() + '///' + term
+          }
+        },
+        minLength: 1
+    });
+
+    $("#year").keypress(function(event){
+      if ('0123456789'.indexOf(event.key) == -1 || $('#year').val().length == 4){
+        event.preventDefault()
       }
+    });
+
+    $("#year").keyup(function(event){
+      if ($('#year').val().length == 4){
+        $('form').trigger('update')
+      }
+    });
+
+    $("#engine").keypress(function(event){
+      if ('0123456789.'.indexOf(event.key) == -1 || $('#engine').val().length == 3){
+        event.preventDefault()
+      }
+    });
+
+    $("#engine").keyup(function(event){
+      if ($('#engine').val().length == 3){
+        $('form').trigger('update')
+      }
+    });
+
+    $("#back").click(function() {
+      $('.form').show();
+      $('.results').hide();
+    })
+
+    $(document).on('click','table tbody tr',function(ev){
+      target = $(ev.currentTarget)
+      data = target.data('info')
+      $('.form').hide()
+      $('.results').show()
+      $('.results #co2').html(data.co2)
+      $('.results #co2').html(data.co2)
+      $('.needle')[0].dataset.angle = (data.score * 180) - 90
+      $('.needle').trigger('update-angle')
+    })
+
+    $('form').on('update', function(e) {
+      make = $('#make').val()
+      model = $('#model').val()
+      year = $('#year').val()
+      fuel = $('#fuel').val()
+      engine = $('#engine').val()
+
+      $.ajax({
+        url: '/data',
+        data: {make: make, model: model, year: year, fuel: fuel, engine: engine},
+        success: function(data) {
+          console.log(data)
+          $('#cars tbody').html('')
+          data.forEach(function(el) {
+            $('#cars tbody').append($('#cars .template')[0].outerHTML)
+            $('#cars tbody tr:last-of-type').data('info', el)
+            $('#cars tbody tr:last-of-type .make-value').html(el.make)
+            $('#cars tbody tr:last-of-type .model-value').html(el.model)
+            $('#cars tbody tr:last-of-type .year-value').html(el.year)
+            $('#cars tbody tr:last-of-type .engine-value').html(el.engine.toFixed(1) + ' ' + el.fuel)
+            $('#cars tbody tr:last-of-type .co2-value').html(el.co2 + ' g/km')
+            $('#cars tbody tr:last-of-type .indicator').css('background', chroma.mix('#2ff535', '#f52f2f',el.score).hex())
+
+          });
+        }
+      });
     });
   });
 </script>
+
+<style>
+  body {
+    background-color: #1d203b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    margin: 10% 0;
+    align-items: center;
+  }
+
+  .card {
+    width: 60vw;
+  }
+
+  .results, .no-data {
+    display: none;
+  }
+
+  .header {
+    padding: 1rem;
+    margin: 0 0 2rem 0;
+
+    background: #f2f2f2;
+  }
+
+  .content {
+    display: flex;
+  }
+
+
+  .mask {
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    overflow: hidden;
+
+    display: block;
+    width: 20rem;
+    height: 10rem;
+  }
+
+  .semi-circle {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 20rem;
+    height: 10rem;
+
+    background: linear-gradient(to right, #1abc9c 0%, #f1c40f 50%, #c0392b 100%);
+
+    border-radius: 50% 50% 50% 50% / 100% 100% 0% 0% ;
+  }
+
+  .semi-circle::before {
+    content: "";
+    z-index: -1;
+
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+
+    display: block;
+    width: 14rem;
+    height: 7rem;
+    margin-left: -7rem;
+    background: #fff;
+
+    border-radius: 50% 50% 50% 50% / 100% 100% 0% 0% ;
+  }
+
+  .needle {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 1rem 9rem 1rem;
+    border-color: transparent transparent #1d203b transparent;
+    margin-left: 9rem;
+    transform-origin: bottom;
+    transition: 1s;
+    transform: rotate(-90deg)
+  }
+
+  .center {
+    width: 2rem;
+    height: 2rem;
+    background: #1d203b;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 9rem;
+  }
+
+  .indicator {
+    width: 1rem;
+    height: 1rem;
+    background: #1d203b;
+    border-radius: 50%;
+  }
+
+</style>

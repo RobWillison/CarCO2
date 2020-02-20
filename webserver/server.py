@@ -6,13 +6,13 @@ from flask import request
 def connection():
     return pymysql.connect(host='localhost',
                                  user='root',
-                                 password='',
+                                 password='password',
                                  db='vehicle_emissions',
                                  charset='utf8mb4',
                                  cursorclass=pymysql.cursors.DictCursor)
 
 def find_range(range):
-    return {'1.2':'1100cc to 1199cc', '1.3':'1200cc to 1299cc', '1.4':'1300cc to 1399cc'}[str(range)]
+    return {'1.2':'1100cc to 1199cc', '1.3':'1200cc to 1299cc', '1.4':'1300cc to 1399cc', '1.5':'1400cc to 1499cc', '1.6':'1500cc to 1599cc'}[str(range)]
 
 app = Flask(__name__)
 
@@ -34,25 +34,61 @@ def make():
 def model():
     cursor = connection().cursor()
     term = request.args['q']
-    make, model, year, fuel, engine = term.split('///')
+    make, model = term.split('///')
 
-    cursor.execute('SELECT cars.make, cars.model FROM cars INNER JOIN car_counts ON car_counts.car_id = cars.id WHERE cars.make = %s AND cars.description LIKE %s AND cars.first_license_year = %s AND cars.fuel_type = %s AND `' + find_range(engine) + '` > 0 GROUP BY cars.model', (make, '%' + model + '%', year, fuel))
-    models = [row['model'].replace(row['make'], '').strip() for row in cursor.fetchall()]
+    cursor.execute('SELECT cars.make, cars.model FROM cars WHERE cars.make = %s AND cars.description LIKE %s GROUP BY cars.model', (make, '%' + model + '%'))
+
+    models = [row['model'] for row in cursor.fetchall()]
     cursor.close()
     return jsonify(models)
+
+@app.route('/engine')
+def engine():
+    cursor = connection().cursor()
+    term = request.args['q']
+    make, model, year, fuel, term = term.split('///')
+
+    cursor.execute('SELECT engine_size_max as size FROM cars INNER JOIN versions ON cars.id = car_id WHERE make = %s AND model LIKE %s AND fuel_type = %s AND first_license_year = %s AND co2 IS NOT NULL GROUP BY engine_size_max', (make, '%' + model + '%', fuel, year))
+    print(cursor._last_executed)
+    sizes = [int(row['size'] + 1) / 1000.0 for row in cursor.fetchall()]
+    cursor.close()
+    return jsonify(sizes)
 
 @app.route('/data')
 def data():
     data = request.args
+    print(data)
+    sql_params = []
+    conditions = []
+
+    if data['make']:
+        conditions.append('make = %s')
+        sql_params.append(data['make'])
+    if data['model']:
+        conditions.append('model LIKE %s')
+        sql_params.append('%' + data['model'] + '%')
+    if data['year']:
+        conditions.append('first_license_year = %s')
+        sql_params.append(data['year'])
+    if data['fuel']:
+        conditions.append('fuel_type = %s')
+        sql_params.append(data['fuel'])
+    if data['engine']:
+        conditions.append('engine_size_min < %s AND engine_size_max > %s')
+        sql_params.append((float(data['engine']) * 1000) -2)
+        sql_params.append((float(data['engine']) * 1000) -2)
+    print(conditions)
+
+    sql = 'SELECT make, model, first_license_year, engine_size_max, fuel_type, co2, count FROM versions INNER JOIN cars ON cars.id = car_id WHERE co2 IS NOT NULL AND ' + ' AND '.join(conditions) + ' ORDER BY co2 ASC LIMIT 10'
+
     cursor = connection().cursor()
-    cursor.execute('SELECT * FROM dataset WHERE `Manufacturer` = %s AND `Model` LIKE %s AND year = %s AND `Engine Capacity` BETWEEN %s AND %s AND `Fuel Type` = %s', (data['make'], '%' + data['model'] + '%', data['year'], (float(data['engine']) * 1000) - 50, (float(data['engine']) * 1000) + 50, data['fuel']))
-    co2 = [row['CO2 g/km'] for row in cursor.fetchall()]
-    cursor.execute('SELECT car_counts.`' + find_range(data['engine']) + '` as total FROM cars INNER JOIN car_counts ON car_counts.car_id = cars.id WHERE cars.make = %s AND cars.model LIKE %s AND cars.first_license_year = %s AND cars.fuel_type = %s AND `' + find_range(data['engine']) + '` > 0', (data['make'], '%' + data['model'] + '%', data['year'], data['fuel']))
-    total = [row['total'] for row in cursor.fetchall()]
-    print(total)
-    data = {}
-    data['co2'] = int(sum([int(c) for c in co2]) / len(co2))
-    data['total'] = int(sum([int(t) for t in total]) / len(total))
+    cursor.execute(sql, sql_params)
+
+    print(cursor._last_executed)
+
+    results = cursor.fetchall()
+    data = [{'co2': r['co2'], 'count': r['count'], 'make': r['make'], 'model': r['model'], 'year': r['first_license_year'], 'engine': (r['engine_size_max'] + 1) / 1000, 'fuel': r['fuel_type'], 'score': min(((r['co2'] - 80) / 160.0), 1)} for r in results]
+
     cursor.close()
 
     return jsonify(data)
